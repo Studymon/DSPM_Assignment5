@@ -114,8 +114,45 @@ and `latitude` of the venues to a data frame.
 </div>
 
 ```{r}
+# looking at the structure above, we see how to access each of these elements
+
+# store number of results per page in n
+n <- firstVenues[["page"]]$size
+
+# initiate df
+firstVenues_df <- tibble(
+  name = character(n),
+  city = character(n),
+  postalCode = double(n),
+  address = character(n),
+  url = character(n),
+  longitude = double(n),
+  latitude = double(n),
+)
+
+# retrieve information by iterating over all entries of page
+for (i in 1:n){
+  # name
+  firstVenues_df[i,1] <- firstVenues[["_embedded"]][["venues"]][[i]]$name
+  # city
+  firstVenues_df[i,2] <- firstVenues[["_embedded"]][["venues"]][[i]]$city %>% unlist()
+  # postal code
+  firstVenues_df[i,3] <- firstVenues[["_embedded"]][["venues"]][[i]]$postalCode %>% as.double()
+  # address
+  firstVenues_df[i,4] <- firstVenues[["_embedded"]][["venues"]][[i]]$address %>% unlist()
+  # url
+  firstVenues_df[i,5] <- firstVenues[["_embedded"]][["venues"]][[i]]$url
+  # longitude
+  firstVenues_df[i,6] <- firstVenues[["_embedded"]][["venues"]][[i]]$location$longitude %>% as.double()
+  # latitude
+  firstVenues_df[i,7] <- firstVenues[["_embedded"]][["venues"]][[i]]$location$latitude %>% as.double()
+}
+
+as.data.frame(t(firstVenues_df))
 
 ```
+
+&rarr; The dataframe looks as intended. There is one row for each entry (i.e. each venue), so 20 in total, and 7 columns for the venue properties we wanted to extract. Note that (only for displaying the data frame here) it was transposed.
 
 ***
 
