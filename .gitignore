@@ -1,3 +1,6 @@
+# Ignore files containing API keys (stored in subdirectory)
+api_keys/
+
 # History files
 .Rhistory
 .Rapp.history
