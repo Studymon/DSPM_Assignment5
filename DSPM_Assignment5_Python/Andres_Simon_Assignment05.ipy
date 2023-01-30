@@ -10,8 +10,32 @@ import pandas as pd
 import requests
 import time
 
+# source the ticketmaster key from separate script
+with open("./api_keys_py/tm_key.py") as script:
+  exec(script.read())
 
 # (07) Perform the first GET request ------------------------------------------
+
+# make request
+firstVenues = requests.get("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                           params = {"apikey": tm_key,
+                                     "countryCode": "DE",
+                                     "locale": "*"}).json()
+
+# look at page contents
+firstVenues.get("page")
+
+# extract total number of results
+n = firstVenues["page"]["totalElements"]
+n
+# ## 12935
+
+# results per page
+firstVenues["page"]["size"]
+# ## 20
+
+# look at first elements embedded in subdict
+firstVenues["_embedded"]["venues"][0]
 
 
 # (08) Extract specific information of first GET request ----------------------
