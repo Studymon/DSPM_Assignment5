@@ -116,22 +116,22 @@ and `latitude` of the venues to a data frame.
 ```{r}
 # looking at the structure above, we see how to access each of these elements
 
-# store number of results per page in n
-n <- firstVenues[["page"]]$size
+# store number of results per page in n_perPage
+n_perPage <- firstVenues[["page"]]$size
 
 # initiate df
 firstVenues_df <- tibble(
-  name = character(n),
-  city = character(n),
-  postalCode = double(n),
-  address = character(n),
-  url = character(n),
-  longitude = double(n),
-  latitude = double(n),
+  name = character(n_perPage),
+  city = character(n_perPage),
+  postalCode = double(n_perPage),
+  address = character(n_perPage),
+  url = character(n_perPage),
+  longitude = double(n_perPage),
+  latitude = double(n_perPage),
 )
 
 # retrieve information by iterating over all entries of page
-for (i in 1:n){
+for (i in 1:n_perPage){
   # name
   firstVenues_df[i,1] <- firstVenues[["_embedded"]][["venues"]][[i]]$name
   # city
@@ -159,12 +159,114 @@ as.data.frame(t(firstVenues_df))
 ### Interacting with the API - advanced
 
 <div class="alert alert-block alert-info">
-9. 
+9. Have a closer look at the list element named `page`. Did your `GET` request from exercise (7) return *all*
+event locations in Germany? Obviously not - there are of course much more venues in Germany than
+those contained in this list. Your `GET` request only yielded the first results page containing the first
+20 out of several thousands of venues. Check the API documentation under the section *Venue Search*.
+How can you request the venues from the remaining results pages? Iterate over the results pages and
+perform `GET` requests for all venues in Germany. After each iteration, extract the seven variables `name`,
+`city`, `postalCode`, `address`, `url`, `longitude`, and `latitude`. Join the information in one large
+data frame. Print the first 10 rows and the shape of the resulting data frame.
 </div>
 
 ```{r}
+# make first request
+firstVenues <- GET("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                     query = list(
+                        apikey = tm_key,
+                       "countryCode" = "DE",
+                       "locale" = "*",
+                       "page" = 177)
+                   )
 
+# make unicode readable
+firstVenues <- content(firstVenues)
+
+# store number of total results in n
+n <- firstVenues[["page"]]$totalElements
+
+# store number of pages in n_pages
+n_pages <- firstVenues[["page"]]$totalPages
+
+# initiate df collecting all venues in Germany
+venuesGER <- tibble(
+  name = character(n),
+  city = character(n),
+  postalCode = double(n),
+  address = character(n),
+  url = character(n),
+  longitude = double(n),
+  latitude = double(n),
+)
+
+x = 1
+faultyPages <- 0
+
+# Loop
+for (i in 1:n_pages) {
+  
+  # enforce rate limit
+  Sys.sleep(0.2)
+  
+  # store results of each page temporarily
+  tempResults <- GET("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                     query = list(
+                        apikey = tm_key,
+                       "countryCode" = "DE",
+                       "locale" = "*",
+                       "page" = i-1)
+                   )
+  # check the status code
+  if (status_code(tempResults) != 200) {
+    
+    # adjust current row in df, add to faultyPages counter
+    x <- x + 1
+    faultyPages <- faultyPages + 1
+    
+    # skip the current iteration of the for loop
+    next
+  }
+  
+  tempResults <- content(tempResults)
+  
+  for (j in 1:tempResults[["page"]]$size) {
+    # name
+    venuesGER[x,1] <- tempResults[["_embedded"]][["venues"]][[j]]$name
+    # city
+    venuesGER[x,2] <-
+      ifelse("city" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
+             tempResults[["_embedded"]][["venues"]][[j]]$city %>% unlist(),
+             NA) 
+    # postal code (missing for some --> NA)
+    venuesGER[x,3] <-
+      ifelse("postalCode" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
+             tempResults[["_embedded"]][["venues"]][[j]]$postalCode %>% as.double(),
+             NA)    
+    # address (missing for some --> NA)
+    venuesGER[x,4] <-
+      ifelse("address" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
+             tempResults[["_embedded"]][["venues"]][[j]]$address %>% unlist(),
+             NA)
+    # url
+    venuesGER[x,5] <- tempResults[["_embedded"]][["venues"]][[j]]$url
+    
+    # longitude and latitude is missing for many venues, so give NA accordingly
+    if("location" %in% names(tempResults[["_embedded"]][["venues"]][[j]])) {
+      venuesGER[x,6] <- tempResults[["_embedded"]][["venues"]][[j]]$location$longitude %>% as.double()
+      venuesGER[x,7] <- tempResults[["_embedded"]][["venues"]][[j]]$location$latitude %>% as.double() 
+    } 
+    else {
+      venuesGER[x,6] <- NA
+      venuesGER[x,7] <- NA
+    }
+    
+    # jump to next row in results df
+    x = x + 1
+  }
+  
+}
 ```
+
 
 ***
 
