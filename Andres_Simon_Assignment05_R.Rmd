@@ -261,9 +261,6 @@ for (i in 1:n_pages) {
   
 }
 
-# We are losing a bit over 200 rows out of the 12934. This is partially due to
-# the three faulty rows ()
-
 # Export
 write_csv(venuesGER, "./venuesGER.csv")
 
@@ -329,6 +326,157 @@ ggplot() +
 12. Repeat exercises (9) - (11) for another European country of your choice.
 </div>
 
-```{r}
+```{r, eval=FALSE}
 
+# make single request
+firstVenues_DK <- GET("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                     query = list(
+                        apikey = tm_key,
+                       "countryCode" = "DK",
+                       "locale" = "*")
+                   )
+
+# make unicode readable
+firstVenues_DK <- content(firstVenues_DK)
+# store number of total results in n
+n_DK <- firstVenues_DK[["page"]]$totalElements
+
+# store number of pages in n_pages
+n_pages_DK <- firstVenues_DK[["page"]]$totalPages
+
+# initiate df collecting all venues in Denmark
+venuesDK <- tibble(
+  name = character(n_DK),
+  city = character(n_DK),
+  postalCode = double(n_DK),
+  address = character(n_DK),
+  url = character(n_DK),
+  longitude = double(n_DK),
+  latitude = double(n_DK),
+)
+
+x = 1
+faultyPages <- 0
+
+# Loop
+for (i in 1:n_pages_DK) {
+  
+  # enforce rate limit
+  Sys.sleep(0.2)
+  
+  # store results of each page temporarily
+  tempResults <- GET("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                     query = list(
+                        apikey = tm_key,
+                       "countryCode" = "DK",
+                       "locale" = "*",
+                       "page" = i-1)
+                   )
+  # check the status code
+  if (status_code(tempResults) != 200) {
+    
+    # adjust current row in df, add to faultyPages counter
+    x <- x + 1
+    faultyPages <- faultyPages + 1
+    
+    # skip the current iteration of the for loop
+    next
+  }
+  
+  tempResults <- content(tempResults)
+  
+  for (j in 1:tempResults[["page"]]$size) {
+    
+    # name
+    venuesDK[x,1] <- tempResults[["_embedded"]][["venues"]][[j]]$name
+    
+    # city
+    venuesDK[x,2] <-
+      ifelse("city" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
+             tempResults[["_embedded"]][["venues"]][[j]]$city %>% unlist(),
+             NA) 
+    
+    # postal code (missing for some --> NA)
+    venuesDK[x,3] <-
+      ifelse("postalCode" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
+             tempResults[["_embedded"]][["venues"]][[j]]$postalCode %>% as.double(),
+             NA) 
+    
+    # address (missing for some --> NA)
+    venuesDK[x,4] <-
+      ifelse(
+        "address" %in% names(tempResults[["_embedded"]][["venues"]][[j]]) &
+          tempResults[["_embedded"]][["venues"]][[1]]$address %>% unlist() %>% is.character(),
+        tempResults[["_embedded"]][["venues"]][[j]]$address %>% unlist(),
+        NA
+      )
+    
+    # url
+    ifelse("url" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
+           venuesDK[x,5] <- tempResults[["_embedded"]][["venues"]][[j]]$url,
+           venuesDK[x,5] <- NA)
+    
+    # longitude and latitude is missing for many venues, so give NA accordingly
+    if("location" %in% names(tempResults[["_embedded"]][["venues"]][[j]])) {
+      venuesDK[x,6] <- tempResults[["_embedded"]][["venues"]][[j]]$location$longitude %>% as.double()
+      venuesDK[x,7] <- tempResults[["_embedded"]][["venues"]][[j]]$location$latitude %>% as.double() 
+    } 
+    else {
+      venuesDK[x,6] <- NA
+      venuesDK[x,7] <- NA
+    }
+    
+    # jump to next row in results df
+    x = x + 1
+  }
+  
+}
+
+# 5 faulty pages
+
+# Export
+write_csv(venuesDK, "./venuesDK.csv")
+```
+
+We lose 4484 - 4340 = 144 rows (3.2%).
+100 missing rows are due to faulty pages (faultyPages = 5)
+
+```{r, warning = FALSE, message = FALSE}
+# read in the previously exported venuesDK data
+venuesDK <- read_csv("./venuesDK.csv")
+
+```
+
+```{r}
+# NA count prior
+is.na(venuesDK$longitude) %>% sum()
+
+```
+
+```{r}
+# first, give the faulty coordinates NA's
+faulty_coordinatesDK <- venuesDK$longitude < 8.0725 | venuesDK$longitude > 15.1972 |
+                        venuesDK$latitude < 54.5833 | venuesDK$latitude > 57.7525
+
+# set invalid coordinates to NA
+venuesDK$longitude[faulty_coordinatesDK] <- NA
+venuesDK$latitude[faulty_coordinatesDK] <- NA
+
+# NA count after
+is.na(venuesDK$longitude) %>% sum()
+```
+
+We removed 177 observations with faulty coordinates
+
+```{r}
+# adjust plot (add points and format)
+ggplot() +
+  borders("world", "Denmark", colour = "black", fill = "grey90") +
+  theme_void() +
+  coord_quickmap() +
+  geom_point(data = venuesDK, aes(x = longitude, y = latitude), color = "red", shape = 21, size = 1, alpha = 0.5) +
+  labs(title = "Event locations across Denmark",
+       caption = "Source: ticketmaster.com") +
+  theme(title = element_text(size=8, face='bold'),
+        plot.caption = element_text(face = "italic"))
 ```
