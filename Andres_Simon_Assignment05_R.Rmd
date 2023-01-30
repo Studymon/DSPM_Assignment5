@@ -482,7 +482,7 @@ venuesDK$latitude[faulty_coordinatesDK] <- NA
 is.na(venuesDK$longitude) %>% sum()
 ```
 
-We removed 38 (39 - 1) observations with faulty coordinates
+We removed 38 (39 - 1) observations with faulty coordinates.
 
 ```{r}
 # adjust plot (add points and format)
