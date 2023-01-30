@@ -1,0 +1,26 @@
+# Preparations
+
+# Clear workspace
+%reset -f
+
+# Import os module and other packages
+import os
+import numpy as np
+import pandas as pd
+import requests
+import time
+
+
+# (07) Perform the first GET request ------------------------------------------
+
+
+# (08) Extract specific information of first GET request ----------------------
+
+
+# (09) Advanced GET request ---------------------------------------------------
+
+
+# (10) + (11) Visualization Germany -------------------------------------------
+
+
+# (13) Repeat (09) - (11) for another European Country (my choice: Denmark) ---
