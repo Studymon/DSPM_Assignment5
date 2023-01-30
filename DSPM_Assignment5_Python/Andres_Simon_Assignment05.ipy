@@ -31,7 +31,7 @@ n
 # ## 12935
 
 # results per page
-firstVenues["page"]["size"]
+n_perPage = firstVenues["page"]["size"]
 # ## 20
 
 # look at first elements embedded in subdict
@@ -39,6 +39,35 @@ firstVenues["_embedded"]["venues"][0]
 
 
 # (08) Extract specific information of first GET request ----------------------
+
+# easier to not always refer to a nested list within a nested dict
+onlyVenues = firstVenues["_embedded"]["venues"]
+
+# initiate df
+firstVenues_df = pd.DataFrame(columns=["name",
+                                       "city",
+                                       "postalCode",
+                                       "address",
+                                       "url",
+                                       "longitude",
+                                       "latitude"],
+                              index=range(n_perPage))
+
+
+for i, venue in enumerate(onlyVenues):
+    name = venue["name"]
+    city = venue["city"]["name"]
+    postalCode = venue["postalCode"]
+    address = venue["address"]["line1"]
+    url = venue["url"]
+    longitude = venue["location"]["longitude"]
+    latitude = venue["location"]["latitude"]
+
+    firstVenues_df.iloc[i] = [name, city, postalCode, address, url, longitude, latitude]
+    
+    
+print(firstVenues_df)
+# looks good
 
 
 # (09) Advanced GET request ---------------------------------------------------
@@ -48,3 +77,17 @@ firstVenues["_embedded"]["venues"][0]
 
 
 # (13) Repeat (09) - (11) for another European Country (my choice: Denmark) ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
