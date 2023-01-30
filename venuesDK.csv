@@ -373,7 +373,7 @@ Ved Hallen,Vinderup,7830,ved Hallen,https://www.ticketmaster.dk/venue/ved-hallen
 Dannebrogpladsen,Ulstrup,8866,Dannebrogpladsen,https://www.ticketmaster.dk/venue/dannebrogpladsen-ulstrup-billetter/c25/203,9.79186,56.38884
 Ved Safari Caravan,Struer,7600,"Holstebrovej, Gimsing",https://www.ticketmaster.dk/venue/ved-safari-caravan-struer-billetter/c22/203,8.58395,56.47943
 Centervej,Lystrup,8520,Centervej,https://www.ticketmaster.dk/venue/centervej-lystrup-billetter/c41/203,10.23357,56.23656
-Byparken,Auning,8963,Byparken,https://www.ticketmaster.dk/venue/byparken-auning-billetter/c38/203,-70.80388,43.97034
+Byparken,Auning,8963,Byparken,https://www.ticketmaster.dk/venue/byparken-auning-billetter/c38/203,NA,NA
 Strandvejen,Ebeltoft,8400,Strandvejen,https://www.ticketmaster.dk/venue/festpladsen-v-strandvejen-ebeltoft-billetter/c40/203,10.67431,56.19737
 Gl. Sporstplads,Ørsted,8950,Gl. Sportsplads,https://www.ticketmaster.dk/venue/gl-sporstplads-rsted-billetter/c37/203,10.33593,56.50173
 Cirkuspladsen,Kolind,8560,Cirkuspladsen,https://www.ticketmaster.dk/venue/cirkuspladsen-kolind-billetter/c39/203,9.556,56.102
@@ -403,12 +403,12 @@ Ved Idrættens Hus,Vejle,7100,Willy Sørensens Plads 5,https://www.ticketmaster.
 BUEN,Brædstrup,8740,BUEN,https://www.ticketmaster.dk/venue/buen-braedstrup-billetter/c04/203,9.60716,55.97706
 DENMARK,Henne,6854,Strandvejen 234,https://www.ticketmaster.be/venue/denmark-henne-tickets/hen/101,8.241788,55.726604
 DENMARK,København K,NA,Strandgade 93,https://www.ticketmaster.be/venue/denmark-kobenhavn-k-tickets/nom/101,12.59633,55.677939
-Atletion Stadion DK,Aarhus C,8000,Stadion Alle 70,https://www.ticketmaster.no/venue/atletion-stadion-dk-aarhus-c-billetter/atl/3,10.74998,59.91228
-FNB Stadium,Johannesburg,12345,NA,https://www.google.dk/,27.9804667,26.2347521
-DHL Stadium,Cape Town,12345,NA,https://www.google.dk/,18.410253,33.90504
-Grand Arena at GrandWest,Cape Town,12345,NA,https://www.google.dk/,18.410253,33.90504
-SunBet Arena Time Square,Pretoria,12345,NA,https://www.google.dk/,18.410253,33.90504
-Cape Town Stadium,Cape Town,12345,NA,https://www.google.dk/,18.410253,33.90504
+Atletion Stadion DK,Aarhus C,8000,Stadion Alle 70,https://www.ticketmaster.no/venue/atletion-stadion-dk-aarhus-c-billetter/atl/3,NA,NA
+FNB Stadium,Johannesburg,12345,NA,https://www.google.dk/,NA,NA
+DHL Stadium,Cape Town,12345,NA,https://www.google.dk/,NA,NA
+Grand Arena at GrandWest,Cape Town,12345,NA,https://www.google.dk/,NA,NA
+SunBet Arena Time Square,Pretoria,12345,NA,https://www.google.dk/,NA,NA
+Cape Town Stadium,Cape Town,12345,NA,https://www.google.dk/,NA,NA
 Livestream,Copenhagen,12345,NA,https://www.google.dk/,11.987505,57.705909
 MEAS infra test,København NV,NA,NA,https://www.ticketmaster.fi/venue/meas-test-kobenhavn-nv-lippuja/meas/303,9.556,56.102
 Østergades Forsamlingshus,Middelfart,5500,Østergade 33,https://www.ticketmaster.dk/venue/stergades-forsamlingshus-middelfart-billetter/ofh/203,9.73931,55.50374
@@ -454,7 +454,7 @@ Restaurant Friheden,Aarhus C,8000,Skovbrynet 5,https://www.ticketmaster.dk/venue
 Galleri7,Frederikshavn,9900,Silovej 8,https://www.ticketmaster.dk/venue/galleri7-frederikshavn-billetter/glr/203,10.54519,57.43891
 Greve Gymnasium,Greve,2670,Rådhusholmen 12,https://www.ticketmaster.dk/venue/greve-gymnasium-greve-billetter/ggg/275,12.29017,55.583
 Højmark Forsamlingshus & Haller,Lem St,6940,"Adelvej 41, Højmark",https://www.ticketmaster.dk/venue/hojmark-forsamlingshus--haller-lem-st-billetter/hfh/203,8.40497,56.05258
-Restaurant Terrassen,Aarhus C,8000,Skovbrynet 5,https://www.ticketmaster.dk/venue/restaurant-terrassen-aarhus-c-billetter/ret/281,-0.12759,51.50341
+Restaurant Terrassen,Aarhus C,8000,Skovbrynet 5,https://www.ticketmaster.dk/venue/restaurant-terrassen-aarhus-c-billetter/ret/281,NA,NA
 Espelunden,Rødovre,2610,Rødovre Parkvej 501,https://www.ticketmaster.dk/venue/espelunden-rodovre-billetter/epl/203,12.43292,55.67588
 Restaurant Bellahøj,Brønshøj,2700,Bellahøjvej 20,https://www.ticketmaster.dk/venue/restaurant-bellahoj-bronshoj-billetter/rbe/203,12.51078,55.70201
 Hotel Odeon,Odense C,5000,Odeons Kvarter 11,https://www.ticketmaster.dk/venue/hotel-odeon-odense-c-billetter/hdt/259,10.38986,55.39706
@@ -656,7 +656,7 @@ Faaborg Museum,Faaborg,5600,Grønnegade 75,https://www.ticketmaster.dk/venue/faa
 Musikteatret Holstebro,Holstebro,7500,Den Røde Plads 16,https://www.ticketmaster.dk/venue/musikteatret-holstebro-holstebro-billetter/mth/194,8.61632,56.35659
 Stigsborg Brygge,Nørresundby,9400,NA,https://www.ticketmaster.dk/venue/stigsborg-brygge-norresundby-billetter/sye/203,9.93642,57.05523
 Musikstalden,Næstved,4700,Grønnegade 10,https://www.ticketmaster.dk/venue/musikstalden-naestved-billetter/msd/203,11.7611,55.23193
-Sct. Jørgens Kirke,Næstved,4700,Parkvej 101,https://www.ticketmaster.dk/venue/sct-jorgens-kirke-naestved-billetter/sao/203,55.21118,11.76624
+Sct. Jørgens Kirke,Næstved,4700,Parkvej 101,https://www.ticketmaster.dk/venue/sct-jorgens-kirke-naestved-billetter/sao/203,NA,NA
 Lalandia,Billund,7190,Bellehammers Allé 3,https://www.ticketmaster.dk/venue/lalandia-billund-billetter/lll/203,12.56834,55.6761
 Ølgod,Klampenborg,2930,Dyrehavsbakken telt 2,https://www.ticketmaster.dk/venue/lgod-klampenborg-billetter/ogd/203,12.57777,55.77522
 "235, Bistro & Natklub",Charlottenlund,2920,Strandvejen 235,https://www.ticketmaster.dk/venue/235-bistro--natklub-charlottenlund-billetter/235/203,12.58639,55.74936
@@ -827,7 +827,7 @@ Bymuseet,Aarhus C,8000,Carl Blochs Gade 28,https://www.ticketmaster.dk/venue/bym
 Aabenraa Svømme-og Idrætscenter,Aabenraa,6200,Hjelmalle 3,https://www.ticketmaster.dk/venue/aabenraa-svomme-og-idraetscenter-aabenraa-billetter/asi/203,9.41033,55.03933
 Valby Hallen,Valby,2500,Julius Andersens Vej 3,https://www.ticketmaster.dk/venue/valby-hallen-valby-billetter/val/302,12.51648,55.64939
 København Håndbold,Frederiksberg,2000,Frederiksberg Hallerne,https://www.ticketmaster.dk/venue/kobenhavn-handbold-frederiksberg-billetter/khd/302,12.51794,55.68185
-Hotel Limfjord,Thisted,7700,Simons Bakke 39,https://www.ticketmaster.dk/venue/hotel-limfjord-thisted-billetter/hli/203,56.94365,56.94365
+Hotel Limfjord,Thisted,7700,Simons Bakke 39,https://www.ticketmaster.dk/venue/hotel-limfjord-thisted-billetter/hli/203,NA,NA
 Natklubben,Rødovre,2610,Roskildevej 244,https://www.ticketmaster.dk/venue/natklubben-rodovre-billetter/nkl/203,12.47369,55.67287
 Østergaards Hotel,Herning,7400,Silkeborgvej 94,https://www.ticketmaster.dk/venue/stergaards-hotel-herning-billetter/osg/203,8.99631,56.13423
 Staten Naturhistoriske Museum,København K,1350,Øster Voldgade 5-7,https://www.ticketmaster.dk/venue/staten-naturhistoriske-museum-kobenhavn-k-billetter/shi/203,12.57711,55.68719
@@ -943,22 +943,22 @@ Scandic Roskilde,Roskilde,4000,Ved Ringen 2,https://www.ticketmaster.dk/venue/sc
 Hjørring - Halvorsmindevej,Hjørring,9800,NA,https://www.ticketmaster.dk/venue/hjorring-halvorsmindevej-hjorring-billetter/hhm/203,9.9682,57.46559
 "Vejle, v/DGI Huset",Vejle,7100,NA,https://www.ticketmaster.dk/venue/vejle-v-dgi-huset-vejle-billetter/vgh/203,9.52582,55.70678
 Skive - Dyrskuepladsen,Skive,7800,NA,https://www.ticketmaster.dk/venue/skive-dyrskuepladsen-skive-billetter/sdy/203,9.02119,56.55695
-Amfiscenen i Bregninge,Eskebjerg,4593,NA,https://www.ticketmaster.dk/venue/amfiscenen-i-bregninge-eskebjerg-billetter/amv/203,11.30956,55.6851
-Vallensbæk Skole,Vallensbæk,2625,NA,https://www.ticketmaster.dk/venue/vallensbaek-skole-vallensbaek-billetter/vsa/203,12.36924,55.63215
-Toldboden,København K,1250,NA,https://www.ticketmaster.dk/venue/toldboden-kobenhavn-k-billetter/tlb/203,12.59983,55.69025
-Egholmskolen,Vallensbæk Strand,2665,NA,https://www.ticketmaster.dk/venue/egholmskolen-vallensbaek-strand-billetter/egl/203,12.38974,55.62092
-"Ideal Bar, VEGA - Musikkens Hus",København V,1674,NA,https://www.ticketmaster.dk/venue/ideal-bar-vega-musikkens-hus-kobenhavn-v-billetter/vei/297,12.54424,55.66799
-Borgerforeningens Hus,Nyborg,5800,NA,https://www.ticketmaster.dk/venue/borgerforeningens-hus-nyborg-billetter/bfo/203,10.79704,55.31091
-Nr. Vosborg,Vemb,7570,NA,https://www.ticketmaster.dk/venue/nr-vosborg-vemb-billetter/nrv/214,8.33119,56.32664
-Scandic Kolding,Kolding,6000,NA,https://www.ticketmaster.dk/venue/scandic-kolding-kolding-billetter/hts/203,9.47071,55.53145
-Hodsager Multicenter,Aulum,7490,NA,https://www.ticketmaster.dk/venue/hodsager-multicenter-aulum-billetter/hmu/214,8.86448,56.32112
-Vildbjerg Skole,Vildbjerg,7480,NA,https://www.ticketmaster.dk/venue/vildbjerg-skole-vildbjerg-billetter/vjg/214,8.74792,56.18769
-Restaurant Landsbyen,Sakskøbing,4990,NA,https://www.ticketmaster.dk/venue/restaurant-landsbyen-sakskobing-billetter/rel/203,11.57643,54.79167
-Aulum Fritidscenter,Aulum,7490,NA,https://www.ticketmaster.dk/venue/aulum-fritidscenter-aulum-billetter/auf/214,8.79981,56.26574
-Vigsø FerieCenter,Hanstholm,7730,NA,https://www.ticketmaster.dk/venue/vigso-feriecenter-hanstholm-billetter/vfc/203,8.7141,57.0943
-Sdr. Felding Hallen,Sønder Felding,7280,NA,https://www.ticketmaster.dk/venue/sdr-felding-hallen-sonder-felding-billetter/sdr/214,8.78714,55.94441
+Amfiscenen i Bregninge,Eskebjerg,4593,"Amfivej 1, Bregninge",https://www.ticketmaster.dk/venue/amfiscenen-i-bregninge-eskebjerg-billetter/amv/203,11.30956,55.6851
+Vallensbæk Skole,Vallensbæk,2625,Idræts Allé 5,https://www.ticketmaster.dk/venue/vallensbaek-skole-vallensbaek-billetter/vsa/203,12.36924,55.63215
+Toldboden,København K,1250,Nordre Toldbod 18,https://www.ticketmaster.dk/venue/toldboden-kobenhavn-k-billetter/tlb/203,12.59983,55.69025
+Egholmskolen,Vallensbæk Strand,2665,Egholmvej 19,https://www.ticketmaster.dk/venue/egholmskolen-vallensbaek-strand-billetter/egl/203,12.38974,55.62092
+"Ideal Bar, VEGA - Musikkens Hus",København V,1674,Enghavevej 40,https://www.ticketmaster.dk/venue/ideal-bar-vega-musikkens-hus-kobenhavn-v-billetter/vei/297,12.54424,55.66799
+Borgerforeningens Hus,Nyborg,5800,Nørrevoldgade 63,https://www.ticketmaster.dk/venue/borgerforeningens-hus-nyborg-billetter/bfo/203,10.79704,55.31091
+Nr. Vosborg,Vemb,7570,Vembvej 35,https://www.ticketmaster.dk/venue/nr-vosborg-vemb-billetter/nrv/214,8.33119,56.32664
+Scandic Kolding,Kolding,6000,Kokholm 2,https://www.ticketmaster.dk/venue/scandic-kolding-kolding-billetter/hts/203,9.47071,55.53145
+Hodsager Multicenter,Aulum,7490,Birkkjærvej 4,https://www.ticketmaster.dk/venue/hodsager-multicenter-aulum-billetter/hmu/214,8.86448,56.32112
+Vildbjerg Skole,Vildbjerg,7480,Bjørnkærvej 2,https://www.ticketmaster.dk/venue/vildbjerg-skole-vildbjerg-billetter/vjg/214,8.74792,56.18769
+Restaurant Landsbyen,Sakskøbing,4990,"Krårup Møllevej 1, Våbensted",https://www.ticketmaster.dk/venue/restaurant-landsbyen-sakskobing-billetter/rel/203,11.57643,54.79167
+Aulum Fritidscenter,Aulum,7490,Markedspladsen 10,https://www.ticketmaster.dk/venue/aulum-fritidscenter-aulum-billetter/auf/214,8.79981,56.26574
+Vigsø FerieCenter,Hanstholm,7730,Vigsøvej 300,https://www.ticketmaster.dk/venue/vigso-feriecenter-hanstholm-billetter/vfc/203,8.7141,57.0943
+Sdr. Felding Hallen,Sønder Felding,7280,Lupinvænget 2,https://www.ticketmaster.dk/venue/sdr-felding-hallen-sonder-felding-billetter/sdr/214,8.78714,55.94441
 Diverse,København C,NA,NA,https://www.ticketmaster.dk/venue/diverse-kobenhavn-c-billetter/div/200,12.53095,55.6226
-Herning Teater,Herning,7400,NA,https://www.ticketmaster.dk/venue/herning-teater-herning-billetter/htm/214,8.98085,56.13567
+Herning Teater,Herning,7400,Østergade 37,https://www.ticketmaster.dk/venue/herning-teater-herning-billetter/htm/214,8.98085,56.13567
 Forum Horsens,Horsens,8700,Langmarksvej 53,https://www.ticketmaster.dk/venue/forum-horsens-horsens-billetter/fho/284,9.85588,55.87159
 Dansborgskolen,Hvidovre,2650,Sollentuna Allé 6,https://www.ticketmaster.dk/venue/dansborgskolen-hvidovre-billetter/dad/203,12.48413,55.63118
 Hall of Fame,Holstebro,7500,Den Røde Plads 16,https://www.ticketmaster.dk/venue/hall-of-fame-holstebro-billetter/hlf/232,8.61632,56.35659
@@ -1328,7 +1328,7 @@ Salling Hallen,Roslev,7870,Viumvej 8,https://www.ticketmaster.dk/venue/salling-h
 Sæby Kulturhus,Sæby,9300,Rådhuspladsen 2,https://www.ticketmaster.dk/venue/saeby-kulturhus-saeby-billetter/sae/190,10.50551,57.33374
 Torvet i Ringsted,Ringsted,4100,Nørretorv 22,https://www.ticketmaster.dk/venue/torvet-i-ringsted-ringsted-billetter/rto/203,11.78814,55.45033
 Restaurant 1. th.,København K,1052,"Herluf Trolles Gade 9, 1. th.",https://www.ticketmaster.dk/venue/restaurant-1-th-kobenhavn-k-billetter/rth/203,12.58971,55.67912
-Cirkuspladsen Ringsted,Ringsted,4100,Cirkuspladsen,https://www.ticketmaster.dk/venue/cirkuspladsen-ringsted-ringsted-billetter/rst/203,-94.50333,43.29778
+Cirkuspladsen Ringsted,Ringsted,4100,Cirkuspladsen,https://www.ticketmaster.dk/venue/cirkuspladsen-ringsted-ringsted-billetter/rst/203,NA,NA
 Roskilde Teaterforening,Roskilde,4000,Pilevej 21,https://www.ticketmaster.dk/venue/roskilde-teaterforening-roskilde-billetter/rtf/203,12.06072,55.64247
 "Riddersalen, Sønderborg Slot",Sønderborg,6400,"Riddersalen, Sønderborg Slot",https://www.ticketmaster.dk/venue/riddersalen-sonderborg-slot-sonderborg-billetter/rss/203,9.79218,54.91381
 Restaurant SilO52,København S,2300,Islands Brygge 52,https://www.ticketmaster.dk/venue/restaurant-silo52-kobenhavn-s-billetter/rsi/203,12.56539,55.65632
@@ -1552,8 +1552,8 @@ Odense Sport & Event A/S,Odense SØ,5220,Ørbækvej 350,https://www.ticketmaster
 Østerbro Stadion,København Ø,2100,Gunnar Nu Hansens Plads 7,https://www.ticketmaster.dk/venue/idraetshuset-sterbro-1-sal-kobenhavn--billetter/oet/203,12.57691,55.70465
 Onkel Dannys Plads,København V,1711,Onkel Dannys Plads 7,https://www.ticketmaster.dk/venue/onkel-dannys-plads-kobenhavn-v-billetter/odp/203,12.561,55.66999
 Øster Starup Kirke,Egtved,6040,"Starupvej, Ågard",https://www.ticketmaster.dk/venue/ster-starup-kirke-egtved-billetter/oes/203,9.44122,55.59708
-Gedser Station,Gedser,4874,Jernbanevejen 2,https://www.ticketmaster.dk/venue/gedser-station-gedser-billetter/ged/203,11.92513,54.57418
-Toldcaféen,Gedser,4874,Stationsvejen 1,https://www.ticketmaster.dk/venue/toldcafeen-gedser-billetter/ged1/203,11.92936,54.57533
+Gedser Station,Gedser,4874,Jernbanevejen 2,https://www.ticketmaster.dk/venue/gedser-station-gedser-billetter/ged/203,NA,NA
+Toldcaféen,Gedser,4874,Stationsvejen 1,https://www.ticketmaster.dk/venue/toldcafeen-gedser-billetter/ged1/203,NA,NA
 A.S.V. Skolen,Horsens,NA,Nørrebrogade 38A,https://www.ticketmaster.dk/venue/asv-skolen-horsens-billetter/sle/203,9.84521,55.87069
 Svaneke Kirke,Svaneke,NA,Kirkepladsen 1,https://www.ticketmaster.dk/venue/svaneke-kirke-svaneke-billetter/sek/203,15.14237,55.13465
 Valgmenighedskirgen,Holstebro,7500,Skolegade 29,https://www.ticketmaster.dk/venue/valgmenighedskirgen-holstebro-billetter/vlk/232,8.61383,56.36068
@@ -1840,25 +1840,25 @@ Englandsvej/Ugandavej,Kastrup,2770,NA,https://www.ticketmaster.dk/venue/englands
 Stadionallé,Rungsted Kyst,2960,Hørsholm,https://www.ticketmaster.dk/venue/stadionalle-rungsted-kyst-billetter/a084/203,12.51714,55.89514
 Skovlinien,Værløse,3500,NA,https://www.ticketmaster.dk/venue/skovlinien-vaerlose-billetter/a081/203,12.38725,55.78753
 Kollerødvej v. Falck,Allerød,3450,NA,https://www.ticketmaster.dk/venue/kollerodvej-v-falck-allerod-billetter/a083/203,12.34787,55.82171
-Solrød Idrætscenter,Solrød Strand,2680,NA,https://www.ticketmaster.dk/venue/solrod-idraetscenter-solrod-strand-billetter/a080/203,12.21437,55.53379
-Ved Farum Svømmehal,Farum,3520,NA,https://www.ticketmaster.dk/venue/ved-farum-svommehal-farum-billetter/a082/203,12.35129,55.8155
+Solrød Idrætscenter,Solrød Strand,2680,Solrød Center 1,https://www.ticketmaster.dk/venue/solrod-idraetscenter-solrod-strand-billetter/a080/203,12.21437,55.53379
+Ved Farum Svømmehal,Farum,3520,Farum Park,https://www.ticketmaster.dk/venue/ved-farum-svommehal-farum-billetter/a082/203,12.35129,55.8155
 Ved Arenavej,Holbæk,4300,NA,https://www.ticketmaster.dk/venue/ved-arenavej-holbaek-billetter/a089/203,11.73281,55.698480000000004
 Byagervej,Birkerød,3460,NA,https://www.ticketmaster.dk/venue/byagervej-birkerod-billetter/a086/203,12.42991,55.85381
 Kalvøen,Frederikssund,3600,NA,https://www.ticketmaster.dk/venue/kalvoen-frederikssund-billetter/a088/203,12.09935,55.82031
 Gøngehusvej,Vedbæk,2950,NA,https://www.ticketmaster.dk/venue/gongehusvej-vedbaek-billetter/a085/203,12.53952,55.84785
 Selskovvej v/ Stadion,Hillerød,3400,NA,https://www.ticketmaster.dk/venue/selskovvej-v-stadion-hillerod-billetter/a087/203,12.29935,55.92453
-Kongsholmparken,Albertslund,2620,NA,https://www.ticketmaster.dk/venue/kongsholmparken-albertslund-billetter/a100/203,12.34333,55.65474
+Kongsholmparken,Albertslund,2620,Kongsholm Allé,https://www.ticketmaster.dk/venue/kongsholmparken-albertslund-billetter/a100/203,12.34333,55.65474
 Nærum Vænge Torv,Nærum,2850,NA,https://www.ticketmaster.dk/venue/naerum-vaenge-torv-naerum-billetter/a102/203,12.53015,55.81459
-Høje Taastrup Rådhus,Taastrup,2630,NA,https://www.ticketmaster.dk/venue/hoje-taastrup-radhus-taastrup-billetter/a099/203,12.29547,55.66518
+Høje Taastrup Rådhus,Taastrup,2630,Halland Boulevard/Øtoftegårdsvej,https://www.ticketmaster.dk/venue/hoje-taastrup-radhus-taastrup-billetter/a099/203,12.29547,55.66518
 Ved Rødovre Centrum,Rødovre,2610,NA,https://www.ticketmaster.dk/venue/ved-rodovre-centrum-rodovre-billetter/a101/203,12.45812,55.67895
-Den gamle Teatersal Torvet Odder,Odder,8300,NA,https://www.ticketmaster.dk/venue/den-gamle-teatersal-torvet-odder-odder-billetter/dto/203,10.14709,55.97279
-Festivalpladsen,Roskilde,4000,NA,https://www.ticketmaster.dk/venue/festivalpladsen-roskilde-billetter/a105/203,12.08349,55.63033
-Ålestrup Hallen,Aalestrup,9620,NA,https://www.ticketmaster.dk/venue/alestrup-hallen-aalestrup-billetter/alx/203,9.48148,56.69252
+Den gamle Teatersal Torvet Odder,Odder,8300,Aabygade 1A,https://www.ticketmaster.dk/venue/den-gamle-teatersal-torvet-odder-odder-billetter/dto/203,10.14709,55.97279
+Festivalpladsen,Roskilde,4000,Darupvej 19,https://www.ticketmaster.dk/venue/festivalpladsen-roskilde-billetter/a105/203,12.08349,55.63033
+Ålestrup Hallen,Aalestrup,9620,Skolevænget 17,https://www.ticketmaster.dk/venue/alestrup-hallen-aalestrup-billetter/alx/203,9.48148,56.69252
 Marbækvej,Ballerup,2750,NA,https://www.ticketmaster.dk/venue/marbaekvej-ballerup-billetter/a104/203,12.37519,55.71883
 Charlottenlund Strandpark,Charlottenlund,2920,NA,https://www.ticketmaster.dk/venue/charlottenlund-strandpark-charlottenlund-billetter/a106/203,12.58693,55.74599
-Ved Mosede Fort,Greve,2670,NA,https://www.ticketmaster.dk/venue/ved-mosede-fort-greve-billetter/a079/203,12.27428,55.56428
-Hasle Fælled,Hasle,3790,NA,https://www.ticketmaster.dk/venue/hasle-faelled-hasle-billetter/a076/203,14.70321,55.17977
-Busterminalen,Aakirkeby,3720,NA,https://www.ticketmaster.dk/venue/busterminalen-aakirkeby-billetter/a078/203,14.91227,55.07519
+Ved Mosede Fort,Greve,2670,Mosede Strandvej 87A,https://www.ticketmaster.dk/venue/ved-mosede-fort-greve-billetter/a079/203,12.27428,55.56428
+Hasle Fælled,Hasle,3790,Søndre Bæk 20,https://www.ticketmaster.dk/venue/hasle-faelled-hasle-billetter/a076/203,14.70321,55.17977
+Busterminalen,Aakirkeby,3720,Brovangen 19,https://www.ticketmaster.dk/venue/busterminalen-aakirkeby-billetter/a078/203,14.91227,55.07519
 Rønne,Rønne,3700,*,https://www.ticketmaster.dk/venue/ronne-ronne-billetter/a075/203,14.70833,55.10102
 Havnen,Nexø,3730,Sdr. Hammer 10,https://www.ticketmaster.dk/venue/havnen-nexo-billetter/a077/203,15.13483,55.06068
 Sommeriva,Helsingør,3000,Blokhusvej,https://www.ticketmaster.dk/venue/sommeriva-helsingor-billetter/a071/203,12.54939,56.04048
@@ -2014,7 +2014,7 @@ Havnebadet,Faaborg,5600,Kanalvej 9,https://www.ticketmaster.dk/venue/havnebadet-
 Byens Lys,København K,1440,Fabriksområdet 99,https://www.ticketmaster.dk/venue/byens-lys-kobenhavn-k-billetter/bly/203,12.60207,55.67341
 Lailas Festlokale,Valby,2500,Torveporten 8,https://www.ticketmaster.dk/venue/lailas-festlokale-valby-billetter/lai/203,12.50934,55.65361
 Tivoli Friheden,Aarhus C,8000,Skovbrynet 1,https://www.ticketmaster.dk/venue/tivoli-friheden-aarhus-c-billetter/tfi/203,10.19785,56.1366
-Spillested: København,København K,1466,Spillested: København,https://www.ticketmaster.dk/venue/spillested-kobenhavn-kobenhavn-k-billetter/tbn/203,55.67694,55.67694
+Spillested: København,København K,1466,Spillested: København,https://www.ticketmaster.dk/venue/spillested-kobenhavn-kobenhavn-k-billetter/tbn/203,NA,NA
 Restaurant Fuzhou,Holstebro,7500,Lavhedecentret,https://www.ticketmaster.dk/venue/restaurant-fuzhou-holstebro-billetter/foz/203,8.61585,56.37616
 ROFI-Centret,Ringkøbing,6950,Kirkevej 26,https://www.ticketmaster.dk/venue/rofi-centret-ringkobing-billetter/rfi/203,12.5163,56.097
 Hallerne i Asnæs,Asnæs,4550,Teglværkskrogen 4-6,https://www.ticketmaster.dk/venue/hallerne-i-asnaes-asnaes-billetter/asg/203,11.50202,55.81413
@@ -2200,25 +2200,25 @@ Norsminde Kro A/S,Odder,8300,Gl. Krovej 2,https://www.ticketmaster.dk/venue/nors
 "Gøngehusvej, Vedbæk",Vedbæk,2950,Kohavevej 81,https://www.ticketmaster.dk/venue/gl-holte-kirke-vedbaek-billetter/ghk/203,12.52853,55.83574
 HimmerLand,Farsø,9640,Lars Larsen vej 1,https://www.ticketmaster.dk/venue/himmerland-farso-billetter/hgr/203,9.39498,56.87328
 Langeliniekaj,København Ø,2100,NA,https://www.ticketmaster.dk/venue/langeliniekaj-kobenhavn--billetter/lan/203,12.60054,55.69843
-"Troldesalen, Sportshotel Vejen",Vejen,6600,NA,https://www.ticketmaster.dk/venue/troldesalen-sportshotel-vejen-vejen-billetter/tld/286,9.12456,55.47259
-Fyrtårn Tommerup,Tommerup,5690,NA,https://www.ticketmaster.dk/venue/fyrtarn-tommerup-tommerup-billetter/fto/203,10.18116,55.34024
-Strandvænget Nyborg,Nyborg,5800,NA,https://www.ticketmaster.dk/venue/strandvaenget-nyborg-nyborg-billetter/sny/203,10.7954,55.3424
-Embassy of Lolland Falster,København K,1174,NA,https://www.ticketmaster.dk/venue/embassy-of-lolland-falster-kobenhavn-k-billetter/elo/203,12.57286,55.6822
-BLOCK 66,København V,1700,NA,https://www.ticketmaster.dk/venue/block-66-kobenhavn-v-billetter/blc/203,12.56173,55.66938
-Hvedholm Slot,Faaborg,5600,NA,https://www.ticketmaster.dk/venue/hvedholm-slot-faaborg-billetter/hvt/203,10.16693,55.10838
-ATLAS,Aarhus C,8000,NA,https://www.ticketmaster.dk/venue/atlas-aarhus-c-billetter/ala/203,10.19791,56.15612
-Roskilde KC Bauhaus Arena,Roskilde,4000,NA,https://www.ticketmaster.dk/venue/roskilde-kc-bauhaus-arena-roskilde-billetter/rkc/230,12.06726,55.64392
-"Byhaven, B-Huset, Double Rainbow",Aarhus C,8000,NA,https://www.ticketmaster.dk/venue/byhaven-b-huset-double-rainbow-aarhus-c-billetter/byb/203,10.195,56.15406
-Rårup Kirke,Juelsminde,7130,NA,https://www.ticketmaster.dk/venue/rarup-kirke-juelsminde-billetter/ruk/203,9.92831,55.77354
-Ishøj Strand,Ishøj,2635,NA,https://www.ticketmaster.dk/venue/ishoj-strand-ishoj-billetter/iss/203,55.60603,55.60603
-Uth Kirke,Horsens,8700,NA,https://www.ticketmaster.dk/venue/uth-kirke-horsens-billetter/utk/203,9.87216,55.81978
-Ulbølle Forsamlingshus,Vester Skerninge,5762,NA,https://www.ticketmaster.dk/venue/ulbolle-forsamlingshus-vester-skerninge-billetter/ull/203,10.42072,55.07495
-Lions & Barrels (PARKEN),København Ø,2100,NA,https://www.ticketmaster.dk/venue/lions--barrels-parken--kobenhavn--billetter/lio/203,12.57385,55.70242
-Faxe Kirke,Faxe,4640,NA,https://www.ticketmaster.dk/venue/faxe-kirke-faxe-billetter/fxk/203,12.11999,55.25568
-The Ballroom,København Ø,2100,NA,https://www.ticketmaster.dk/venue/the-ballroom-kobenhavn--billetter/bll/154,12.57385,55.70242
-Skulpturparken Blokhus,Blokhus,9492,NA,https://www.ticketmaster.dk/venue/skulpturparken-blokhus-blokhus-billetter/bhs/203,9.61222,57.2485
-Tystrup Kirke,Fuglebjerg,4250,NA,https://www.ticketmaster.dk/venue/tystrup-kirke-fuglebjerg-billetter/tys/203,11.56383,55.36114
-Konservatorits Koncertsal,Frederiksberg C,1974,NA,https://www.ticketmaster.dk/venue/konservatorits-koncertsal-frederiksberg-c-billetter/mkk/301,12.55494,55.68319
+"Troldesalen, Sportshotel Vejen",Vejen,6600,Jacob Gades Allé 1,https://www.ticketmaster.dk/venue/troldesalen-sportshotel-vejen-vejen-billetter/tld/286,9.12456,55.47259
+Fyrtårn Tommerup,Tommerup,5690,Tallerupvej 85,https://www.ticketmaster.dk/venue/fyrtarn-tommerup-tommerup-billetter/fto/203,10.18116,55.34024
+Strandvænget Nyborg,Nyborg,5800,Skaboeshusevej 110,https://www.ticketmaster.dk/venue/strandvaenget-nyborg-nyborg-billetter/sny/203,10.7954,55.3424
+Embassy of Lolland Falster,København K,1174,Rosengården 7,https://www.ticketmaster.dk/venue/embassy-of-lolland-falster-kobenhavn-k-billetter/elo/203,12.57286,55.6822
+BLOCK 66,København V,1700,Halmtorvet 11 A,https://www.ticketmaster.dk/venue/block-66-kobenhavn-v-billetter/blc/203,12.56173,55.66938
+Hvedholm Slot,Faaborg,5600,"Hvedholm Slot 1, Horne",https://www.ticketmaster.dk/venue/hvedholm-slot-faaborg-billetter/hvt/203,10.16693,55.10838
+ATLAS,Aarhus C,8000,Vester Allé 15,https://www.ticketmaster.dk/venue/atlas-aarhus-c-billetter/ala/203,10.19791,56.15612
+Roskilde KC Bauhaus Arena,Roskilde,4000,Møllehusvej 15,https://www.ticketmaster.dk/venue/roskilde-kc-bauhaus-arena-roskilde-billetter/rkc/230,12.06726,55.64392
+"Byhaven, B-Huset, Double Rainbow",Aarhus C,8000,Skovgaardsgade 3,https://www.ticketmaster.dk/venue/byhaven-b-huset-double-rainbow-aarhus-c-billetter/byb/203,10.195,56.15406
+Rårup Kirke,Juelsminde,7130,Bakkedalsvej 25K,https://www.ticketmaster.dk/venue/rarup-kirke-juelsminde-billetter/ruk/203,9.92831,55.77354
+Ishøj Strand,Ishøj,2635,Skovvej 100,https://www.ticketmaster.dk/venue/ishoj-strand-ishoj-billetter/iss/203,NA,NA
+Uth Kirke,Horsens,8700,Uthvej 48,https://www.ticketmaster.dk/venue/uth-kirke-horsens-billetter/utk/203,9.87216,55.81978
+Ulbølle Forsamlingshus,Vester Skerninge,5762,"Nyvej 50, Ulbølle",https://www.ticketmaster.dk/venue/ulbolle-forsamlingshus-vester-skerninge-billetter/ull/203,10.42072,55.07495
+Lions & Barrels (PARKEN),København Ø,2100,Øster Allé 46,https://www.ticketmaster.dk/venue/lions--barrels-parken--kobenhavn--billetter/lio/203,12.57385,55.70242
+Faxe Kirke,Faxe,4640,Kirketorvet 11,https://www.ticketmaster.dk/venue/faxe-kirke-faxe-billetter/fxk/203,12.11999,55.25568
+The Ballroom,København Ø,2100,Øster Alle 46,https://www.ticketmaster.dk/venue/the-ballroom-kobenhavn--billetter/bll/154,12.57385,55.70242
+Skulpturparken Blokhus,Blokhus,9492,"Vesterhavsvej 6, Hune",https://www.ticketmaster.dk/venue/skulpturparken-blokhus-blokhus-billetter/bhs/203,9.61222,57.2485
+Tystrup Kirke,Fuglebjerg,4250,Bakkegårdsvej 2A,https://www.ticketmaster.dk/venue/tystrup-kirke-fuglebjerg-billetter/tys/203,11.56383,55.36114
+Konservatorits Koncertsal,Frederiksberg C,1974,Julius Thomasens Gade 1,https://www.ticketmaster.dk/venue/konservatorits-koncertsal-frederiksberg-c-billetter/mkk/301,12.55494,55.68319
 Kgl. Danske Musikkonservatorium,Frederiksberg C,1974,Julius Thomsens Gade 1,https://www.ticketmaster.dk/venue/kgl-danske-musikkonservatorium-frederiksberg-c-billetter/kdm/301,12.55256,55.6822
 Lønstrup,Hjørring,9800,.,https://www.ticketmaster.dk/venue/lonstrup-hjorring-billetter/a128/203,9.7977,57.47395
 .,Hals,9370,Fjordparken,https://www.ticketmaster.dk/venue/-hals-billetter/a125/203,10.30397,56.99515
@@ -2359,7 +2359,26 @@ Buffetstuen,Fredericia,7000,Sønder Voldgade 10,https://www.ticketmaster.dk/venu
 Arena Midt,Kjellerup,8620,Hasselvej 15,https://www.ticketmaster.dk/venue/arena-midt-kjellerup-billetter/arm/312,9.44992,56.28105
 Dyrup Kirke,Odense SV,5250,Tranehøjen 1,https://www.ticketmaster.dk/venue/dyrup-kirke-odense-sv-billetter/dyk/203,10.33668,55.35028
 Maribo Domkirke,Maribo,4930,Klostergade 33,https://www.ticketmaster.dk/venue/maribo-domkirke-maribo-billetter/mbd/203,11.49969,54.77262
-,,0,,,0,0
+Nørre Djurs Hallen,Glesborg,8500,Idrætsvej 2,https://www.ticketmaster.dk/venue/norre-djurs-hallen-glesborg-billetter/ndh/203,10.71858,56.47865
+Kongebryg Aps,Næstved,4700,Kasernevej 21,https://www.ticketmaster.dk/venue/kongebryg-aps-naestved-billetter/kbg/203,11.79307,55.23232
+OJD-Hallerne,Solrød Strand,2680,Lerbækvej 16,https://www.ticketmaster.dk/venue/ojd-hallerne-solrod-strand-billetter/ojd/203,12.20818,55.53959
+Musikkens Hus - Rundvisning,Aalborg,9000,Musikkens Plads 1,https://www.ticketmaster.dk/venue/musikkens-hus-rundvisning-aalborg-billetter/amr/316,9.93431,57.04793
+"Huset-KBH, Bastarden",København K,1466,"Rådhusstræde 13, 1.sal",https://www.ticketmaster.dk/venue/huset-kbh-bastarden-kobenhavn-k-billetter/hbd/203,12.57469,55.67642
+"Huset-KBH, Stage",København K,1466,"Rådhusstræde 13, 1.sal",https://www.ticketmaster.dk/venue/huset-kbh-stage-kobenhavn-k-billetter/htg/203,12.57469,55.67642
+"Huset-KBH, Stardust",København K,1466,"Rådhusstræde 13, 1.sal",https://www.ticketmaster.dk/venue/huset-kbh-stardust-kobenhavn-k-billetter/hds/203,12.57469,55.67642
+"Huset-KBH, Musikcaféen",København K,1466,"Rådhusstræde 13, 3.sal",https://www.ticketmaster.dk/venue/huset-kbh-musikcafeen-kobenhavn-k-billetter/hmc/203,12.57469,55.67642
+Borgerforeningen - Guldsalen,Svendborg,5700,Ramsherred 4,https://www.ticketmaster.dk/venue/borgerforeningen-guldsalen-svendborg-billetter/svu/317,10.60866,55.06003
+"OCC, Danmarkssalen",Odense SØ,5220,Ørbækvej 350,https://www.ticketmaster.dk/venue/occ-danmarkssalen-odense-s-billetter/ocd/259,10.44998,55.3706
+Hal C - Arsenaløen,København K,1436,Arsenalvej 6,https://www.ticketmaster.dk/venue/hal-c-arsenaloen-kobenhavn-k-billetter/hlc/203,12.60213,55.67603
+Søndergaard's Have,Gørlev,4281,"Skansevej 15, Reersø",https://www.ticketmaster.dk/venue/sondergaards-have-gorlev-billetter/sgp/203,11.10953,55.5234
+Rudbjerg Hallen,Dannemare,4983,Rudbjergvej 16,https://www.ticketmaster.dk/venue/rudbjerg-hallen-dannemare-billetter/rgh/203,11.13257,54.7606
+Grindsted Speedway Center,Grindsted,7200,Blåbjergvej 1,https://www.ticketmaster.dk/venue/grindsted-speedway-center-grindsted-billetter/gsb/203,8.97381,55.79412
+Teutonersalen,Thisted,7700,Ringvej 32,https://www.ticketmaster.dk/venue/teutonersalen-thisted-billetter/teu/203,8.69498,56.96691
+Holstebro Speedway Stadion,Holstebro,7500,"Hesselåvej 41B, Skave",https://www.ticketmaster.dk/venue/holstebro-speedway-stadion-holstebro-billetter/hsw/203,8.8347,56.35335
+Randers Badmintonhaller,Randers NV,8920,Boghvedevej 30,https://www.ticketmaster.dk/venue/randers-badmintonhaller-randers-nv-billetter/rat/203,10.02321,56.48232
+Storebælt Camping,Korsør,4220,Storebæltsvej 85,https://www.ticketmaster.dk/venue/storebaelt-camping-korsor-billetter/sbc/203,11.10701,55.34776
+"SommerSild, Skarø",Svendborg,5700,Skarø Brovej 7,https://www.ticketmaster.dk/venue/sommersild-skaro-svendborg-billetter/smr/203,10.46987,55.00791
+Sct. Jacobi Kirke,Varde,6800,Kirkepladsen,https://www.ticketmaster.dk/venue/sct-jacobi-kirke-varde-billetter/sjv/203,8.47901,55.62012
 Sæbygaard Slot,Sæby,9300,Sæbygaardvej 49,https://www.ticketmaster.dk/venue/saebygaard-slot-saeby-billetter/sgt/203,10.47879,57.33413
 Musikkens Spisehus,Aalborg,9000,Musikkens Plads 1,https://www.ticketmaster.dk/venue/musikkens-spisehus-aalborg-billetter/amus/316,9.93431,57.04793
 Hotel Odense,Odense SØ,5220,Ørbækvej 350,https://www.ticketmaster.dk/venue/hotel-odense-odense-s-billetter/oto/259,10.44998,55.3706
@@ -2444,7 +2463,7 @@ Meeting place: Ryparken Station,København Ø,2100,Lyngbyvej 102,https://www.tic
 Meeting place: PapirØen,København K,1436,Trangravsvej 5,https://www.ticketmaster.dk/venue/meeting-place-papiren-kobenhavn-k-billetter/ppo/203,12.59886,55.67834
 Hotel Astoria,København V,1570,Banegårdspladsen 4,https://www.ticketmaster.dk/venue/hotel-astoria-kobenhavn-v-billetter/aso/203,12.56316,55.67339
 Meeting place: CPH Shelter,København K,1432,Refshalevej 169G,https://www.ticketmaster.dk/venue/meeting-place-cph-shelter-kobenhavn-k-billetter/cps/203,12.60808,55.69296
-SALT bar & restaurant,København K,1253,Toldbodgade 24-28,https://www.ticketmaster.dk/venue/salt-bar--restaurant-kobenhavn-k-billetter/salt/203,-0.12763,51.50336
+SALT bar & restaurant,København K,1253,Toldbodgade 24-28,https://www.ticketmaster.dk/venue/salt-bar--restaurant-kobenhavn-k-billetter/salt/203,NA,NA
 Meeting place: rh Architects,København V,1620,Vesterbrogade 74,https://www.ticketmaster.dk/venue/meeting-place-rh-architects-kobenhavn-v-billetter/rht/203,12.55146,55.67283
 Meeting place: Sankt Annæ Plads,København K,1250,Sankt Annæ Plads 4,https://www.ticketmaster.dk/venue/meeting-place-sankt-annae-plads-kobenhavn-k-billetter/apl/203,12.58995,55.68173
 Meeting place: PLH Architects,København Ø,2100,Vermundsgade 38K,https://www.ticketmaster.dk/venue/meeting-place-plh-architects-kobenhavn--billetter/pls/203,12.55223,55.70719
@@ -2500,7 +2519,26 @@ Sinatur Hotel Haraldskær,Vejle,7100,Skibetvej 140,https://www.ticketmaster.dk/v
 P-Pladsen v/ Grønnegade Kasserne,Næstved,4700,P-Pladsen,https://www.ticketmaster.dk/venue/p-pladsen-v-gronnegade-kasserne-naestved-billetter/nhp/203,11.7611,55.23173
 Nationalpark Mols Bjerge,Ebeltoft,8400,Nationalpark Mols Bjerge,https://www.ticketmaster.dk/venue/nationalpark-mols-bjerge-ebeltoft-billetter/nmp/203,10.70397,56.22265
 BILLETnet A/S,København NV,2400,Hvidkildevej 64,https://www.ticketmaster.dk/venue/billetnet-a-s-kobenhavn-nv-billetter/billetnet/303,12.51535,55.69983
-,,0,,,0,0
+Molskroen,Ebeltoft,8400,Hovedgaden 16,https://www.ticketmaster.dk/venue/molskroen-ebeltoft-billetter/mkr/203,10.60456,56.22938
+Fregatten Jylland,Ebeltoft,8400,SA Jensens vej 4,https://www.ticketmaster.dk/venue/fregatten-jylland-ebeltoft-billetter/fgj/203,10.67354,56.19921
+Agri Kirke,Knebel,8420,"Sognevejen 2, Agri",https://www.ticketmaster.dk/venue/agri-kirke-knebel-billetter/akr/203,10.52546,56.23158
+Christiansminde Skoven,Løgstør,9670,Kristiansmindevej 36,https://www.ticketmaster.dk/venue/christiansminde-skoven-logstor-billetter/loa/203,9.24682,56.96507
+Filmby Aarhus - Studie 1,Aarhus C,8000,Filmbyen 21,https://www.ticketmaster.dk/venue/filmby-aarhus-studie-1-aarhus-c-billetter/fia/203,10.213929,56.150252
+Dyrehavsbakken,Klampenborg,2930,"Dyrehavevej 62, Telt 3",https://www.ticketmaster.dk/venue/dyrehavsbakken-klampenborg-billetter/dyb/203,12.57943,55.77487
+Rønne Stadion Nord,Rønne,3700,Torneværksvej 1,https://www.ticketmaster.dk/venue/ronne-stadion-nord-ronne-billetter/rsn/203,14.71089,55.11015
+Nordkyst Hallen,Ålsgårde,3140,Falkenbergvej 18,https://www.ticketmaster.dk/venue/nordkyst-hallen-alsgarde-billetter/nky/203,12.52451,56.07283
+"Realen, Fanøs Kulturhjerte",Fanø,6720,Niels Engersvej 5 A,https://www.ticketmaster.dk/venue/realen-fanos-kulturhjerte-fano-billetter/rea/154,8.40024,55.44493
+Multicenter Østerild,Thisted,7700,Vesterbyvej 1,https://www.ticketmaster.dk/venue/multicenter-sterild-thisted-billetter/mci/203,8.84096,57.02919
+First Hotel Copenhagen,København SV,2450,Molestien 11,https://www.ticketmaster.dk/venue/first-hotel-copenhagen-kobenhavn-sv-billetter/fcp/203,12.54482,55.64349
+Marienlystcentret,Odense C,5000,Windelsvej 138,https://www.ticketmaster.dk/venue/marienlystcentret-odense-c-billetter/mce/203,10.39719,55.42254
+Sjørring Idræts- og Kulturcenter,Thisted,7700,"Hjørnet 2, Sjørring",https://www.ticketmaster.dk/venue/sjorring-idraets-og-kulturcenter-thisted-billetter/sjc/203,8.59453,56.95387
+Ceres Park,Aarhus C,8000,Stadion Allé 70,https://www.ticketmaster.dk/venue/ceres-park-aarhus-c-billetter/nrg/284,10.19364,56.13221
+Musikhuset Posten,Odense C,5000,Østre Stationsvej 35,https://www.ticketmaster.dk/venue/musikhuset-posten-odense-c-billetter/mup/311,10.3834,55.39479
+Hotel Svanen Grindsted,Grindsted,7200,Hedemarken 22,https://www.ticketmaster.dk/venue/hotel-svanen-grindsted-grindsted-billetter/htd/203,8.95805,55.75275
+Valdemars Slot,Svendborg,5700,"Slotsalléen 100, Tåsinge",https://www.ticketmaster.dk/venue/valdemars-slot-svendborg-billetter/vms/311,10.60046,54.99621
+Munkebjerg Hotel,Vejle,7100,Munkebjergvej 125,https://www.ticketmaster.dk/venue/munkebjerg-hotel-vejle-billetter/mbl/203,9.61397,55.69207
+DR Koncerthuset,København S,2300,Ørestads Boulevard 13,https://www.ticketmaster.dk/venue/dr-koncerthuset-kobenhavn-s-billetter/dkc/203,12.58854,55.65773
+PLADSEN,Svendborg,5700,Voldgade,https://www.ticketmaster.dk/venue/pladsen-svendborg-billetter/psv/259,10.60429,55.05887
 Cirkuspladsen i Nyborg,Nyborg,5800,Banegårdsalléen,https://www.ticketmaster.dk/venue/cirkuspladsen-i-nyborg-nyborg-billetter/cpn/311,10.80302,55.31262
 Akademigrunden / Carlsens Plæne,Sorø,4180,Trautnersvej 26,https://www.ticketmaster.dk/venue/akademigrunden-carlsens-plaene-soro-billetter/sra/203,11.55729,55.42944
 BDO Lounge,Viborg,8800,Tingvej 7,https://www.ticketmaster.dk/venue/bdo-lounge-viborg-billetter/bdo/194,9.40248,56.455
@@ -2515,20 +2553,20 @@ Moesgaard Museum,Højbjerg,8270,Moesgård Allé 15,https://www.ticketmaster.dk/v
 Sports Hotellet,Vejen,6600,Jakob Gades Allé 1,https://www.ticketmaster.dk/venue/sports-hotellet-vejen-billetter/sov/286,9.12456,55.47259
 Hotel Fjordgården,Ringkøbing,6950,Vester Kær 28,https://www.ticketmaster.dk/venue/hotel-fjordgarden-ringkobing-billetter/hfg/203,8.23647,56.0955
 "Sparekassen Fyn Arena , Hal B",Odense SØ,5220,Ørbækvej 350,https://www.ticketmaster.dk/venue/sparekassen-fyn-arena--hal-b-odense-s-billetter/fyc/259,10.53144,55.3316
-Festivalhal,Rødding,6630,Søvej 7,https://www.ticketmaster.dk/venue/festivalhal-rodding-billetter/fel/203,116.3779,40.10125
+Festivalhal,Rødding,6630,Søvej 7,https://www.ticketmaster.dk/venue/festivalhal-rodding-billetter/fel/203,NA,NA
 H. C. Andersen Kongres Center,Odense C,5000,.,https://www.ticketmaster.dk/venue/h-c-andersen-kongres-center-odense-c-billetter/hck/313,10.39236,55.39892
 Tapperiet,Køge,4600,Søndre Badevej 1,https://www.ticketmaster.dk/venue/tapperiet-koge-billetter/tai/314,12.19261,55.45107
 Bredballe IF,Vejle Øst,7120,Nørremarksvej 155,https://www.ticketmaster.dk/venue/bredballe-if-vejle-st-billetter/brv/203,9.59319,55.7193
 Gurs Teater,Hørsholm,2970,Moseranden 9,https://www.ticketmaster.dk/venue/gurs-teater-horsholm-billetter/gur/315,12.50235,55.8565
 Frie Selskabslokaler,Valby,2500,Retortvej 1C,https://www.ticketmaster.dk/venue/frie-selskabslokaler-valby-billetter/flk/203,12.49993,55.65892
 Bruges ikke,Aarhus C,8000,Bruges ikke,https://www.ticketmaster.dk/venue/bruges-ikke-aarhus-c-billetter/tfh/306,10.20522,56.13887
-Restaurent Terrassen,Aarhus C,8000,Skovbrynet 5,https://www.ticketmaster.dk/venue/restaurent-terrassen-aarhus-c-billetter/ret/306,-0.12759,51.50341
+Restaurent Terrassen,Aarhus C,8000,Skovbrynet 5,https://www.ticketmaster.dk/venue/restaurent-terrassen-aarhus-c-billetter/ret/306,NA,NA
 Skt Nikolai Kirke,Nakskov,4900,Nordenkirke 4,https://www.ticketmaster.dk/venue/skt-nikolai-kirke-nakskov-billetter/nli/203,11.13493,54.8311
 Vegger Idræts - & Kulturhus,Nibe,9240,"Himmerlandsvej 8, Vegger",https://www.ticketmaster.dk/venue/vegger-idraets--kulturhus-nibe-billetter/vgg/203,9.56885,56.88532
 Huset KBH - Bastard Café,København K,1466,Rådhus Stræde 13,https://www.ticketmaster.dk/venue/huset-kbh-bastard-cafe-kobenhavn-k-billetter/bcf/303,12.57469,55.67642
 Hotel Ærø,Svendborg,5700,Brogade 1,https://www.ticketmaster.dk/venue/hotel-ro-svendborg-billetter/htr/203,10.61414,55.05809
 "Huset KBH., 1. sal",København K,1466,"Rådhus Stræde 13, 1. sal",https://www.ticketmaster.dk/venue/huset-kbh-1-sal-kobenhavn-k-billetter/hu1/303,12.57469,55.67642
-"Farsø Søanlæg, Friluftsscenen",Farsø,9640,Stadion Allé,https://www.ticketmaster.dk/venue/farso-soanlaeg-friluftsscenen-farso-billetter/ffs/203,56.77055,56.77055
+"Farsø Søanlæg, Friluftsscenen",Farsø,9640,Stadion Allé,https://www.ticketmaster.dk/venue/farso-soanlaeg-friluftsscenen-farso-billetter/ffs/203,NA,NA
 Brøndsalen,Frederiksberg C,2000,Pile Alle 14a,https://www.ticketmaster.dk/venue/brondsalen-frederiksberg-c-billetter/brl/203,12.53132,55.67231
 STAY Copenhagen,København S,2300,Islands Brygge 79a,https://www.ticketmaster.dk/venue/stay-copenhagen-kobenhavn-s-billetter/st1/203,12.56667,55.65749
 SPOT +,Aarhus C,8000,Margrethepladsen 1,https://www.ticketmaster.dk/venue/spot--aarhus-c-billetter/sp3/203,10.1971,56.15234
@@ -2558,7 +2596,7 @@ Møllevangs Kirken,Aarhus V,8210,Møllevangsalle 49,https://www.ticketmaster.dk/
 Bellinge Idrætscenter,Odense C,5250,Sædekildevej 4,https://www.ticketmaster.dk/venue/bellinge-idraetscenter-odense-c-billetter/bei/203,10.31953,55.34156
 Studenterklubben på Panum,København N,2200,Nørre Allé 20,https://www.ticketmaster.dk/venue/studenterklubben-pa-panum-kobenhavn-n-billetter/skp/203,12.56161,55.6948
 Hestetorvet Selskabslokaler,Roskilde,4000,Hestetorvet 3,https://www.ticketmaster.dk/venue/hestetorvet-selskabslokaler-roskilde-billetter/hsr/203,12.08937,55.64016
-Balsalen på Travbanen,Charlottenlund,2920,Travbanevej 10,https://www.ticketmaster.dk/venue/balsalen-pa-travbanen-charlottenlund-billetter/bct/203,10.46713,63.43217
+Balsalen på Travbanen,Charlottenlund,2920,Travbanevej 10,https://www.ticketmaster.dk/venue/balsalen-pa-travbanen-charlottenlund-billetter/bct/203,NA,NA
 Det Røde Pakhus,Skælskør,4230,Havnevej 10,https://www.ticketmaster.dk/venue/det-rode-pakhus-skaelskor-billetter/dpk/203,11.28927,55.25179
 Nørre Alslev Skole,Nørre Alslev,4840,Nørre Alslev Parkvej 5,https://www.ticketmaster.dk/venue/norre-alslev-skole-norre-alslev-billetter/nal/203,11.88096,54.89466
 Borgerkirken,Silkeborg,8600,Kastaniehøjvej 4,https://www.ticketmaster.dk/venue/borgerkirken-silkeborg-billetter/bkl/203,9.575,56.19015
@@ -2721,7 +2759,26 @@ Nørre Aaby Hotel,Nørre Aaby,5580,Jernbanevej 1,https://www.ticketmaster.dk/ven
 Næstved  FamilieZOO,Næstved,4700,Ålestokvej 2,https://www.ticketmaster.dk/venue/naestved-familiezoo-naestved-billetter/naa/203,11.7226,55.2223
 Nærum Amtsgymnasium,Nærum,2850,Nærum Hovedgade 30,https://www.ticketmaster.dk/venue/naerum-amtsgymnasium-naerum-billetter/nag/203,12.53315,55.81905
 Teaterhuset i Nivå,Nivå,2990,Kalvehaven 6,https://www.ticketmaster.dk/venue/teaterhuset-i-niva-niva-billetter/nat/203,12.5087,55.92999
-,,0,,,0,0
+KB Hallen + Club Nasa,Frederiksberg,2000,"Peterbangsvej 147 + Gothersgade 8F, 1.",https://www.ticketmaster.dk/venue/kb-hallen--club-nasa-frederiksberg-billetter/nas/203,12.51794,55.68185
+Nakkefestival 2006,Rørvig,4581,Søndervangsvej 43,https://www.ticketmaster.dk/venue/nakkefestival-rorvig-billetter/nak/203,11.74958,55.93145
+Nationalmuseet,København K,1471,Ny Vestergade 10,https://www.ticketmaster.dk/venue/nationalmuseet-kobenhavn-k-billetter/nam/203,12.57468,55.67449
+Motown,Væggerløse,4873,Marielyst Strandvej 59,https://www.ticketmaster.dk/venue/motown-vaeggerlose-billetter/mot/203,11.94021,54.70128
+Moltkes Palæ,København K,1302,Dronningens Tværgade 2,https://www.ticketmaster.dk/venue/moltkes-palae-kobenhavn-k-billetter/mop/203,12.58905,55.6832
+Mosstock Festival,Skanderborg,8660,Klostermøllevej 25,https://www.ticketmaster.dk/venue/mosstock-festival-skanderborg-billetter/mos/203,9.74418,56.02999
+MønsHallen,Stege,4780,Platanvej 40,https://www.ticketmaster.dk/venue/monshallen-stege-billetter/mon/203,12.28277,54.99631
+Morsø Teater,Nykøbing M,7900,Limfjordsvej 95,https://www.ticketmaster.dk/venue/morso-teater-nykobing-m-billetter/mor/203,8.83457,56.78485
+Møllegårdhallen,Jægerspris,3630,Møllevej 90,https://www.ticketmaster.dk/venue/mollegardhallen-jaegerspris-billetter/mol/203,11.98731,55.84541
+Møldrup Kulturcenter,Møldrup,9632,Skolegade 27,https://www.ticketmaster.dk/venue/moldrup-kulturcenter-moldrup-billetter/mok/203,9.50058,56.61847
+Møldrup Hallen,Møldrup,9632,Rugvænget 4,https://www.ticketmaster.dk/venue/moldrup-hallen-moldrup-billetter/moh/203,9.49906,56.61916
+"Musikteatret Holstebro,Prismesal",Holstebro,7500,Den Røde Plads 16,https://www.ticketmaster.dk/venue/musikteatret-holstebroprismesal-holstebro-billetter/mtp/232,8.61632,56.35659
+Mosaisk Troessamfunds Center,København K,1012,Ny Kongensgade 6,https://www.ticketmaster.dk/venue/mosaisk-troessamfunds-center-kobenhavn-k-billetter/mtc/203,12.57671,55.67401
+"Mogens Dahl, Institut for musik",København S,2300,Snorresgade 22,https://www.ticketmaster.dk/venue/mogens-dahl-koncertsal-kobenhavn-s-billetter/mod/203,12.57643,55.66358
+Mosten MC,Ørsted,8950,Bodeengvej 15,https://www.ticketmaster.dk/venue/mosten-mc-rsted-billetter/mmc/203,10.27636,56.47983
+Månen,Haderslev,6200,Bispebroen 3,https://www.ticketmaster.dk/venue/manen-haderslev-billetter/mne/203,9.48474,55.25041
+Mølleparken,Aalborg,9000,Mølleparkvej,https://www.ticketmaster.dk/venue/molleparken-aalborg-billetter/mlp/203,9.90447,57.03765
+Mellerup Musik & Teater,Randers,8930,Almisbakken 19,https://www.ticketmaster.dk/venue/mellerup-musik--teater-randers-billetter/mmt/203,10.206,56.51693
+Nordborg Slot,Nordborg,6430,Slotsgrunden 1,https://www.ticketmaster.dk/venue/nordborg-slot-nordborg-billetter/nos/203,9.74954,55.05916
+Div. opsamlingssteder,København V,1610,Div. opsamlinssteder,https://www.ticketmaster.dk/venue/div-opsamlingssteder-kobenhavn-v-billetter/noj/203,12.56431,55.65165
 Nordatlantens Brygge,København K,1401,Strandgade 91,https://www.ticketmaster.dk/venue/nordatlantens-brygge-kobenhavn-k-billetter/nor/203,12.59666,55.67761
 Nordgårdshallen,Nykøbing Sj,4500,A.Ladingsvej,https://www.ticketmaster.dk/venue/nordgardshallen-nykobing-sj-billetter/nog/203,11.6642,55.92609
 NEP Group,København S,2300,Jenagade 22,https://www.ticketmaster.dk/venue/nep-group-kobenhavn-s-billetter/nom/203,12.61895,55.66598
@@ -2789,7 +2846,7 @@ Kolding Teater,Kolding,6000,Skovbrynet 1,https://www.ticketmaster.dk/venue/koldi
 Kolding Kongreshal,Kolding,6000,Tøndervej 77,https://www.ticketmaster.dk/venue/kolding-kongreshal-kolding-billetter/kok/215,9.45253,55.48286
 Karlslunde Strandkirke,Karlslunde,2690,Karlslunde Mosevej 3,https://www.ticketmaster.dk/venue/karlslunde-strandkirke-karlslunde-billetter/kls/203,12.25353,55.55712
 Klækesalen,København N,2200,Griffenfeldtsgade 44,https://www.ticketmaster.dk/venue/klaekesalen-kobenhavn-n-billetter/klk/203,12.55265,55.68642
-Klosterlunden,Ringsted,4100,Klosterlunden,https://www.ticketmaster.dk/venue/klosterlunden-ringsted-billetter/klo/203,-94.50333,43.29778
+Klosterlunden,Ringsted,4100,Klosterlunden,https://www.ticketmaster.dk/venue/klosterlunden-ringsted-billetter/klo/203,NA,NA
 Kalundborg Hallerne,Kalundborg,4400,Munkesøgade 3,https://www.ticketmaster.dk/venue/kalundborg-hallerne-kalundborg-billetter/klh/203,11.08199,55.68147
 Kløvermarkshallen,Sønderborg,6400,Sundsmarkvej 74,https://www.ticketmaster.dk/venue/klovermarkshallen-sonderborg-billetter/klm/203,9.81161,54.91502
 Kløften Festival,Haderslev,6100,"Parkanlægget Kløften, Christiansfeldvej",https://www.ticketmaster.dk/venue/kloften-festival-haderslev-billetter/klf/203,9.49378,55.2609
@@ -3483,25 +3540,25 @@ Det Kristne Gymnasium,Ringkøbing,6950,"Vasevej 28 - 30,  Rindum",https://www.ti
 Herborg Kirke,Videbæk,6920,Skolevej 43 A,https://www.ticketmaster.dk/venue/herborg-kirke-videbaek-billetter/hbo/203,8.63178,56.07424
 Sohngaardsholm Slot,Aalborg,9000,Borgmester Jørgensensvej 1,https://www.ticketmaster.dk/venue/sohngaardsholm-slot-aalborg-billetter/shn/203,9.94453,57.03151
 Gavekort,København NV,NA,NA,https://www.ticketmaster.dk/venue/gavekort-kobenhavn-nv-billetter/gavek/281,12.53495,55.71329
-"Niels Brock, Kantinen",Frederiksberg C,1925,NA,https://www.ticketmaster.dk/venue/niels-brock-kantinen-frederiksberg-c-billetter/nbo/203,12.55419,55.68132
-Svineriet,Aarhus C,8000,NA,https://www.ticketmaster.dk/venue/svineriet-aarhus-c-billetter/svt/203,10.22722,56.16528
-Kolt Hasselager Hallen,Hasselager,NA,NA,https://www.ticketmaster.dk/venue/kolt-hasselager-hallen-hasselager-billetter/khh/203,10.09129,56.10659
-KPH Volume,København SV,2450,NA,https://www.ticketmaster.dk/venue/kph-volume-kobenhavn-sv-billetter/kph/203,12.54077,55.66176
-"Lynghøjskolens Teatersal, Scenen",Roskilde,NA,NA,https://www.ticketmaster.dk/venue/lynghojskolens-teatersal-scenen-roskilde-billetter/lts/153,12.01145,55.63197
-Nordfyns Friluftsspil,Otterup,5450,NA,https://www.ticketmaster.dk/venue/nordfyns-friluftsspil-otterup-billetter/nff/203,10.38573,55.50884
-Halkær Kro og Kulturhus,Nibe,9240,NA,https://www.ticketmaster.dk/venue/halkaer-kro-og-kulturhus-nibe-billetter/hku/203,9.53728,56.91911
-Stald Egely,Lille Skensved,4623,NA,https://www.ticketmaster.dk/venue/stald-egely-lille-skensved-billetter/ege/203,12.06398,55.4917
-Studenterhus Odense,Odense C,5000,NA,https://www.ticketmaster.dk/venue/studenterhus-odense-odense-c-billetter/suo/203,10.38104,55.39486
-Tivoli,København V,NA,NA,https://www.ticketmaster.dk/venue/tivoli-kobenhavn-v-billetter/tiv/203,12.56565,55.67465
-Markedspladsen i Tversted,Bindslev,9881,NA,https://www.ticketmaster.dk/venue/markedspladsen-i-tversted-bindslev-billetter/tve/203,10.1908,57.5868
-Museum Jorn,Silkeborg,8600,NA,https://www.ticketmaster.dk/venue/museum-jorn-silkeborg-billetter/muj/203,9.62134,56.30405
-Fanø Hallen,Fanø,6720,NA,https://www.ticketmaster.dk/venue/fano-hallen-fano-billetter/fhl/203,8.39705,55.44553
-Horsens Statsfængsel,Horsens,8700,NA,https://www.ticketmaster.dk/venue/horsens-statsfaengsel-horsens-billetter/hsf/203,9.8363,55.87406
-Godset,Kolding,6000,NA,https://www.ticketmaster.dk/venue/godset-kolding-billetter/gok/203,9.48316,55.49091
-Lyngbyhallen,Kongens Lyngby,2800,NA,https://www.ticketmaster.dk/venue/lyngbyhallen-kongens-lyngby-billetter/hly/267,12.50649,55.78217
-v/ Skuespilhuset,København C,NA,NA,https://www.ticketmaster.dk/venue/v-skuespilhuset-kobenhavn-c-billetter/vzh/281,9.556,56.102
-Sophienholm,Kongens Lyngby,NA,NA,https://www.ticketmaster.dk/venue/sophienholm-kongens-lyngby-billetter/shm/203,12.4576,55.77543
-Havnen Nykøbing Sjælland,Nykøbing Sj,4500,NA,https://www.ticketmaster.dk/venue/havnen-nykobing-sjaelland-nykobing-sj-billetter/hav/281,11.66539,55.92608
+"Niels Brock, Kantinen",Frederiksberg C,1925,Julius Thomsens Plads 10,https://www.ticketmaster.dk/venue/niels-brock-kantinen-frederiksberg-c-billetter/nbo/203,12.55419,55.68132
+Svineriet,Aarhus C,8000,"Mejlgade 35, Baggården",https://www.ticketmaster.dk/venue/svineriet-aarhus-c-billetter/svt/203,10.22722,56.16528
+Kolt Hasselager Hallen,Hasselager,NA,Koltvej 43,https://www.ticketmaster.dk/venue/kolt-hasselager-hallen-hasselager-billetter/khh/203,10.09129,56.10659
+KPH Volume,København SV,2450,Enghavevej 80,https://www.ticketmaster.dk/venue/kph-volume-kobenhavn-sv-billetter/kph/203,12.54077,55.66176
+"Lynghøjskolens Teatersal, Scenen",Roskilde,NA,"Lynghøjen 107, Svogerslev",https://www.ticketmaster.dk/venue/lynghojskolens-teatersal-scenen-roskilde-billetter/lts/153,12.01145,55.63197
+Nordfyns Friluftsspil,Otterup,5450,Nislevvej 11,https://www.ticketmaster.dk/venue/nordfyns-friluftsspil-otterup-billetter/nff/203,10.38573,55.50884
+Halkær Kro og Kulturhus,Nibe,9240,Halkærvej 59,https://www.ticketmaster.dk/venue/halkaer-kro-og-kulturhus-nibe-billetter/hku/203,9.53728,56.91911
+Stald Egely,Lille Skensved,4623,Dalbyvej 56,https://www.ticketmaster.dk/venue/stald-egely-lille-skensved-billetter/ege/203,12.06398,55.4917
+Studenterhus Odense,Odense C,5000,Farvergården 7,https://www.ticketmaster.dk/venue/studenterhus-odense-odense-c-billetter/suo/203,10.38104,55.39486
+Tivoli,København V,NA,Vesterbrogade 3,https://www.ticketmaster.dk/venue/tivoli-kobenhavn-v-billetter/tiv/203,12.56565,55.67465
+Markedspladsen i Tversted,Bindslev,9881,"Østervej 10, Tversted",https://www.ticketmaster.dk/venue/markedspladsen-i-tversted-bindslev-billetter/tve/203,10.1908,57.5868
+Museum Jorn,Silkeborg,8600,Gudenåvej 7-9,https://www.ticketmaster.dk/venue/museum-jorn-silkeborg-billetter/muj/203,9.62134,56.30405
+Fanø Hallen,Fanø,6720,"Stadionvej 11, Nordby",https://www.ticketmaster.dk/venue/fano-hallen-fano-billetter/fhl/203,8.39705,55.44553
+Horsens Statsfængsel,Horsens,8700,Fussingsvej 8,https://www.ticketmaster.dk/venue/horsens-statsfaengsel-horsens-billetter/hsf/203,9.8363,55.87406
+Godset,Kolding,6000,Jens Homs Vej 5,https://www.ticketmaster.dk/venue/godset-kolding-billetter/gok/203,9.48316,55.49091
+Lyngbyhallen,Kongens Lyngby,2800,Lundtoftevej 61,https://www.ticketmaster.dk/venue/lyngbyhallen-kongens-lyngby-billetter/hly/267,12.50649,55.78217
+v/ Skuespilhuset,København C,NA,v/ Skuespilhuset,https://www.ticketmaster.dk/venue/v-skuespilhuset-kobenhavn-c-billetter/vzh/281,9.556,56.102
+Sophienholm,Kongens Lyngby,NA,Nybrovej 401,https://www.ticketmaster.dk/venue/sophienholm-kongens-lyngby-billetter/shm/203,12.4576,55.77543
+Havnen Nykøbing Sjælland,Nykøbing Sj,4500,Havnen,https://www.ticketmaster.dk/venue/havnen-nykobing-sjaelland-nykobing-sj-billetter/hav/281,11.66539,55.92608
 Dyrskuepladsen,Odense C,5000,Dyrskuepladsen,https://www.ticketmaster.dk/venue/dyrskuepladsen-odense-odense-c-billetter/dsk/281,10.3834,55.39479
 Marselis Boulevard,Aarhus C,NA,Marselis Boulevard,https://www.ticketmaster.dk/venue/marselis-boulevard-aarhus-c-billetter/mbo/281,10.19169,56.14003
 Købmagergades Skoles Skolegård,Fredericia,7000,Købmagergade 65,https://www.ticketmaster.dk/venue/kobmagergades-skoles-skolegard-fredericia-billetter/kob/262,9.75932,55.56434
@@ -3526,7 +3583,7 @@ Saralystkirken,Højbjerg,8270,Saralyst Allé 140,https://www.ticketmaster.dk/ven
 Ølby Kirke,Køge,4600,Ølby Center 79-81,https://www.ticketmaster.dk/venue/lby-kirke-koge-billetter/olb/203,12.17667,55.48158
 Stouby Kirke,Stouby,7140,Stouby Kirkevej 20,https://www.ticketmaster.dk/venue/stouby-kirke-stouby-billetter/sou/203,9.78641,55.71968
 "Vor Frelsers Kirke, Vejle",Vejle,7100,Jernbanegade 26,https://www.ticketmaster.dk/venue/vor-frelsers-kirke-vejle-vejle-billetter/vrv/203,9.53877,55.71005
-Skt. Bendts Kirke,Ringsted,4100,Skt. Bendts Kirke,https://www.ticketmaster.dk/venue/skt-bendts-kirke-ringsted-billetter/sbk/275,-94.50333,43.29778
+Skt. Bendts Kirke,Ringsted,4100,Skt. Bendts Kirke,https://www.ticketmaster.dk/venue/skt-bendts-kirke-ringsted-billetter/sbk/275,NA,NA
 Jægerspris Slot,Jægerspris,3630,Slotsgården 15,https://www.ticketmaster.dk/venue/jaegerspris-slot-jaegerspris-billetter/jps/203,11.97358,55.85577
 The Rock,København K,1159,Skindergade 45-47,https://www.ticketmaster.dk/venue/the-rock-kobenhavn-k-billetter/roc/154,12.57304,55.67863
 "Præstegården, Frederikssund",Frederikssund,3600,Kirkegade 7,https://www.ticketmaster.dk/venue/praestegarden-frederikssund-frederikssund-billetter/prf/203,11.91326,55.75756
@@ -3585,7 +3642,7 @@ Gormshallen,Jelling,7300,Katrinelund 1,https://www.ticketmaster.dk/venue/gormsha
 Hotel Ry,Ry,8680,Kyhnsvej 2,https://www.ticketmaster.dk/venue/hotel-ry-ry-billetter/hoy/203,9.75727,56.09246
 Treenighedskirken,Esbjerg,6700,Grådybet 23,https://www.ticketmaster.dk/venue/treenighedskirken-esbjerg-billetter/tei/203,8.44249,55.47758
 MIBpakhusene,Aarhus C,8000,Mariane Thomsens Gade 1,https://www.ticketmaster.dk/venue/mibpakhusene-aarhus-c-billetter/mph/203,10.22791,56.16622
-Nibe Boldklub,Nibe,9240,Hobrovej 38,https://www.ticketmaster.dk/venue/nibe-boldklub-nibe-billetter/nbc/203,9.64472,9.64472
+Nibe Boldklub,Nibe,9240,Hobrovej 38,https://www.ticketmaster.dk/venue/nibe-boldklub-nibe-billetter/nbc/203,NA,NA
 Vintapperstræde,Odense C,5000,Vintapperstræde,https://www.ticketmaster.dk/venue/vintapperstraede-odense-c-billetter/vta/203,10.38347,55.39565
 Skovvangscentret,Aarhus N,8200,Skovvangsvej 127,https://www.ticketmaster.dk/venue/skovvangscentret-aarhus-n-billetter/kgc/203,10.20841,56.17621
 Lystanlægget,Ringsted,4100,Tværallé 5,https://www.ticketmaster.dk/venue/lystanlaegget-ringsted-billetter/lyr/275,11.7993,55.44746
@@ -3642,7 +3699,26 @@ Sønderboghus,Sønderborg,6400,Martin Nyrops Plads 2,https://www.ticketmaster.dk
 Apetit i Auning,Auning,8963,Vestergade 45A,https://www.ticketmaster.dk/venue/apetit-i-auning-auning-billetter/aip/310,10.36328,56.43168
 Kulturhus Galaksen,Værløse,3500,Bymidten 48,https://www.ticketmaster.dk/venue/kulturhus-galaksen-vaerlose-billetter/gal/174,12.37143,55.78347
 Forum Kolding,Kolding,6000,Bramdrupskovvej 110,https://www.ticketmaster.dk/venue/forum-kolding-kolding-billetter/fkb/203,9.47069,55.5282
-,,0,,,0,0
+Tåstrup Forsamlingshus,Rønde,8410,Ebeltoftvej 19,https://www.ticketmaster.dk/venue/tastrup-forsamlingshus-ronde-billetter/ptf/310,10.5771,56.29066
+SOHO House,København K,1058,Havnegade 44,https://www.ticketmaster.dk/venue/soho-house-kobenhavn-k-billetter/soho/203,12.59213,55.67798
+Lorantius Instituttet,København N,2200,"Bjelkes Allé 17A, 2. sal",https://www.ticketmaster.dk/venue/lorantius-instituttet-kobenhavn-n-billetter/loi2/203,12.54227,55.6929
+Loppen,København K,1440,"Sydområdet 4B, 1. sal",https://www.ticketmaster.dk/venue/loppen-kobenhavn-k-billetter/lop/297,12.59714,55.67389
+Vandværket i København,København NV,2400,Rabarbervej 2,https://www.ticketmaster.dk/venue/vandvaerket-i-kobenhavn-kobenhavn-nv-billetter/vavae/203,12.52398,55.69594
+Bjergmarkshallen,Holbæk,4300,Bispehøjen 2,https://www.ticketmaster.dk/venue/bjergmarkshallen-holbaek-billetter/deejay/203,11.73936,55.70863
+"Søholmskolen, afd. Toftevang",Birkerød,3460,Teglporten 9,https://www.ticketmaster.dk/venue/soholmskolen-afd-toftevang-birkerod-billetter/st9/174,12.43253,55.8407
+Broløkke Herregård (Kostalden),Humble,5932,Hedevejen 33,https://www.ticketmaster.dk/venue/brolokke-herregard-kostalden--humble-billetter/brohg/203,10.72203,54.76904
+Hvidovre Strand,Hvidovre,2560,Hvidovre Havn,https://www.ticketmaster.dk/venue/hvidovre-strand-hvidovre-billetter/hvr/203,12.50056,55.62562
+Rockbæk Arena,Holbæk,4300,"Arenavej 1, Indgang Lillevang",https://www.ticketmaster.dk/venue/rockbaek-arena-holbaek-billetter/rbr/203,11.73273,55.70103
+Trommen,Hørsholm,2970,"Bibliotekstorvet 1,",https://www.ticketmaster.dk/venue/trommen-horsholm-billetter/tro/174,12.49735,55.88069
+"Scandic Falkoner, Auditoriet",Frederiksberg,2000,Falkoner Allé 9,https://www.ticketmaster.dk/venue/scandic-falkoner-auditoriet-frederiksberg-billetter/sfc/203,12.53345,55.67971
+Vinho,København K,1210,Knabrostræde,https://www.ticketmaster.dk/venue/vinho-kobenhavn-k-billetter/vkn/203,12.55416,55.67649
+Skive Theater Foyer,Skive,7800,Theaterpladsen 10,https://www.ticketmaster.dk/venue/skive-theater-foyer-skive-billetter/sfy/175,9.02533,56.56796
+The Garden Studio,Trustrup,8570,Fladstrupvej 33,https://www.ticketmaster.dk/venue/the-garden-studio-trustrup-billetter/tgs/310,12.57201,55.68191
+Udlejre Kirke,Ølstykke,3650,Ørnebjergvej 7,https://www.ticketmaster.dk/venue/udlejre-kirke-lstykke-billetter/udk/203,12.15319,55.79402
+Slagballe Forsamlingshus,Brædstrup,8740,"Slagballevej 5, Slagballe",https://www.ticketmaster.dk/venue/slagballe-forsamlingshus-braedstrup-billetter/bc49/203,9.59003,55.9975
+Italy Italy,Ringsted,4100,Torvet 1 C,https://www.ticketmaster.dk/venue/italy-italy-ringsted-billetter/iti/275,11.7892,55.44494
+Helgenæs Forsamlingshus,Knebel,8420,Grimshovedvej 2,https://www.ticketmaster.dk/venue/helgenaes-forsamlingshus-knebel-billetter/bc47/203,10.51612,56.13727
+Vormark Forsamlingshus,Hesselager,5874,"Vormark Bygade 4, Vormark",https://www.ticketmaster.dk/venue/vormark-forsamlingshus-hesselager-billetter/bc45/203,10.75086,55.18709
 Meatery,Ringsted,4100,Sct. Knudsgade 1,https://www.ticketmaster.dk/venue/meatery-ringsted-billetter/mea/275,11.7901,55.4426
 Sterup Forsamlingshus,Jerslev J,9740,"Liljevej 29, Sterup",https://www.ticketmaster.dk/venue/sterup-forsamlingshus-jerslev-j-billetter/bc44/203,10.1044,57.31256
 Pinot Butik & Bar,Aarhus C,8000,Frue Kirkeplads 1,https://www.ticketmaster.dk/venue/pinot-butik--bar-aarhus-c-billetter/pbb/203,10.20427,56.1579
@@ -3672,6 +3748,7 @@ BMW Experiens Center,Kongens Lyngby,2800,Firskovvej 33,https://www.ticketmaster.
 Social Foodies,Frederiksberg C,1850,Gammel Kongevej 115,https://www.ticketmaster.dk/venue/social-foodies-frederiksberg-c-billetter/soj/203,12.5442,55.67569
 Femø Festival,Maribo,4945,Darrehøjsvej 1,https://www.ticketmaster.dk/venue/femo-festival-maribo-billetter/femo/203,11.51087,54.97938
 Multihuset ved Grænsehallerne,Kruså,6340,Harkærvej 13,https://www.ticketmaster.dk/venue/multihuset-ved-graensehallerne-krusa-billetter/mgr/203,9.41102,54.8493
+Scandic Kødbyen,København V,1717,Skelbækgade 3A,https://www.ticketmaster.dk/venue/scandic-kodbyen-kobenhavn-v-billetter/skx/203,12.55708,55.66709
 Adresse følger,Hammel,8450,NA,https://www.ticketmaster.dk/venue/adresse-folger-hammel-billetter/a182/203,9.8486,56.256
 Tved Boldklub,Svendborg,5700,Brændeskovvej 2,https://www.ticketmaster.dk/venue/tved-boldklub-svendborg-billetter/tvb/203,10.43516,56.1954
 Sportscenter Herning,Herning,7400,Holingknuden 3,https://www.ticketmaster.dk/venue/sportscenter-herning-herning-billetter/spx/203,8.96425,56.15836
@@ -3679,6 +3756,7 @@ Solfang,Tørring,7160,NA,https://www.ticketmaster.dk/venue/solfang-torring-bille
 Dalgårdsparken,Hornslet,8543,NA,https://www.ticketmaster.dk/venue/dalgardsparken-hornslet-billetter/a181/203,10.31474,56.30747
 REGAN Vest,Skørping,9520,Røde Møllevej 26,https://www.ticketmaster.dk/venue/regan-vest-skorping-billetter/regan/316,9.801,56.82359
 Musikkens Hus - Klassisk sal,Aalborg,9000,Musikkens Plads 1,https://www.ticketmaster.dk/venue/musikkens-hus-klassisk-sal-aalborg-billetter/amuk/316,9.93431,57.04793
+Villa Wilders,København K,1408,Wildersgade 55,https://www.ticketmaster.dk/venue/villa-wilders-kobenhavn-k-billetter/viv/203,12.59203,55.67449
 OsteoMedica,København N,2200,Baldersgade 4,https://www.ticketmaster.dk/venue/osteomedica-kobenhavn-n-billetter/omp/203,12.54376,55.69807
 PANORAMA,Fredericia,7000,Prinsessegade 55,https://www.ticketmaster.dk/venue/panorama-fredericia-billetter/panor/203,9.75784,55.56527
 Adresse følger,Haslev,4690,NA,https://www.ticketmaster.dk/venue/adresse-folger-haslev-billetter/a185/203,11.95673,55.32711
@@ -3763,7 +3841,26 @@ Føvling Kirke,Brædstrup,8740,"Hårupvej 19B, Føvling",https://www.ticketmaste
 Theilgaards,Køge,4600,Theilgaards Torv 6,https://www.ticketmaster.dk/venue/theilgaards-koge-billetter/dhb/203,12.18844,55.47702
 Crowne Plaza,København S,2300,Ørestads Boulevard 114 - 118,https://www.ticketmaster.dk/venue/crowne-plaza-kobenhavn-s-billetter/cpz/230,12.57809,55.62688
 Viby Stadion,Viby J,8260,Skanderborgvej 224,https://www.ticketmaster.dk/venue/viby-stadion-viby-j-billetter/viy/203,10.15742,56.12721
-,,0,,,0,0
+Vilcon Hotel & Konferencegaard,Slagelse,4200,Lorupvej 44,https://www.ticketmaster.dk/venue/vilcon-hotel--konferencegaard-slagelse-billetter/vii/203,11.44207,55.37194
+Døesvejens Fritidscenter,Holstebro,7500,Døesvej 56,https://www.ticketmaster.dk/venue/doesvejens-fritidscenter-holstebro-billetter/dos/203,8.60611,56.37
+Jyske Bank Boxen's Restaurant,Herning,7400,Kaj Zartowsvej 7,https://www.ticketmaster.dk/venue/jyske-bank-boxens-restaurant-herning-billetter/jb2/230,8.95375,56.11813
+ECH Park,Esbjerg,6700,Stormgade 200,https://www.ticketmaster.dk/venue/ech-park-esbjerg-billetter/ech/203,8.44834,55.48557
+M/S Museet for Søfart,Helsingør,3000,Ny Kronborgvej 1,https://www.ticketmaster.dk/venue/m-s-museet-for-sofart-helsingor-billetter/mfs/203,12.61555,56.03919
+Scandic The Reef,Frederikshavn,9900,Tordenskjoldsgade 14,https://www.ticketmaster.dk/venue/scandic-the-reef-frederikshavn-billetter/scv/203,10.537,57.43902
+Hotel GSH,Rønne,3700,Strandvejen 79,https://www.ticketmaster.dk/venue/hotel-gsh-ronne-billetter/grq/203,14.71046,55.08524
+Dejbjerglund Hallen,Skjern,6900,"Uglbjergvej 10, Dejbjerg",https://www.ticketmaster.dk/venue/dejbjerglund-hallen-skjern-billetter/dlh/203,8.41813,56.00739
+MCH Arena Herning,Herning,7400,Kaj Zartows Vej 5,https://www.ticketmaster.dk/venue/mch-arena-herning-herning-billetter/mua/203,8.95101,56.1171
+Scandic Sluseholmen,København SV,2450,Molestien 11,https://www.ticketmaster.dk/venue/scandic-sluseholmen-kobenhavn-sv-billetter/slu/203,12.54494,55.6436
+Adg. igennem Kulturhus Svendborg,Svendborg,5700,Ramsherred 4,https://www.ticketmaster.dk/venue/adg-igennem-kulturhus-svendborg-svendborg-billetter/sbv/317,10.60904,55.06056
+CC Silkeborg,Silkeborg,8600,Nygade 27-29,https://www.ticketmaster.dk/venue/cc-silkeborg-silkeborg-billetter/csi/203,9.5471800000000009,56.16707
+Søsportscenter Vilsund,Thisted,7700,Gamle Færgevej 24,https://www.ticketmaster.dk/venue/sosportscenter-vilsund-thisted-billetter/ssv/203,8.62655,56.88142
+"Tinderhøj Skole, Festsalen",Rødovre,2610,Fortvej 71,https://www.ticketmaster.dk/venue/tinderhoj-skole-festsalen-rodovre-billetter/thj/253,12.44971,55.69513
+"Godsbanen, Rå Hal",Aarhus C,8000,Skovgaardsgade 3,https://www.ticketmaster.dk/venue/godsbanen-ra-hal-aarhus-c-billetter/gor/284,10.195,56.15406
+Haaning Collection,Bagsværd,2880,Smørmosevej 16,https://www.ticketmaster.dk/venue/haaning-collection-bagsvaerd-billetter/haco/203,12.44949,55.75412
+-,Støvring,9530,NA,https://www.ticketmaster.dk/venue/--stovring-billetter/a178/203,9.77102,56.86549
+A-Huset,Aarhus C,8000,Skovgaardsgade 5C,https://www.ticketmaster.dk/venue/a-huset-aarhus-c-billetter/aht/203,12.55417,55.67398
+"MCH Messecenter, Hal M",Herning,7400,Vardevej 1,https://www.ticketmaster.dk/venue/mch-messecenter-hal-m-herning-billetter/mcm/214,8.95009,56.12179
+CPH Distillery,København S,2300,Kløvermarksvej 70D,https://www.ticketmaster.dk/venue/cph-distillery-kobenhavn-s-billetter/cdi/284,12.6172,55.67522
 Gårdbogård,Ålbæk,9982,Gårdbovej 300,https://www.ticketmaster.dk/venue/gardbogard-albaek-billetter/gbga/203,10.34721,57.58629
 Comwell Copenhagen Portside,Nordhavn,2150,Alexandriagade 1,https://www.ticketmaster.dk/venue/comwell-copenhagen-portside-nordhavn-billetter/ccp/203,12.5655,55.6759
 STAGEBOX,København K,1432,Refshalevej 189,https://www.ticketmaster.dk/venue/stagebox-kobenhavn-k-billetter/sox/203,12.62233,55.69105
@@ -4032,7 +4129,7 @@ Skovby Kro,Sydals,6470,Kegnæsvej 37,https://www.ticketmaster.dk/venue/skovby-kr
 Hørby Kirke,Holbæk,4300,Fauerbjergvej 3A,https://www.ticketmaster.dk/venue/horby-kirke-holbaek-billetter/hbki/203,11.66394,55.73955
 Folkesalen,Vejen,6600,Petersmindevej 1,https://www.ticketmaster.dk/venue/folkesalen-vejen-billetter/olk/286,9.51928,55.72225
 Open Air ved Teatret,Holstebro,7500,Den Røde Plads 16,https://www.ticketmaster.dk/venue/open-air-ved-teatret-holstebro-billetter/mthp/203,8.6173,56.35666
-Skottegårdsskolen,Kastrup,2770,Saltværksvej 63,https://www.ticketmaster.dk/venue/skottegardsskolen-kastrup-billetter/sko/203,55.63785,12.63605
+Skottegårdsskolen,Kastrup,2770,Saltværksvej 63,https://www.ticketmaster.dk/venue/skottegardsskolen-kastrup-billetter/sko/203,NA,NA
 Kan benyttes,Aabenraa,6200,Kan benyttes,https://www.ticketmaster.dk/venue/kan-benyttes-aabenraa-billetter/brq/203,9.42097,55.04462
 Eventpladsen foran MCH Arena,Herning,7400,Kaj Zartows Vej 5,https://www.ticketmaster.dk/venue/eventpladsen-foran-mch-arena-herning-billetter/ema/203,12.55417,56.11676
 CABINN Vejle,Vejle,7100,Dæmningen 6,https://www.ticketmaster.dk/venue/cabinn-vejle-vejle-billetter/cabi/203,9.5332,55.70512
@@ -4251,7 +4348,7 @@ Mojo Blues Bar,København K,1468,Løngangstræde 21 C,https://www.ticketmaster.d
 Riis Skov,Aarhus N,8200,Dronning Margrethes Vej v Marienlundsvej,https://www.ticketmaster.dk/venue/riis-skov-aarhus-n-billetter/rii/203,10.22096,56.17308
 Hedeland Amfiteater,Hedehusene,2640,Tranemosevej 8,https://www.ticketmaster.dk/venue/hedeland-amfiteater-hedehusene-billetter/amt/203,11.39222,55.56209
 Bygma Lounge,København S,2300,Ørestads Boulevard 114 - 118,https://www.ticketmaster.dk/venue/bygma-lounge-kobenhavn-s-billetter/by1/230,12.57809,55.62688
-"Redningshuset, Klitmøller",Thisted,158,Ørhagevej,https://www.ticketmaster.dk/venue/redningshuset-klitmoller-thisted-billetter/rlm/203,1,1
+"Redningshuset, Klitmøller",Thisted,158,Ørhagevej,https://www.ticketmaster.dk/venue/redningshuset-klitmoller-thisted-billetter/rlm/203,NA,NA
 Bentex Is Arena,Aalborg Øst,9220,Willy Brandts Vej 31,https://www.ticketmaster.dk/venue/bentex-is-arena-aalborg-st-billetter/bxi/203,9.9631,57.01835
 Hald Ege Efterskole,Viborg,8800,Videbechs Alle 137,https://www.ticketmaster.dk/venue/hald-ege-efterskole-viborg-billetter/eef/194,9.34679,56.41142
 Rosborg Gymnasium,Vejle,7100,Vestre Engvej 61,https://www.ticketmaster.dk/venue/rosborg-gymnasium-vejle-billetter/rgy/203,9.51416,55.70715
@@ -4324,7 +4421,7 @@ Tuse hallen,Holbæk,4300,Tuse Byvej 8,https://www.ticketmaster.dk/venue/tuse-hal
 BigBio Nordhavn,Nordhavn,2150,Hamborg Pl. 6,https://www.ticketmaster.dk/venue/bigbio-nordhavn-nordhavn-billetter/bbn/203,12.59683,55.7075
 Cinemateket,København K,1123,Gothersgade 55,https://www.ticketmaster.dk/venue/cinemateket-kobenhavn-k-billetter/cnm/203,12.57859,55.68313
 To Øl City,Svinninge,4520,Ringstedvej 13,https://www.ticketmaster.dk/venue/to-l-city-svinninge-billetter/too/203,11.4551,55.71917
-AHA,Fredericia,7000,Købmagergade 56B,https://www.ticketmaster.dk/venue/aha-fredericia-billetter/aha1/203,-75.46575,39.009
+AHA,Fredericia,7000,Købmagergade 56B,https://www.ticketmaster.dk/venue/aha-fredericia-billetter/aha1/203,NA,NA
 Ring Djursland,Kolind,8560,Amu-Centervej 2,https://www.ticketmaster.dk/venue/ring-djursland-kolind-billetter/rju/203,10.68048,56.3377
 v. Svømmehallen,Ølstykke,3650,Stadionvej,https://www.ticketmaster.dk/venue/v-svommehallen-lstykke-billetter/a003/203,12.14727,55.78131
 Emma,København K,1074,Lille Kongensgade 16,https://www.ticketmaster.dk/venue/emma-kobenhavn-k-billetter/emm/203,12.58358,55.67958
@@ -4337,149 +4434,54 @@ Basak Saray,København S,2450,Bådhavnsgade 57,https://www.ticketmaster.se/venue
 Teatermuseet i Hofteatret Københ,København K,1218,Christiansborg Ridebane,https://www.ticketmaster.se/venue/teatermuseet-i-hofteatret-kobenh-kobenhavn-k-biljetter/cri/632,12.57944,55.67511
 Næsbyholm Slot,Glumsø,NA,Næsbyholm Alle 7-9,https://www.ticketmaster.se/venue/naesbyholm-slot-glumso-biljetter/dns/520,11.6012,55.36866
 Vega,København V,NA,Enghavevej 40,https://www.ticketmaster.se/venue/vega-kobenhavn-v-biljetter/vek/524,12.54428,55.667943
-Vega - House of Music,Copenhagen S,2300,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
+Vega - House of Music,Copenhagen S,2300,NA,NA,NA,NA
+Royal Arena,Copenhagen S,2300,"Hannemanns All?? 18-20, 2300 K??benhavn S",NA,NA,NA
+Koge Kirke,Koge,4600,Kirkestraede 26,NA,NA,NA
+Slagmarken,Sonderborg,6400,Skydebanevel,NA,NA,NA
+MCH Messecenter,Herning,7400,East Street 37,NA,NA,NA
+Ceres Park,Aarhus,8000,Stadion All?? 70,NA,NA,NA
+Roskilde Festival Grounds,Roskilde,NA,Havsteensvej 11,NA,NA,NA
+Aabenraa Stadion,Aabenraa,6200,Vestvejen 25,https://www.ticketmaster.dk/venue/aabenraa-stadion-aabenraa-billetter/aab/203,9.40553,55.036
+Aalholm Gods,Nysted,4880,Aalholm Parkvej 17,https://www.ticketmaster.dk/venue/aalholm-gods-nysted-billetter/aag/203,11.70743,54.66916
+Arkitekskolen Aarhus,Aarhus C,8000,Nørreport 20,https://www.ticketmaster.dk/venue/arkitekskolen-aarhus-aarhus-c-billetter/aaa/203,10.21247,56.16134
+Åbenkirke,Herning,7400,Olufsgade 10,https://www.ticketmaster.dk/venue/abenkirke-herning-billetter/aae/203,8.99032,56.13362
+Musikhuset Aarhus,Aarhus,8000,Thomas Jensens Alle,NA,NA,NA
+Parken - Copenhagen,Copenhagen,2100,Per Henrik Lings All?? 2,NA,NA,NA
+Faengslet - State Prison Open Air,Horsens,8700,Fussingsvej 8,NA,NA,NA
+Forum - Copenhagen,Fredericksberg,1925,Julius Thomsens Plads 1,NA,NA,NA
+Durban ICC,Durban,12345,NA,https://www.google.dk/,NA,NA
+Aalborg Teater/Store Scene,Aalborg,9000,Jernbanegade 9-11,https://www.ticketmaster.dk/venue/aalborg-teater-store-scene-aalborg-billetter/als/165,10.11538,56.88681
+Aalborg Teater/Lille Scene,Aalborg,9000,Jernbangegade 9-11,https://www.ticketmaster.dk/venue/aalborg-teater-lille-scene-aalborg-billetter/ali/165,9.91664,57.04715
+"Aalborg Teater,Mindste Scene",Aalborg,9000,Jernbanegade 9-11,https://www.ticketmaster.dk/venue/aalborg-teatertransformator-aalborg-billetter/alm/165,10.11538,56.88681
+Aalborg Teater/Caféscenen,Aalborg,9000,Jernbanegade 9-11,https://www.ticketmaster.dk/venue/aalborg-teater-cafescenen-aalborg-billetter/alc/165,10.11538,56.88681
+Allinge Stadion,Allinge,3770,Strandvejen,https://www.ticketmaster.dk/venue/allinge-stadion-allinge-billetter/all/203,14.7925,55.28229
+AIA-Tranbjerg Idrætsforeningen,Tranbjerg J,8310,Grønløkke Allé 7,https://www.ticketmaster.dk/venue/aia-tranbjerg-idraetsforeningen-tranbjerg-j-billetter/ait/203,10.13256,56.09346
+Abildgård Kirke,Frederikshavn,9900,Abildgårdsvej 56,https://www.ticketmaster.dk/venue/abildgard-kirke-frederikshavn-billetter/agk/190,10.52473,57.44748
+Askov Højskole,Vejen,6600,Maltvej 1,https://www.ticketmaster.dk/venue/askov-hojskole-vejen-billetter/ahv/203,9.09965,55.47101
+Abildgaard Kirke,Frederikshavn,9900,Abildgaardsvej 56,https://www.ticketmaster.dk/venue/abildgaard-kirke-frederikshavn-billetter/aga/203,10.52467,57.44751
+Ådalshallen,Mørke,8544,"Ådalen 2, Skørring",https://www.ticketmaster.dk/venue/adalshallen-morke-billetter/aha/203,10.27367,56.36371
+Aalborg Stadion,Aalborg,9000,Annebergvej 48,https://www.ticketmaster.dk/venue/aalborg-stadionhal-3-aalborg-billetter/abk/203,9.89765,57.05079
+Albertslund Bibliotek,Albertslund,2620,Bibliotekstorvet 2,https://www.ticketmaster.dk/venue/albertslund-bibliotek-albertslund-billetter/abi/203,12.35622,55.65699
+Aalborg Kongres-og Kulturcenter,Aalborg,9000,Europa Plads 4,https://www.ticketmaster.dk/venue/aalborg-kongres-og-kulturcenter-aalborg-billetter/abh/206,9.91332,57.04346
+Aalborg Kongres & Kultur Center,Aalborg,9000,Europa Plads 4,https://www.ticketmaster.dk/venue/aalborg-kongres--kultur-center-aalborg-billetter/abh/247,9.91332,57.04346
+Action House,Løkken,9480,Industrivej 1,https://www.ticketmaster.dk/venue/action-house-lokken-billetter/act/203,9.72861,57.37343
+Anlægget ved Børkop Rådhus,Børkop,7080,Ågade 6,https://www.ticketmaster.dk/venue/anlaegget-ved-borkop-radhus-borkop-billetter/abr/203,9.65421,55.64373
+"Aalborg Kongres, Laugstuen",Aalborg,9100,Europa Plads 4,https://www.ticketmaster.dk/venue/aalborg-kongres-laugstuen-aalborg-billetter/abl/203,9.91332,57.04346
+Anneberg Samlingerne,Nykøbing Sj,4500,Annebjergstræde 2,https://www.ticketmaster.dk/venue/anneberg-samlingerne-nykobing-sj-billetter/abs/203,11.66481,55.90373
+Bruges ikke (Arken),Ishøj,2635,Skovvej 100,https://www.ticketmaster.dk/venue/bruges-ikke-arken--ishoj-billetter/ake/203,12.38764,55.60612
+Amaliekajen v/Amaliehaven,København K,NA,Larsens Plads,https://www.ticketmaster.dk/venue/amaliekajen-v-amaliehaven-kobenhavn-k-billetter/akj/203,12.59577,55.68378
+Arkaden,Odense C,5000,Vestergade 68,https://www.ticketmaster.dk/venue/arkaden-odense-c-billetter/aka/203,10.38319,55.39457
+Aakirkeby-Hallerne,Aakirkeby,3720,Aakirkeby-Hallerne,https://www.ticketmaster.dk/venue/aakirkeby-hallerne-aakirkeby-billetter/aki/203,14.9205,55.07008
+Musikteatret Albertslund,Albertslund,2620,Bibliotekstorvet 1-3,https://www.ticketmaster.dk/venue/musikteatret-albertslund-albertslund-billetter/alb/251,12.35578,55.65643
+"Arkitektskolen, Holmen",København K,1435,"Danneskiold-Samsøs Allé 51, Indgang F",https://www.ticketmaster.dk/venue/arkitektskolen-holmen-kobenhavn-k-billetter/akt/210,12.60453,55.68149
+Åhe Abe koncerter,København NV,2400,NA,https://www.ticketmaster.dk/venue/ahe-abe-koncerter-kobenhavn-nv-billetter/abe/203,12.53495,55.71329
+Årslev Hallen,Årslev,5792,Bøgehøjvej 2,https://www.ticketmaster.dk/venue/arslev-hallen-arslev-billetter/aas/203,10.4724,55.30423
+Amager Beer Festival,Kastrup,2770,John Tranums allé,https://www.ticketmaster.dk/venue/amager-beer-festival-kastrup-billetter/abf/203,12.64109,55.63245
+"Aarhus, Den Gamle By",Aarhus C,8000,"Aarhus, Den Gamle By",https://www.ticketmaster.dk/venue/aarhus-den-gamle-by-aarhus-c-billetter/aar/203,10.1915,56.1592
+Aalborg Kloster,Aalborg,9000,Klosterjordet 10,https://www.ticketmaster.dk/venue/aalborg-kloster-aalborg-billetter/aak/247,9.91862,57.049
+Aalborg Hallen,Aalborg,9000,Europa Plads 4,https://www.ticketmaster.dk/venue/aalborghallen-aalborg-billetter/aal/203,9.91267,57.04365
+Mødested: Amagerfælledvej 73,København S,2300,Amager Fælledvej 73,https://www.ticketmaster.dk/venue/modested-amagerfaelledvej-73-kobenhavn-s-billetter/afv/203,12.59333,55.65899
+Amfiscenen,Odense C,5000,Brandts Passage,https://www.ticketmaster.dk/venue/amfiscenen-odense-c-billetter/afi/203,10.38133,55.39525
+Århus Firma Sport,Aarhus N,8200,Paludan-Müllers Vej 110,https://www.ticketmaster.dk/venue/arhus-firma-sport-aarhus-n-billetter/afs/203,10.17397,56.18043
+Akademiets Have - DANSEhallerne,København V,1778,Pasteursvej 24,https://www.ticketmaster.dk/venue/akademiets-have-dansehallerne-kobenhavn-v-billetter/ada/203,12.53659,55.66509
+Ambufestpladsen,Hobro,9500,Aalykkevej,https://www.ticketmaster.dk/venue/ambuparken-hobro-billetter/afp/203,9.78154,56.63256

@@ -22,6 +22,7 @@ myticket Jahrhunderthalle,Frankfurt am Main,65929,Pfaffenwiese 301,https://www.t
 Mies-van-der-Rohe-Schule,Aachen,52068,Neuköllner Str. 17,https://www.ticketmaster.de/venue/mies-van-der-rohe-schule-aachen-tickets/aamvdrs/716,6.12308,50.78956
 Willingen (Upland) Open Air,Willingen,34508,Vor den Weiden,https://www.ticketmaster.de/venue/willingen-upland-open-air-willingen-tickets/willopenai/749,8.60622,51.29061
 Häkken (Klubhaus St. Pauli),Hamburg,20359,Spielbudenplatz 21-22,https://www.ticketmaster.de/venue/hakken-klubhaus-st-pauli--hamburg-tickets/hamhaekken/753,9.96438,53.54941
+Bahnhof Pauli,Hamburg,20539,Spielbudenplatz 21-22,https://www.ticketmaster.de/venue/bahnhof-pauli-hamburg-tickets/hambahnpau/701,9.96426,53.54923
 Club Volta,Cologne,51063,"Schanzenstr. 6-20, Gebäude 2.10",https://www.ticketmaster.de/venue/club-volta-koln-tickets/koeclubvol/753,7.01283,50.9665
 edel-optics.de Arena,Hamburg,21109,Kurt-Emmerich-Platz 10-12,https://www.ticketmaster.de/venue/edel-opticsde-arena-hamburg-tickets/hamedeoare/701,10.00251,53.49572
 Kurhaus,Bernburg,6406,Solbadstraße 2,https://www.ticketmaster.de/venue/kurhaus-bernburg-tickets/bnbkurhaus/701,11.73229,51.79884
@@ -101,6 +102,7 @@ QUARTERBACK Immobilien ARENA,Leipzig,4105,Am Sportforum 2,https://www.ticketmast
 Fanatec-Arena,Landshut,84034,Am Gutenbergweg 32,https://www.ticketmaster.de/venue/fanatec-arena-landshut-tickets/lhseisstad/731,12.13857,48.52979
 Uckermärkische Bühnen,Schwedt/Oder,16303,Berliner Straße 46-48,https://www.ticketmaster.de/venue/uckermarkische-buhnen-schwedt-oder-tickets/sdtoducker/749,14.29804,53.06703
 Theater der Stadt,Diepholz,49356,Schlesierstr. 13,https://www.ticketmaster.de/venue/theater-der-stadt-diepholz-tickets/diptheasta/742,8.36372,52.6108
+Badehaus Berlin,Berlin,10245,Revaler Str. 99,https://www.ticketmaster.de/venue/badehaus-berlin-berlin-tickets/berbadeszi/753,13.45493,52.50833
 Yuca,Cologne,50825,Bartholomäus-Schink-Straße 65/67,https://www.ticketmaster.de/venue/yuca-koln-tickets/koeyuca/761,6.91641,50.95178
 Deutsches Theater München,Munich,80336,Schwanthalerstr. 13,https://www.ticketmaster.de/venue/deutsches-theater-munchen-munchen-tickets/muedeutthe/753,11.56262,48.13746
 Schloßplatz,Coburg,96450,Schlossplatz,https://www.ticketmaster.de/venue/schlossplatz-coburg-tickets/cobschlosp/753,10.96782,50.25889
@@ -140,24 +142,25 @@ Messegelände Essen - Halle 5,Essen,45131,Messeplatz 1,https://www.ticketmaster.
 Fitzroy,Berlin,10179,Holzmarktstraße 15,https://www.ticketmaster.de/venue/fitzroy-berlin-tickets/berfitzroy/753,13.4205,52.51376
 WERK7 theater,Munich,81671,Speicherstraße 22,https://www.ticketmaster.de/venue/werk7-theater-munchen-tickets/muewerk7/753,11.6062,48.12374
 Virtual Event,Worldwide,NA,NA,https://www.ticketmaster.de/venue/virtuelles-event-weltweit-tickets/zzzvirtuel/706,10,50
-PSD Bank Stadion,Frankfurt am Main,60386,NA,https://www.ticketmaster.de/venue/psd-bank-stadion-frankfurt-am-main-tickets/famvolksba/737,8.72254,50.12772
-SparkassenForum,Böblingen,71034,NA,https://www.ticketmaster.de/venue/sparkassenforum-boblingen-tickets/bobsparkas/749,9.00884,48.68584
-Messe Bremen Parkhaus,Bremen,28215,NA,https://www.ticketmaster.de/venue/messe-bremen-parkhaus-bremen-tickets/bremesspar/740,8.81482,53.08818
-Besucherzentrum Willingen,Willingen,34508,NA,https://www.ticketmaster.de/venue/besucherzentrum-willingen-willingen-tickets/wllbesuche/749,8.61142,51.29041
-Zeltphilharmonie,Hamburg,20457,NA,https://www.ticketmaster.de/venue/zeltphilharmonie-hamburg-tickets/hamzeltphi/753,10.64905,53.04104
-Residenzschloss,Rastatt,76437,NA,https://www.ticketmaster.de/venue/residenzschloss-rastatt-tickets/rasschloss/753,8.20519,48.85833
-Neues Schloss Tettnang,Tettnang,88069,NA,https://www.ticketmaster.de/venue/neues-schloss-tettnang-tettnang-tickets/tetneuschl/753,9.55135,47.67096
-Olympischer Platz,Berlin,14053,NA,https://www.ticketmaster.de/venue/olympischer-platz-berlin-tickets/berolympla/706,13.24657,52.51578
-Festwiese Petersberg,Erfurt,99084,NA,https://www.ticketmaster.de/venue/festwiese-petersberg-erfurt-tickets/erffestwpe/701,11.03024,51.0246
-Messe München GmbH,Munich,81823,NA,https://www.ticketmaster.de/venue/messe-munchen-gmbh-munchen-tickets/muemesse/753,11.69812,48.13594
-Bunker Paulsmühlenstraße,Düsseldorf,40597,NA,https://www.ticketmaster.de/venue/bunker-paulsmuhlenstrasse-dusseldorf-tickets/dusbunpaul/737,6.88338,51.16449
-Freilichtbühne Schönewalde,Schönewalde,4916,NA,https://www.ticketmaster.de/venue/freilichtbuhne-schonewalde-schonewalde-tickets/sowfreilic/701,13.21508,51.8119
-Isarphilharmonie im Gasteig HP8,Munich,81379,NA,https://www.ticketmaster.de/venue/isarphilharmonie-im-gasteig-hp8-munchen-tickets/mueisarphi/701,11.55404,48.1114
-Helmut-Körnig-Halle,Dortmund,44139,NA,https://www.ticketmaster.de/venue/helmut-kornig-halle-dortmund-tickets/dorhelmutk/705,7.45605,51.49413
-Mojo Club,Hamburg,20359,NA,https://www.ticketmaster.de/venue/mojo-club-hamburg-tickets/hammojoclu/701,9.64719,53.75287
-Freilichtbühne Peißnitz,Halle (Saale),6108,NA,https://www.ticketmaster.de/venue/freilichtbuhne-peissnitz-halle-saale--tickets/halpeissni/733,11.94978,51.49037
-MAX Nachttheater,Kiel,24116,NA,https://www.ticketmaster.de/venue/max-nachttheater-kiel-tickets/kiemaxnach/701,10.11172,54.33272
-Kabarett-Theater Die Wühlmäuse,Berlin,14052,NA,https://www.ticketmaster.de/venue/kabarett-theater-die-wuhlmause-berlin-tickets/berwuehlma/701,13.27091,52.50858
+PSD Bank Stadion,Frankfurt am Main,60386,Erlenbruch 1,https://www.ticketmaster.de/venue/psd-bank-stadion-frankfurt-am-main-tickets/famvolksba/737,8.72254,50.12772
+SparkassenForum,Böblingen,71034,Bahnhofstr. 8,https://www.ticketmaster.de/venue/sparkassenforum-boblingen-tickets/bobsparkas/749,9.00884,48.68584
+Messe Bremen Parkhaus,Bremen,28215,Hollerallee 99,https://www.ticketmaster.de/venue/messe-bremen-parkhaus-bremen-tickets/bremesspar/740,8.81482,53.08818
+Besucherzentrum Willingen,Willingen,34508,Am Hagen 10,https://www.ticketmaster.de/venue/besucherzentrum-willingen-willingen-tickets/wllbesuche/749,8.61142,51.29041
+Zeltphilharmonie,Hamburg,20457,Buchheisterstr. 16,https://www.ticketmaster.de/venue/zeltphilharmonie-hamburg-tickets/hamzeltphi/753,10.64905,53.04104
+Rudolf-Harbig-Stadion,Dresden,1069,Lennéstraße 12,https://www.ticketmaster.de/venue/rudolf-harbig-stadion-dresden-tickets/dreruharst/701,13.74793,51.0409
+Residenzschloss,Rastatt,76437,Herrenstraße 18-20,https://www.ticketmaster.de/venue/residenzschloss-rastatt-tickets/rasschloss/753,8.20519,48.85833
+Neues Schloss Tettnang,Tettnang,88069,Montfortplatz 1,https://www.ticketmaster.de/venue/neues-schloss-tettnang-tettnang-tickets/tetneuschl/753,9.55135,47.67096
+Olympischer Platz,Berlin,14053,Olympischer Platz,https://www.ticketmaster.de/venue/olympischer-platz-berlin-tickets/berolympla/706,13.24657,52.51578
+Festwiese Petersberg,Erfurt,99084,Petersberg,https://www.ticketmaster.de/venue/festwiese-petersberg-erfurt-tickets/erffestwpe/701,11.03024,51.0246
+Messe München GmbH,Munich,81823,Messegelände,https://www.ticketmaster.de/venue/messe-munchen-gmbh-munchen-tickets/muemesse/753,11.69812,48.13594
+Bunker Paulsmühlenstraße,Düsseldorf,40597,Paulsmühlenstraße 51,https://www.ticketmaster.de/venue/bunker-paulsmuhlenstrasse-dusseldorf-tickets/dusbunpaul/737,6.88338,51.16449
+Freilichtbühne Schönewalde,Schönewalde,4916,Am Park 1-2,https://www.ticketmaster.de/venue/freilichtbuhne-schonewalde-schonewalde-tickets/sowfreilic/701,13.21508,51.8119
+Isarphilharmonie im Gasteig HP8,Munich,81379,Hans-Preißinger-Straße 8,https://www.ticketmaster.de/venue/isarphilharmonie-im-gasteig-hp8-munchen-tickets/mueisarphi/701,11.55404,48.1114
+Helmut-Körnig-Halle,Dortmund,44139,Strobelallee 40,https://www.ticketmaster.de/venue/helmut-kornig-halle-dortmund-tickets/dorhelmutk/705,7.45605,51.49413
+Mojo Club,Hamburg,20359,Reeperbahn 1,https://www.ticketmaster.de/venue/mojo-club-hamburg-tickets/hammojoclu/701,9.64719,53.75287
+Freilichtbühne Peißnitz,Halle (Saale),6108,Birkenallee - Peißnitzinsel,https://www.ticketmaster.de/venue/freilichtbuhne-peissnitz-halle-saale--tickets/halpeissni/733,11.94978,51.49037
+MAX Nachttheater,Kiel,24116,Eichhofstraße 1,https://www.ticketmaster.de/venue/max-nachttheater-kiel-tickets/kiemaxnach/701,10.11172,54.33272
+Kabarett-Theater Die Wühlmäuse,Berlin,14052,Pommernallee 2-4,https://www.ticketmaster.de/venue/kabarett-theater-die-wuhlmause-berlin-tickets/berwuehlma/701,13.27091,52.50858
 Halle Nord,Buxtehude,NA,NA,https://www.ticketmaster.de/venue/halle-nord-buxtehude-tickets/buxhalnord/731,9.70311,53.47717
 Friedr.-Ludwig-Jahn-Sportpark,Berlin,10437,Cantianstr. 24,https://www.ticketmaster.de/venue/friedr-ludwig-jahn-sportpark-berlin-tickets/berjahnspo/731,13.40875,52.54305
 Sportzentrum Hüttenberg,Hüttenberg,35625,Hauptstr. 107,https://www.ticketmaster.de/venue/sportzentrum-huttenberg-huttenberg-tickets/huettbspoz/731,8.62142,50.51539
@@ -281,24 +284,24 @@ BERLIN - Diverse Veranstaltungsstätten,Berlin,10115,NA,http://www.ticketmaster.
 FULDA - Diverse Veranstaltungsstätten,Fulda,36037,NA,http://www.ticketmaster.de/venue/290558,NA,NA
 SANGERHAUSEN - Diverse Veranstaltungsstätten,Sangerhausen,6526,NA,http://www.ticketmaster.de/venue/290555,NA,NA
 KOBLENZ - Diverse Veranstaltungsstätten,Koblenz,56068,NA,http://www.ticketmaster.de/venue/290543,NA,NA
-Ostbayernhalle,Rieden,92286,NA,http://www.ticketmaster.de/venue/290530,NA,NA
+Ostbayernhalle,Rieden,92286,Kreuth,http://www.ticketmaster.de/venue/290530,NA,NA
 Erfurt - Diverse Veranstaltungsstätten,Erfurt,99084,NA,http://www.ticketmaster.de/venue/290525,NA,NA
-Irish Pub O' Tooles,Eisenach,99817,NA,http://www.ticketmaster.de/venue/290535,NA,NA
+Irish Pub O' Tooles,Eisenach,99817,Goethestrasse 25,http://www.ticketmaster.de/venue/290535,NA,NA
 HEILIGENSTADT - Diverse Veranstaltungsstätten,Heiligenstadt,91332,NA,http://www.ticketmaster.de/venue/290565,NA,NA
 STARNBERG - Diverse Veranstaltungsstätten,Starnberg,82319,NA,http://www.ticketmaster.de/venue/290562,NA,NA
-St. Gandolf,Amorbach,63916,NA,http://www.ticketmaster.de/venue/290561,NA,NA
-Bröltalhalle,Ruppichteroth,53809,NA,http://www.ticketmaster.de/venue/290524,NA,NA
-Club Biergarten Dieburg,Dieburg,64807,NA,http://www.ticketmaster.de/venue/290778,NA,NA
-Eventhaus Hoffnung,Lübeck,23564,NA,http://www.ticketmaster.de/venue/290771,NA,NA
-Sporthalle am Böllenfalltor,Darmstadt,64285,NA,http://www.ticketmaster.de/venue/290765,NA,NA
-Irish Harp Pup,Berlin,10629,NA,http://www.ticketmaster.de/venue/290767,NA,NA
-Inselhalle,Lindau,88131,NA,http://www.ticketmaster.de/venue/290782,NA,NA
-4053,Madrid - Spanien,28013,NA,http://www.ticketmaster.de/venue/290773,NA,NA
-Badesee,Ertingen,88521,NA,http://www.ticketmaster.de/venue/290787,NA,NA
-Kurpark Classix,Aachen,52062,NA,http://www.ticketmaster.de/venue/290781,NA,NA
-The Red Rooster,Dresden,1097,NA,http://www.ticketmaster.de/venue/290776,NA,NA
-Max-Kramp-Haus,Hamburg,22393,NA,http://www.ticketmaster.de/venue/290757,NA,NA
-Martinskirche Rahlstedt,Hamburg,22143,NA,http://www.ticketmaster.de/venue/290762,NA,NA
+St. Gandolf,Amorbach,63916,Kirchplatz 7,http://www.ticketmaster.de/venue/290561,NA,NA
+Bröltalhalle,Ruppichteroth,53809,Dr. Herzfeld Strasse,http://www.ticketmaster.de/venue/290524,NA,NA
+Club Biergarten Dieburg,Dieburg,64807,Hohe Strasse 17,http://www.ticketmaster.de/venue/290778,NA,NA
+Eventhaus Hoffnung,Lübeck,23564,Hüxtertorallee 23a,http://www.ticketmaster.de/venue/290771,NA,NA
+Sporthalle am Böllenfalltor,Darmstadt,64285,Nieder Ramstädter Strasse 170,http://www.ticketmaster.de/venue/290765,NA,NA
+Irish Harp Pup,Berlin,10629,Giesebrechtstrasse15,http://www.ticketmaster.de/venue/290767,NA,NA
+Inselhalle,Lindau,88131,Ludwigstrasse 68,http://www.ticketmaster.de/venue/290782,NA,NA
+4053,Madrid - Spanien,28013,Calle de Tetuan 27,http://www.ticketmaster.de/venue/290773,NA,NA
+Badesee,Ertingen,88521,Schwarenachstrasse,http://www.ticketmaster.de/venue/290787,NA,NA
+Kurpark Classix,Aachen,52062,Kurgarten Monheimsallee,http://www.ticketmaster.de/venue/290781,NA,NA
+The Red Rooster,Dresden,1097,Rähnitzgasse 10,http://www.ticketmaster.de/venue/290776,NA,NA
+Max-Kramp-Haus,Hamburg,22393,Duvenstedter Markt 8,http://www.ticketmaster.de/venue/290757,NA,NA
+Martinskirche Rahlstedt,Hamburg,22143,Hohwachter Weg 2,http://www.ticketmaster.de/venue/290762,NA,NA
 Ballroom Hamburg (Cafe Keese),Hamburg,20359,Reeperbahn 19-21,http://www.ticketmaster.de/venue/290770,NA,NA
 Werratalsee,Eschwege,37269,NA,http://www.ticketmaster.de/venue/290794,NA,NA
 Hafenkran,Hamburg,20457,Versmannstrasse 23,http://www.ticketmaster.de/venue/290792,NA,NA
@@ -420,25 +423,25 @@ Stadthalle Marienberg,Marienberg,9496,Walter-Mehnert-Strasse 3,http://www.ticket
 Schloss Wedendorf,Wedendorf,19217,Schlossstrasse 7,http://www.ticketmaster.de/venue/290814,NA,NA
 Porzellanmanufaktur,Sitzendorf,7429,Hauptstrasse 26,http://www.ticketmaster.de/venue/290808,NA,NA
 Marktplatz Barmstedt,Barmstedt,25355,NA,http://www.ticketmaster.de/venue/290809,NA,NA
-Walfisch,Freiburg,79102,NA,http://www.ticketmaster.de/venue/290826,NA,NA
-Deutsche Landwirtschaftsmuseum,Blankenhain bei Crimmitschau,8451,NA,http://www.ticketmaster.de/venue/290815,NA,NA
-Theater des Windthorst-Gymnasium,Meppen,49716,NA,http://www.ticketmaster.de/venue/290830,NA,NA
-Kulturhof Heyerhöfen,Beverstedt,27616,NA,http://www.ticketmaster.de/venue/290824,NA,NA
-Stadthalle Zerbst,Zerbst,39261,NA,http://www.ticketmaster.de/venue/290818,NA,NA
-Schlossgut Gross Schwansee,Gross Schwansee,23942,NA,http://www.ticketmaster.de/venue/290804,NA,NA
-Scherenburg,Gemünden am Main,97737,NA,http://www.ticketmaster.de/venue/290802,NA,NA
-Gedenkstätte Marienborn,Marienborn,39365,NA,http://www.ticketmaster.de/venue/290811,NA,NA
-CCH (Saal 4),Hamburg,20355,NA,http://www.ticketmaster.de/venue/290835,NA,NA
-Die Linse,Ravensburg,88250,NA,http://www.ticketmaster.de/venue/290834,NA,NA
-cubus Kunsthalle,Duisburg,47051,NA,http://www.ticketmaster.de/venue/290831,NA,NA
-Maschsee,Hannover,30169,NA,http://www.ticketmaster.de/venue/290798,NA,NA
-St. Mauritiskirche,Reepsholt,26446,NA,http://www.ticketmaster.de/venue/290745,NA,NA
-Pastis,Wiesbaden,65189,NA,http://www.ticketmaster.de/venue/290735,NA,NA
-SI-Zentrum,Stuttgart,70567,NA,http://www.ticketmaster.de/venue/290731,NA,NA
-Autostadt,Wolfsburg,38440,NA,http://www.ticketmaster.de/venue/290732,NA,NA
-Stadttheater,Konstanz,78462,NA,http://www.ticketmaster.de/venue/290749,NA,NA
-Gedächtniskirche,Speyer,67346,NA,http://www.ticketmaster.de/venue/290740,NA,NA
-Club Centrum,Erfurt,99084,NA,http://www.ticketmaster.de/venue/290750,NA,NA
+Walfisch,Freiburg,79102,Schützenallee 1,http://www.ticketmaster.de/venue/290826,NA,NA
+Deutsche Landwirtschaftsmuseum,Blankenhain bei Crimmitschau,8451,Am Schloss,http://www.ticketmaster.de/venue/290815,NA,NA
+Theater des Windthorst-Gymnasium,Meppen,49716,Gymnasialstrasse 3,http://www.ticketmaster.de/venue/290830,NA,NA
+Kulturhof Heyerhöfen,Beverstedt,27616,Heerstedter Mühlenweg 13,http://www.ticketmaster.de/venue/290824,NA,NA
+Stadthalle Zerbst,Zerbst,39261,Schlossfreiheit 12,http://www.ticketmaster.de/venue/290818,NA,NA
+Schlossgut Gross Schwansee,Gross Schwansee,23942,Am Park 1,http://www.ticketmaster.de/venue/290804,NA,NA
+Scherenburg,Gemünden am Main,97737,Theater im Burghof,http://www.ticketmaster.de/venue/290802,NA,NA
+Gedenkstätte Marienborn,Marienborn,39365,An der BAB 2,http://www.ticketmaster.de/venue/290811,NA,NA
+CCH (Saal 4),Hamburg,20355,Marseiller Strasse,http://www.ticketmaster.de/venue/290835,NA,NA
+Die Linse,Ravensburg,88250,Liebfrauenweg 58,http://www.ticketmaster.de/venue/290834,NA,NA
+cubus Kunsthalle,Duisburg,47051,Friedrich-Wilhelm-Strasse 64,http://www.ticketmaster.de/venue/290831,NA,NA
+Maschsee,Hannover,30169,Ferdinand Wilhelm Fricke Weg,http://www.ticketmaster.de/venue/290798,NA,NA
+St. Mauritiskirche,Reepsholt,26446,Frieslandstrasse,http://www.ticketmaster.de/venue/290745,NA,NA
+Pastis,Wiesbaden,65189,Bahhofsplatz 1,http://www.ticketmaster.de/venue/290735,NA,NA
+SI-Zentrum,Stuttgart,70567,Plieninger Strasse 100,http://www.ticketmaster.de/venue/290731,NA,NA
+Autostadt,Wolfsburg,38440,StadtBrücke,http://www.ticketmaster.de/venue/290732,NA,NA
+Stadttheater,Konstanz,78462,Inselgasse 2,http://www.ticketmaster.de/venue/290749,NA,NA
+Gedächtniskirche,Speyer,67346,Bartholomäus Weltz Platz,http://www.ticketmaster.de/venue/290740,NA,NA
+Club Centrum,Erfurt,99084,Anger 7-9/Reglermauer,http://www.ticketmaster.de/venue/290750,NA,NA
 Christuskirche,Harpstedt,27243,Erste Kirchstrasse,http://www.ticketmaster.de/venue/290746,NA,NA
 Bürgersaal,Konstanz,78459,Kanzleistrasse 15,http://www.ticketmaster.de/venue/290742,NA,NA
 LGS,Neu Ulm,89231,Wiley Strasse,http://www.ticketmaster.de/venue/290727,NA,NA
@@ -580,25 +583,25 @@ BASF Feierabendhaus,Ludwigshafen,67063,Leuschner Strasse 47,http://www.ticketmas
 Kurfürstliches Schlosshotel,Sailauf bei Aschaffenburg,63877,Weyberhöfe,http://www.ticketmaster.de/venue/289910,NA,NA
 Krystallpalast,Leipzig,4109,Magazingasse 4,http://www.ticketmaster.de/venue/289908,NA,NA
 Altstadtmarktplatz,Castrop Rauxel,44575,NA,http://www.ticketmaster.de/venue/289923,NA,NA
-3227,Witten,58452,NA,http://www.ticketmaster.de/venue/289947,NA,NA
-Bergschlösschen,Bad Segeberg,23795,NA,http://www.ticketmaster.de/venue/289945,NA,NA
-Kulturfenster e.V.,Heidelberg,69115,NA,http://www.ticketmaster.de/venue/289941,NA,NA
-BRITA Arena,Wiesbaden,65189,NA,http://www.ticketmaster.de/venue/289904,NA,NA
-Jahnhalle,Kirchheimbolanden,67292,NA,http://www.ticketmaster.de/venue/289432,NA,NA
-Schloss Pratteln,Pratteln - Schweiz,4133,NA,http://www.ticketmaster.de/venue/289425,NA,NA
+3227,Witten,58452,Westfalenstrasse,http://www.ticketmaster.de/venue/289947,NA,NA
+Bergschlösschen,Bad Segeberg,23795,Oberbergstrasse 31,http://www.ticketmaster.de/venue/289945,NA,NA
+Kulturfenster e.V.,Heidelberg,69115,Kirchstrasse 16,http://www.ticketmaster.de/venue/289941,NA,NA
+BRITA Arena,Wiesbaden,65189,Berliner Strasse 9,http://www.ticketmaster.de/venue/289904,NA,NA
+Jahnhalle,Kirchheimbolanden,67292,Schillerstrasse 6,http://www.ticketmaster.de/venue/289432,NA,NA
+Schloss Pratteln,Pratteln - Schweiz,4133,Schlossstrasse,http://www.ticketmaster.de/venue/289425,NA,NA
 Festzelt,Kirchbierlingen,89584,NA,http://www.ticketmaster.de/venue/289438,NA,NA
 Marktplatz,Balingen,72336,NA,http://www.ticketmaster.de/venue/289439,NA,NA
-Alte Probstei,Erbendorf,92681,NA,http://www.ticketmaster.de/venue/289436,NA,NA
-Brauerei Ganter (OGA Halle),Freiburg,79117,NA,http://www.ticketmaster.de/venue/289427,NA,NA
-Argensporthalle,Wangen,88239,NA,http://www.ticketmaster.de/venue/289424,NA,NA
-Theater am Park,Bad Nauheim,61231,NA,http://www.ticketmaster.de/venue/289449,NA,NA
+Alte Probstei,Erbendorf,92681,Pfarrgasse 22,http://www.ticketmaster.de/venue/289436,NA,NA
+Brauerei Ganter (OGA Halle),Freiburg,79117,Schwarzwaldstrasse 43,http://www.ticketmaster.de/venue/289427,NA,NA
+Argensporthalle,Wangen,88239,Argeninsel 1,http://www.ticketmaster.de/venue/289424,NA,NA
+Theater am Park,Bad Nauheim,61231,Ludwigstrasse 21,http://www.ticketmaster.de/venue/289449,NA,NA
 Wiley Sportpark,Neu Ulm,89231,NA,http://www.ticketmaster.de/venue/289444,NA,NA
-Universität,Freiburg,79098,NA,http://www.ticketmaster.de/venue/289443,NA,NA
-Heinrich Schütz Konservatorium,Dresden,1099,NA,http://www.ticketmaster.de/venue/289423,NA,NA
-La Laiterie,Strasbourg - Frankreich,67000,NA,http://www.ticketmaster.de/venue/289354,NA,NA
-Greuthalle,Aalen,73430,NA,http://www.ticketmaster.de/venue/289360,NA,NA
-Laienrefektorium,Maulbronn,75433,NA,http://www.ticketmaster.de/venue/289350,NA,NA
-Basilika Sonntagberg,Rosenau - Österreich,3332,NA,http://www.ticketmaster.de/venue/289368,NA,NA
+Universität,Freiburg,79098,Platz der Universität 3,http://www.ticketmaster.de/venue/289443,NA,NA
+Heinrich Schütz Konservatorium,Dresden,1099,Glacisstrasse 30/32,http://www.ticketmaster.de/venue/289423,NA,NA
+La Laiterie,Strasbourg - Frankreich,67000,Rue du Hohwald 13,http://www.ticketmaster.de/venue/289354,NA,NA
+Greuthalle,Aalen,73430,Parkstrasse 15,http://www.ticketmaster.de/venue/289360,NA,NA
+Laienrefektorium,Maulbronn,75433,Kloster,http://www.ticketmaster.de/venue/289350,NA,NA
+Basilika Sonntagberg,Rosenau - Österreich,3332,Sonntagberg 1,http://www.ticketmaster.de/venue/289368,NA,NA
 Kulturhaus Schwanen,Waiblingen,71334,Winnender Strasse 4,http://www.ticketmaster.de/venue/289353,NA,NA
 Klag Bühne,Gaggenau,76571,Luisenstrasse 17,http://www.ticketmaster.de/venue/289352,NA,NA
 Volkshaus,Basel - Schweiz,4058,Rebgasse 12,http://www.ticketmaster.de/venue/289345,NA,NA
@@ -1439,7 +1442,26 @@ Gewerbepark Junghans,Schramberg,78713,Geißhaldenstrasse 50 ,http://www.ticketma
 Hauptbahnhof,Tübingen,72072,Europaplatz 19,http://www.ticketmaster.de/venue/290172,NA,NA
 Palmengarten,Frankfurt am Main,60325,Palmengartenstrasse,http://www.ticketmaster.de/venue/290162,NA,NA
 Eberhard Karls Uni (Festsaal),Tübingen,72074,Wilhelmstrasse 7,http://www.ticketmaster.de/venue/290154,NA,NA
-,,0,,,0,0
+Burg Seevetal,Seevetal,21218,Meyermannsweg 5,http://www.ticketmaster.de/venue/290158,NA,NA
+Passion,Oldenburg,26122,Wallstrasse 11,http://www.ticketmaster.de/venue/290179,NA,NA
+Bürgerhaus Grunern,Staufen im Breisgau,79219,Dorfstrasse,http://www.ticketmaster.de/venue/290165,NA,NA
+Patty Club im Schlachthof,Tübingen,72074,Schlachthausstrasse 9,http://www.ticketmaster.de/venue/290187,NA,NA
+Stadthalle,Wehr,79664,Hauptstrasse 14,http://www.ticketmaster.de/venue/290176,NA,NA
+Baustelle Elbphilharmonie,Hamburg,20457,Am Kaiserkai,http://www.ticketmaster.de/venue/290167,9.983956,53.541356
+La Cità,Kehl,77694,Kinzigstrasse 35,http://www.ticketmaster.de/venue/290152,NA,NA
+Kirche St. Leonhard,Bad Köstritz,7586,NA,http://www.ticketmaster.de/venue/290150,NA,NA
+MS Germania,Wiesbaden Biebrich,65203,Uferstrasse,http://www.ticketmaster.de/venue/290160,NA,NA
+Infostand Luisencenter,Darmstadt,64283,Luisenplatz 5,http://www.ticketmaster.de/venue/290192,NA,NA
+Tuniberghaus,Freiburg,79112,Im Maierbrühl,http://www.ticketmaster.de/venue/290190,NA,NA
+Radio Oriente,Karlsruhe,76133,Hirschstrasse 18,http://www.ticketmaster.de/venue/290188,NA,NA
+3427,Kehl,77694,Rheinpromenade,http://www.ticketmaster.de/venue/290147,NA,NA
+Kultur und Kongresszentrum,Weingarten,88250,Abt Hyller Strasse 37,http://www.ticketmaster.de/venue/290132,NA,NA
+Doberaner Münster,Bad Doberan,18209,Klosterstrasse 2,http://www.ticketmaster.de/venue/290126,NA,NA
+Kampnagel (K1),Hamburg,22303,Jarrestrasse 20,http://www.ticketmaster.de/venue/290119,NA,NA
+Hannover Congress Hotel am Stadtpark,Hannover,30175,Clausewitzstrasse 8,http://www.ticketmaster.de/venue/290121,NA,NA
+Thalia Kino,Dresden,1099,Görlitzer Strasse 6,http://www.ticketmaster.de/venue/290137,NA,NA
+Heiligen Geist Kirche,Rostock,18057,Margaretenstrasse / Kirchenstrasse,http://www.ticketmaster.de/venue/290128,NA,NA
+3419,Dresden,1067,Hasenberg 1,http://www.ticketmaster.de/venue/290139,NA,NA
 Café Schoschana,Dresden,1067,Hasenberg 1,http://www.ticketmaster.de/venue/290135,NA,NA
 Plenarsaal im Bundesrat,Bonn,53113,Görresstrasse 15,http://www.ticketmaster.de/venue/290130,NA,NA
 Alter Wartesaal,Köln,50668,Johanisstrasse 11,http://www.ticketmaster.de/venue/290116,NA,NA
@@ -2060,7 +2082,26 @@ HAMBURG - St. Jacobikirche,Hamburg,20095,Jakobikirchhof 22,http://www.ticketmast
 JZE,Essen,45147,Papestrasse 1,http://www.ticketmaster.de/venue/287561,NA,NA
 Tunnel Club,Hamburg,20357,Friedrichstraße 21-23,http://www.ticketmaster.de/venue/287560,NA,NA
 920,Voerde,46562,Schafstege 41,http://www.ticketmaster.de/venue/287640,NA,NA
-,,0,,,0,0
+Kloster Chorin,Chorin,16230,Amt 11,http://www.ticketmaster.de/venue/287644,NA,NA
+Foyer der edel AG,Hamburg,22763,Neumühlen 17,http://www.ticketmaster.de/venue/287642,NA,NA
+Wasserburg,Kapellendorf,99510,Burgplatz 1,http://www.ticketmaster.de/venue/287643,NA,NA
+Campushalle,Flensburg,24943,Campusallee 2,http://www.ticketmaster.de/venue/287637,NA,NA
+Rote Sonne,München,80333,Maximiliansplatz 5,http://www.ticketmaster.de/venue/287592,NA,NA
+878,Hamburg,22303,Hindenburgstrasse 2,http://www.ticketmaster.de/venue/287598,NA,NA
+HAMBURG - Waagenbau,Hamburg,22769,Max Brauer Allee 204,http://www.ticketmaster.de/venue/287599,NA,NA
+LICHTHOF Theater,Hamburg,22761,Mendelssohnstrasse 15b,http://www.ticketmaster.de/venue/287593,NA,NA
+Cineplex,Münster,48155,Albersloher Weg 14,http://www.ticketmaster.de/venue/287577,NA,NA
+Südstadion,Köln,50969,Am Vorgebirgstor 1,http://www.ticketmaster.de/venue/287573,NA,NA
+Kurhaus,Bad Fredeburg,57392,Am Kurhaus 4,http://www.ticketmaster.de/venue/287653,NA,NA
+Schlosshof Open Air,Alzey,55232,Am Kästrich,http://www.ticketmaster.de/venue/287654,NA,NA
+Congresscentrum Stadtgarten,Schwäbisch Gmünd,73525,Rektor Klaus Strasse 9,http://www.ticketmaster.de/venue/287657,NA,NA
+Luise Cultfactory,Nürnberg,90478,Scharrerstrasse 15,http://www.ticketmaster.de/venue/287651,NA,NA
+Coyote Ugly Iserlohn,Iserlohn,58636,Kurt Schumacher Ring 26,http://www.ticketmaster.de/venue/287664,NA,NA
+Rocker 33,Stuttgart,70174,Heilbronner Strasse 7,http://www.ticketmaster.de/venue/287646,NA,NA
+Congress Centrum (Kuppelsaal),Hannover,30175,Theodor Heuss Platz 1,http://www.ticketmaster.de/venue/287641,NA,NA
+St. Martini Kirche,Greussen,99718,Bahnhofstrasse,http://www.ticketmaster.de/venue/287702,NA,NA
+978,Köln,50825,Hornstrasse 85,http://www.ticketmaster.de/venue/287698,NA,NA
+Live Club,Bamberg,96049,Obere Sandstrasse 7,http://www.ticketmaster.de/venue/287700,NA,NA
 Trinitatiskirche,Kittlitz,2708,Weissenbergerstrasse 8,http://www.ticketmaster.de/venue/287706,NA,NA
 KÖTHEN - St. Agnuskirche,Köthen,6366,Stiftstrasse 11,http://www.ticketmaster.de/venue/287703,NA,NA
 Schlachthof (Kesselhalle),Bremen,28215,Findorffstrasse 51,http://www.ticketmaster.de/venue/287696,NA,NA
@@ -3322,25 +3363,25 @@ Alpincenter Hamburg - Wittenburg,Wittenburg,19243,Zur Winterwelt 1,http://www.ti
 Am Planetarium,Stuttgart,70173,Willy Brandt Strasse,http://www.ticketmaster.de/venue/291130,NA,NA
 Christian Daniel Rauch Museum,Bad Arolsen,34454,Schlossstraße 30,http://www.ticketmaster.de/venue/291171,NA,NA
 Jagdschloss,Springe,31832,NA,http://www.ticketmaster.de/venue/291157,NA,NA
-Am Schloss,Ellwangen,73479,NA,http://www.ticketmaster.de/venue/291151,NA,NA
-Substage,Karlsruhe,76131,NA,http://www.ticketmaster.de/venue/291125,8.430567,49.006188
-Stadthalle Gersfeld ,Gersfeld Rhön ,36129,NA,http://www.ticketmaster.de/venue/291127,9.92007,50.452122
-MBM Halle,Ellwangen,73479,NA,http://www.ticketmaster.de/venue/291177,NA,NA
-RATINGEN - Stadttheater,Ratingen,40878,NA,http://www.ticketmaster.de/venue/291186,NA,NA
-Grunewald GmbH&Co.KG,Bocholt,46395,NA,http://www.ticketmaster.de/venue/291116,NA,NA
-Festspielgelände auf dem Münsterberg,Breisach,79206,NA,http://www.ticketmaster.de/venue/290961,NA,NA
-St. Georg Kirche,Oeversee,24988,NA,http://www.ticketmaster.de/venue/290967,NA,NA
-Die Blechnerei,Konstanz,78467,NA,http://www.ticketmaster.de/venue/290949,NA,NA
-The Great Räng Teng Teng,Freiburg,79098,NA,http://www.ticketmaster.de/venue/290942,NA,NA
-Sensor Club,Köln,50739,NA,http://www.ticketmaster.de/venue/290977,NA,NA
-Schiesstalplatz,Schwäbisch Gmünd,73525,NA,http://www.ticketmaster.de/venue/291017,NA,NA
-Schloss Kageneck,Freiburg,79112,NA,http://www.ticketmaster.de/venue/291006,NA,NA
-Freigelände Disco Büchl,Neukirchen vorm Wald,94154,NA,http://www.ticketmaster.de/venue/291007,NA,NA
-Bürgerhaus Nieder-Roden,Rodgau,63110,NA,http://www.ticketmaster.de/venue/291040,NA,NA
-Schiffahrtsmuseum,Flensburg,24939,NA,http://www.ticketmaster.de/venue/291033,NA,NA
-Club Stereo,Nürnberg,90402,NA,http://www.ticketmaster.de/venue/291012,NA,NA
-TASCH 2 (Studio),Marburg,35037,NA,http://www.ticketmaster.de/venue/290988,NA,NA
-Sønderborg Slot,Sonderborg - Dänemark,6400,NA,http://www.ticketmaster.de/venue/290969,NA,NA
+Am Schloss,Ellwangen,73479,Schloss OB Ellwangen 13,http://www.ticketmaster.de/venue/291151,NA,NA
+Substage,Karlsruhe,76131,Durlacher Allee 62,http://www.ticketmaster.de/venue/291125,8.430567,49.006188
+Stadthalle Gersfeld ,Gersfeld Rhön ,36129,Schlossplatz 11,http://www.ticketmaster.de/venue/291127,9.92007,50.452122
+MBM Halle,Ellwangen,73479,Max-Eyth-Strasse 26,http://www.ticketmaster.de/venue/291177,NA,NA
+RATINGEN - Stadttheater,Ratingen,40878,Europaring 9,http://www.ticketmaster.de/venue/291186,NA,NA
+Grunewald GmbH&Co.KG,Bocholt,46395,Biemenhorster Weg 19,http://www.ticketmaster.de/venue/291116,NA,NA
+Festspielgelände auf dem Münsterberg,Breisach,79206,Kapuzinergasse 28,http://www.ticketmaster.de/venue/290961,NA,NA
+St. Georg Kirche,Oeversee,24988,Am Brautplatz,http://www.ticketmaster.de/venue/290967,NA,NA
+Die Blechnerei,Konstanz,78467,Macairestrasse 4,http://www.ticketmaster.de/venue/290949,NA,NA
+The Great Räng Teng Teng,Freiburg,79098,Grünwälderstrasse 6-8,http://www.ticketmaster.de/venue/290942,NA,NA
+Sensor Club,Köln,50739,Grüner Weg 6,http://www.ticketmaster.de/venue/290977,NA,NA
+Schiesstalplatz,Schwäbisch Gmünd,73525,Schiesstalstrasse 15,http://www.ticketmaster.de/venue/291017,NA,NA
+Schloss Kageneck,Freiburg,79112,Schlossbuck 9,http://www.ticketmaster.de/venue/291006,NA,NA
+Freigelände Disco Büchl,Neukirchen vorm Wald,94154,Büchl 5,http://www.ticketmaster.de/venue/291007,NA,NA
+Bürgerhaus Nieder-Roden,Rodgau,63110,Römerstrasse 13,http://www.ticketmaster.de/venue/291040,NA,NA
+Schiffahrtsmuseum,Flensburg,24939,Schiffbrücke 39,http://www.ticketmaster.de/venue/291033,NA,NA
+Club Stereo,Nürnberg,90402,Klaragasse 8,http://www.ticketmaster.de/venue/291012,NA,NA
+TASCH 2 (Studio),Marburg,35037,Am Schwanhof 68-72,http://www.ticketmaster.de/venue/290988,NA,NA
+Sønderborg Slot,Sonderborg - Dänemark,6400,Sønderbro,http://www.ticketmaster.de/venue/290969,NA,NA
 Haus 11,Stuttgart-Zuffenhausen,70435,Bartensteiner Strasse 11,http://www.ticketmaster.de/venue/291239,NA,NA
 CinemaxX Potsdamer Platz,Berlin,10785,Potsdamer Strasse 5,http://www.ticketmaster.de/venue/291228,NA,NA
 Royal Bambi,Dortmund,44145,Kirchderner Strasse 41,http://www.ticketmaster.de/venue/291215,NA,NA
@@ -4161,7 +4202,26 @@ Festhalle Harmonie,Heilbronn,74072,Allee 28,http://www.ticketmaster.de/venue/286
 Conny's Come In,Viersen,41751,Nettetaler Strasse 159,http://www.ticketmaster.de/venue/290753,NA,NA
 bigBOX Allgäu,Kempten,87435,Kotterner Strasse 64,http://www.ticketmaster.de/venue/286970,10.316519,47.720795
 ADAC Übungsplatz,Frankfurt am Main,60486,Am Römerhof,http://www.ticketmaster.de/venue/290729,NA,NA
-,,0,,,0,0
+Arena di Verona,Verona,37121,Piazza Bra,http://www.ticketmaster.de/venue/290683,10.994368,45.438932
+Gottlob Frick Saal,Mühlacker,75417,Konrad Adenauer Platz 10,http://www.ticketmaster.de/venue/291208,NA,NA
+CinemaxX Dammtor (Kino 8),Hamburg,20035,Dammtordamm 1,http://www.ticketmaster.de/venue/291185,NA,NA
+ Schloss Neuburg  an der Donau,Neuburg an der Donau,86633,Residenzstrasse 1,http://www.ticketmaster.de/venue/291217,NA,NA
+Sternenzelt,Buttenheim,96155,Gewerbepark / Hauptstraße 15 ,http://www.ticketmaster.de/venue/291191,NA,NA
+Dreams,Koblenz,56068,Schanzenpforte 4,http://www.ticketmaster.de/venue/291234,NA,NA
+Bürgerhaus ''Zum Paradies'',Wasungen,98634,Bahnhofstraße 5 ,http://www.ticketmaster.de/venue/291210,NA,NA
+Club Bahnhof Ehrenfeld,Köln,50825,Bartholomäus-Schink-Straße 65 / 67,http://www.ticketmaster.de/venue/291211,NA,NA
+Trinkkuranlage - Konzertsaal,Bad Nauheim,61231,Ernst Ludwig Ring 1,http://www.ticketmaster.de/venue/291178,NA,NA
+Trinkkuranlage - Konzertmuschel,Bad Nauheim,61231,Ernst Ludwig Ring 1,http://www.ticketmaster.de/venue/291179,NA,NA
+DORTMUND - Immanuelkirche,Dortmund,44379,Bärenbruch 17,http://www.ticketmaster.de/venue/291193,NA,NA
+Salzstadel,Landshut,84028,Steckengasse 308,http://www.ticketmaster.de/venue/291237,NA,NA
+Festspielhaus Fürstliche Reitbahn,Bad Arolsen,34454,Königin Emma Strasse,http://www.ticketmaster.de/venue/291170,NA,NA
+Paderborn Lippstadt Airport,Büren,33142,Flughafenstrasse 33,http://www.ticketmaster.de/venue/290918,NA,NA
+Kump,Brilon,59929,Derkere Strasse 12,http://www.ticketmaster.de/venue/290906,NA,NA
+Kampnagel (kmh),Hamburg,22303,Jarrestrasse 20,http://www.ticketmaster.de/venue/290894,10.022444,53.584223
+Caveau,Mainz,55116,Schillersstrasse 11,http://www.ticketmaster.de/venue/290905,NA,NA
+Zum Teufel,Heidelberg,69124,Kirchheimer Weg 2,http://www.ticketmaster.de/venue/290916,NA,NA
+Theater Freudenhaus,Essen,45276,Westfalenstrasse 311,http://www.ticketmaster.de/venue/290932,NA,NA
+Kirchheim - Open Air Gelände,Kirchheim,73230,Alleenstrasse 90,http://www.ticketmaster.de/venue/290911,NA,NA
 Spiegelzelt,Altenkirchen,57610,Schlossplatz,http://www.ticketmaster.de/venue/290898,NA,NA
 Theater Wrede,Oldenburg,26123,Kriegerstrasse 12,http://www.ticketmaster.de/venue/290888,NA,NA
 Wagnershof Ellwangen,Ellwangen-Neunheim,73479,NA,http://www.ticketmaster.de/venue/290954,NA,NA
@@ -4803,25 +4863,25 @@ St. Etienne,Chemnitz,9114,Chemnitztalstraße 54,https://www.ticketmaster.de/venu
 Fussballplatz,Burkhardtsdorf,9235,Zufahrt Mühlweg,https://www.ticketmaster.de/venue/fussballplatz-burkhardtsdorf-tickets/bhdfussbal/701,12.94352,50.73769
 St. Trinitatiskirche,Chemnitz,9131,Trinitatisstraße 7,https://www.ticketmaster.de/venue/st-trinitatiskirche-chemnitz-tickets/chesttrini/701,12.95219,50.85588
 Diverse Veranstaltungsstätten,Berlin,10115,NA,https://www.ticketmaster.de/venue/diverse-veranstaltungsstatten-berlin-tickets/berdiverse/701,13.38356,52.53188
-Evangelische Kirche,Rossau,9661,NA,https://www.ticketmaster.de/venue/evangelische-kirche-rossau-tickets/rssevangel/701,13.0695,50.99705
+Evangelische Kirche,Rossau,9661,Hintere Dorfstraße 2,https://www.ticketmaster.de/venue/evangelische-kirche-rossau-tickets/rssevangel/701,13.0695,50.99705
 Merlin,Berlin,10115,NA,https://www.ticketmaster.de/venue/merlin-berlin-tickets/bermerlin/701,13.38356,52.53188
-Kraftwerk,Chemnitz,9112,NA,https://www.ticketmaster.de/venue/kraftwerk-chemnitz-tickets/chekraftwe/701,12.91027,50.83735
-Cube Club,Chemnitz,9111,NA,https://www.ticketmaster.de/venue/cube-club-chemnitz-tickets/checubeclu/701,12.92957,50.84238
-Schützenhaus am Stadion,Oelsnitz,8606,NA,https://www.ticketmaster.de/venue/schutzenhaus-am-stadion-oelsnitz-tickets/oesschuetz/701,12.17581,50.4176
-Festhalle (Grosser Saal),Plauen,8529,NA,https://www.ticketmaster.de/venue/festhalle-grosser-saal--plauen-tickets/plafesthgr/701,12.1544,50.49561
-Festplatz Rübenau,Marienberg,9496,NA,https://www.ticketmaster.de/venue/festplatz-rubenau-marienberg-tickets/mbgfestpla/701,13.16229,50.65037
-Immanuelkirche,Berlin,10405,NA,https://www.ticketmaster.de/venue/immanuelkirche-berlin-tickets/berimmanue/701,13.4216,52.53273
-Music Hall,Berlin,10179,NA,https://www.ticketmaster.de/venue/music-hall-berlin-tickets/bermusicha/701,13.42008,52.51457
-Trabrennbahn Karlshorst,Berlin,10318,NA,https://www.ticketmaster.de/venue/trabrennbahn-karlshorst-berlin-tickets/bertrabren/701,13.52254,52.47572
-Pferdesportpark Karlshorst,Berlin,10318,NA,https://www.ticketmaster.de/venue/pferdesportpark-karlshorst-berlin-tickets/berpferdes/701,13.52254,52.47572
-Staatstheater (Großes Haus),Cottbus,3046,NA,https://www.ticketmaster.de/venue/staatstheater-grosses-haus--cottbus-tickets/cotstaatst/701,14.32086,51.75647
-Dorfkirche,Cunewalde,2733,NA,https://www.ticketmaster.de/venue/dorfkirche-cunewalde-tickets/cundorfkir/701,14.50254,51.09954
-Festhalle,Bernstadt auf dem Eigen,2748,NA,https://www.ticketmaster.de/venue/festhalle-bernstadt-auf-dem-eigen-tickets/brsfesthal/701,14.82284,51.04716
-Trinitatiskirche,Löbau,2708,NA,https://www.ticketmaster.de/venue/trinitatiskirche-lobau-tickets/ktltrinita/701,14.675901,51.132341
-Haus des Gastes Blaue Kugel,Cunewalde,2733,NA,https://www.ticketmaster.de/venue/haus-des-gastes-blaue-kugel-cunewalde-tickets/cunhausdes/701,14.52082,51.09839
-Sparkassen Arena,Kurort Jonsdorf,2796,NA,https://www.ticketmaster.de/venue/sparkassen-arena-kurort-jonsdorf-tickets/kojsparkas/701,14.70278,50.85278
-Gerhart Hauptmann Theater,Zittau,2763,NA,https://www.ticketmaster.de/venue/gerhart-hauptmann-theater-zittau-tickets/zitgerhart/701,14.81083,50.91033
-Kulturfabrik,Hoyerswerda,2977,NA,https://www.ticketmaster.de/venue/kulturfabrik-hoyerswerda-tickets/hoykulturf/701,14.24173,51.44413
+Kraftwerk,Chemnitz,9112,Kaßbergstraße 36,https://www.ticketmaster.de/venue/kraftwerk-chemnitz-tickets/chekraftwe/701,12.91027,50.83735
+Cube Club,Chemnitz,9111,Straße der Nationen 80,https://www.ticketmaster.de/venue/cube-club-chemnitz-tickets/checubeclu/701,12.92957,50.84238
+Schützenhaus am Stadion,Oelsnitz,8606,Adolf-Damaschke-Straße 57,https://www.ticketmaster.de/venue/schutzenhaus-am-stadion-oelsnitz-tickets/oesschuetz/701,12.17581,50.4176
+Festhalle (Grosser Saal),Plauen,8529,Äußere Reichenbacher Straße 4,https://www.ticketmaster.de/venue/festhalle-grosser-saal--plauen-tickets/plafesthgr/701,12.1544,50.49561
+Festplatz Rübenau,Marienberg,9496,Bergweg 3,https://www.ticketmaster.de/venue/festplatz-rubenau-marienberg-tickets/mbgfestpla/701,13.16229,50.65037
+Immanuelkirche,Berlin,10405,Immanuelkirchstraße 1a,https://www.ticketmaster.de/venue/immanuelkirche-berlin-tickets/berimmanue/701,13.4216,52.53273
+Music Hall,Berlin,10179,Holzmarktstraße 6-9,https://www.ticketmaster.de/venue/music-hall-berlin-tickets/bermusicha/701,13.42008,52.51457
+Trabrennbahn Karlshorst,Berlin,10318,Treskowallee 159,https://www.ticketmaster.de/venue/trabrennbahn-karlshorst-berlin-tickets/bertrabren/701,13.52254,52.47572
+Pferdesportpark Karlshorst,Berlin,10318,Treskowallee 129,https://www.ticketmaster.de/venue/pferdesportpark-karlshorst-berlin-tickets/berpferdes/701,13.52254,52.47572
+Staatstheater (Großes Haus),Cottbus,3046,Schillerplatz 1,https://www.ticketmaster.de/venue/staatstheater-grosses-haus--cottbus-tickets/cotstaatst/701,14.32086,51.75647
+Dorfkirche,Cunewalde,2733,Kirchweg 1,https://www.ticketmaster.de/venue/dorfkirche-cunewalde-tickets/cundorfkir/701,14.50254,51.09954
+Festhalle,Bernstadt auf dem Eigen,2748,Am Sportplatz 7,https://www.ticketmaster.de/venue/festhalle-bernstadt-auf-dem-eigen-tickets/brsfesthal/701,14.82284,51.04716
+Trinitatiskirche,Löbau,2708,"OT Kittlitz, Weißenberger Landstraße 8",https://www.ticketmaster.de/venue/trinitatiskirche-lobau-tickets/ktltrinita/701,14.675901,51.132341
+Haus des Gastes Blaue Kugel,Cunewalde,2733,Hauptstraße 97,https://www.ticketmaster.de/venue/haus-des-gastes-blaue-kugel-cunewalde-tickets/cunhausdes/701,14.52082,51.09839
+Sparkassen Arena,Kurort Jonsdorf,2796,Zittauer Straße 20,https://www.ticketmaster.de/venue/sparkassen-arena-kurort-jonsdorf-tickets/kojsparkas/701,14.70278,50.85278
+Gerhart Hauptmann Theater,Zittau,2763,Theaterring 12,https://www.ticketmaster.de/venue/gerhart-hauptmann-theater-zittau-tickets/zitgerhart/701,14.81083,50.91033
+Kulturfabrik,Hoyerswerda,2977,Alte Berliner Straße 26,https://www.ticketmaster.de/venue/kulturfabrik-hoyerswerda-tickets/hoykulturf/701,14.24173,51.44413
 Campus der BTU,Cottbus,3046,Konrad-Wachsmann-Allee 1,https://www.ticketmaster.de/venue/campus-der-btu-cottbus-tickets/botcampusd/701,14.32703,51.76663
 Stadthalle Krone Bautzen,Bautzen,2625,Steinstraße 9,https://www.ticketmaster.de/venue/stadthalle-krone-bautzen-bautzen-tickets/baustadtha/701,14.42928,51.18175
 Real Music Club,Lauchhammer,1979,Wilhelm-Külz-Straße 54,https://www.ticketmaster.de/venue/real-music-club-lauchhammer-tickets/laurealmus/701,13.77303,51.49778
@@ -4863,32 +4923,33 @@ Ferropolis,Gräfenhainichen,6773,Ferropolisstraße 1,https://www.ticketmaster.de
 Halbinsel Pouch,Pouch,6774,Bitterfelder Straße,https://www.ticketmaster.de/venue/halbinsel-pouch-pouch-tickets/pouhalbins/701,12.45298,51.59225
 St. Gertrudiskirche,Saalfeld,7318,An der Gertrudiskirche 2,https://www.ticketmaster.de/venue/st-gertrudiskirche-saalfeld-tickets/sfsstgertr/701,11.357713,50.65513
 Diverse Veranstaltungsstätten,Saalfeld,7318,NA,https://www.ticketmaster.de/venue/diverse-veranstaltungsstatten-saalfeld-tickets/sfsdiverse/701,11.360909,50.648468
-Rosenbrauerei Pößneck,Pößneck,7381,NA,https://www.ticketmaster.de/venue/rosenbrauerei-possneck-possneck-tickets/poerosenbr/701,11.584016,50.691702
+Rosenbrauerei Pößneck,Pößneck,7381,Dr.-Wilhelm-Külz-Straße 41,https://www.ticketmaster.de/venue/rosenbrauerei-possneck-possneck-tickets/poerosenbr/701,11.584016,50.691702
 Marktplatz,Rudolstadt,7407,NA,https://www.ticketmaster.de/venue/marktplatz-rudolstadt-tickets/rudmarktpl/701,11.340038,50.720432
-Arche Nebra,Nebra,6642,NA,https://www.ticketmaster.de/venue/arche-nebra-nebra-tickets/wanarchene/701,11.53181,51.27122
-Kyffhäuser Denkmal,Bad Frankenhausen,6567,NA,https://www.ticketmaster.de/venue/kyffhauser-denkmal-bad-frankenhausen-tickets/bfrkyffhau/701,11.10164,51.3561
-Weingut Pawis,Freyburg,6632,NA,https://www.ticketmaster.de/venue/weingut-pawis-freyburg-tickets/zspweingut/701,11.76997,51.2124
-Mammuthalle,Sangerhausen,6526,NA,https://www.ticketmaster.de/venue/mammuthalle-sangerhausen-tickets/sghmammuth/701,11.2992,51.478411
+Arche Nebra,Nebra,6642,An der Steinklöbe 16,https://www.ticketmaster.de/venue/arche-nebra-nebra-tickets/wanarchene/701,11.53181,51.27122
+Kyffhäuser Denkmal,Bad Frankenhausen,6567,Kyffhäuser Denkmal,https://www.ticketmaster.de/venue/kyffhauser-denkmal-bad-frankenhausen-tickets/bfrkyffhau/701,11.10164,51.3561
+Weingut Pawis,Freyburg,6632,"OT Zscheiplitz, Auf dem Gut 2",https://www.ticketmaster.de/venue/weingut-pawis-freyburg-tickets/zspweingut/701,11.76997,51.2124
+Mammuthalle,Sangerhausen,6526,Dr.-Wilhelm-Külz-Straße 35,https://www.ticketmaster.de/venue/mammuthalle-sangerhausen-tickets/sghmammuth/701,11.2992,51.478411
 Diverse Veranstaltungsstätten,Sangerhausen,6526,NA,https://www.ticketmaster.de/venue/diverse-veranstaltungsstatten-sangerhausen-tickets/sghdiverse/701,11.298335,51.473723
-St. Marienkirche,Harzgerode,6493,NA,https://www.ticketmaster.de/venue/st-marienkirche-harzgerode-tickets/hgrstmarie/701,11.14335,51.64088
-Kurzentrum,Bad Suderode,6507,NA,https://www.ticketmaster.de/venue/kurzentrum-bad-suderode-tickets/sudkurzent/701,11.11804,51.73018
-Hangar Veranstaltungszentrum,Dessau-Roßlau,6846,NA,https://www.ticketmaster.de/venue/hangar-veranstaltungszentrum-dessau-rosslau-tickets/deshangarv/701,12.2066,51.83717
-Beatclub,Dessau-Roßlau,6844,NA,https://www.ticketmaster.de/venue/beatclub-dessau-rosslau-tickets/desbeatclu/701,12.2377,51.84325
-Petruskirche,Dessau-Roßlau,6844,NA,https://www.ticketmaster.de/venue/petruskirche-dessau-rosslau-tickets/despetrusk/701,12.2439,51.84427
-Altes Theater Dessau,Dessau-Roßlau,6844,NA,https://www.ticketmaster.de/venue/altes-theater-dessau-dessau-rosslau-tickets/desaltesth/701,12.24285,51.83327
-Marienkirche,Dessau-Roßlau,6844,NA,https://www.ticketmaster.de/venue/marienkirche-dessau-rosslau-tickets/desmarienk/701,12.24645,51.83364
-Flugplatz,Ballenstedt,6493,NA,https://www.ticketmaster.de/venue/flugplatz-ballenstedt-tickets/baeflugpla/701,11.2384,51.74339
-Bestehornhaus,Aschersleben,6449,NA,https://www.ticketmaster.de/venue/bestehornhaus-aschersleben-tickets/aslbesteho/701,11.45939,51.75494
-Sportsplatz Sandersleben,Sandersleben,NA,NA,https://www.ticketmaster.de/venue/sportsplatz-sandersleben-sandersleben-tickets/sdlsportpl/701,11.56321,51.67657
+St. Marienkirche,Harzgerode,6493,Mittelstraße / Markt,https://www.ticketmaster.de/venue/st-marienkirche-harzgerode-tickets/hgrstmarie/701,11.14335,51.64088
+Kurzentrum,Bad Suderode,6507,Felsenkellerpromenade 4,https://www.ticketmaster.de/venue/kurzentrum-bad-suderode-tickets/sudkurzent/701,11.11804,51.73018
+Hangar Veranstaltungszentrum,Dessau-Roßlau,6846,Kühnauer Straße 163,https://www.ticketmaster.de/venue/hangar-veranstaltungszentrum-dessau-rosslau-tickets/deshangarv/701,12.2066,51.83717
+Beatclub,Dessau-Roßlau,6844,Rosslauer Allee 3,https://www.ticketmaster.de/venue/beatclub-dessau-rosslau-tickets/desbeatclu/701,12.2377,51.84325
+Petruskirche,Dessau-Roßlau,6844,Wilhelm-Müller-Straße 1,https://www.ticketmaster.de/venue/petruskirche-dessau-rosslau-tickets/despetrusk/701,12.2439,51.84427
+Altes Theater Dessau,Dessau-Roßlau,6844,Am Alten Theater 13,https://www.ticketmaster.de/venue/altes-theater-dessau-dessau-rosslau-tickets/desaltesth/701,12.24285,51.83327
+Marienkirche,Dessau-Roßlau,6844,Schloßplatz,https://www.ticketmaster.de/venue/marienkirche-dessau-rosslau-tickets/desmarienk/701,12.24645,51.83364
+Flugplatz,Ballenstedt,6493,Asmusstedt,https://www.ticketmaster.de/venue/flugplatz-ballenstedt-tickets/baeflugpla/701,11.2384,51.74339
+Bestehornhaus,Aschersleben,6449,Hecknerstraße 6,https://www.ticketmaster.de/venue/bestehornhaus-aschersleben-tickets/aslbesteho/701,11.45939,51.75494
+Sportsplatz Sandersleben,Sandersleben,NA,Friedensstraße,https://www.ticketmaster.de/venue/sportsplatz-sandersleben-sandersleben-tickets/sdlsportpl/701,11.56321,51.67657
 Ferropolis,Gräfenhainichen,NA,NA,https://www.ticketmaster.nl/venue/ferropolis-grafenhainichen-tickets/ferro/105,12.43773,51.7542
 Flugplatz Drispenstedt,Drispenstedt,NA,NA,https://www.ticketmaster.nl/venue/flugplatz-drispenstedt-drispenstedt-tickets/dripe/105,9.94567,52.17983
 Evangelische Stadtkirche,Gronau,NA,NA,https://www.ticketmaster.nl/venue/evangelische-stadtkirche-gronau-tickets/grona/105,7.0315,52.21568
-Festhalle Isselburg,Isselburg,NA,NA,https://www.ticketmaster.nl/venue/festhalle-isselburg-isselburg-tickets/issel/105,6.45858,51.83799
+Festhalle Isselburg,Isselburg,NA,Huttenstrasse 24,https://www.ticketmaster.nl/venue/festhalle-isselburg-isselburg-tickets/issel/105,6.45858,51.83799
 "Stadium ""Am Hunting"", Bocholt(D)",Bocholt,NA,NA,https://www.ticketmaster.nl/venue/festivent-hall-bocholt-d--bocholt-tickets/hunt/105,6.609733,51.857313
 Bleilochtalsperre,Saalburg,NA,NA,https://www.ticketmaster.nl/venue/bleilochtalsperre-saalburg-tickets/bleilo/105,11.72,50.51389
 Kloster Frenswegen (Aula),Nordhorn,NA,NA,https://www.ticketmaster.nl/venue/kloster-frenswegen-aula--nordhorn-tickets/aula/105,7.0408,52.45791
 Admiralspalast,Berlin,0,NA,https://www.ticketmaster.de/event/370435,NA,NA
 Travel-Package,Bonn,0,NA,https://ticketmaster.travelcircus.de/billy-idol-live-bonn-2022?partner-referral=40728a083f582c57&utm_campaign=billy-idol-live-bonn-2022&utm_source=BillyBonn&utm_medium=travelcircus-affiliate,NA,NA
+Olympiahalle,München,0,NA,https://ticketmaster.travelcircus.de/billy-idol-live-muenchen-2022?partner-referral=c397cc2e841282fa&utm_campaign=billy-idol-live-muenchen-2022&utm_source=BillyMUC&utm_medium=travelcircus-affiliate,NA,NA
 Zitadelle Spandau,Berlin,0,NA,https://ticketmaster.travelcircus.de/billy-idol-live-berlin-2022?partner-referral=b69872c6814d76b4&utm_campaign=billy-idol-live-berlin-2022&utm_source=BillyBLN&utm_medium=travelcircus-affiliate,NA,NA
 Travel-Package,Berlin,0,NA,https://ticketmaster.travelcircus.de/bryan-adams-tour-2022-berlin?partner-referral=4b89d56aec3f9cb7&utm_campaign=bryan-adams-tour-2022-berlin&utm_source=BAdamsBLN&utm_medium=travelcircus-affiliate,NA,NA
  Huxley’s Neue Welt,Berlin,0,NA,https://blog.ticketmaster.de/musik/arlo-parks-album-my-soft-machine-2023-berlin-konzert-presale-12894/,NA,NA
@@ -4915,7 +4976,6 @@ Tour,Deutschland,0,NA,https://blog.ticketmaster.de/musik/julia-engelmann-splitte
 Travel-Packages,Oberhausen,0,NA,https://www.travelcircus.de/michael-buble-oberhausen?partner-referral=7a3a6c2f388f2013&utm_campaign=michael-buble-oberhausen&utm_source=BubleOB&utm_medium=travelcircus-affiliate,NA,NA
 Travel-Packages,Mannheim,0,NA,https://www.travelcircus.de/michael-buble-mannheim?partner-referral=3a3d2686bfe9bea0&utm_campaign=michael-buble-mannheim&utm_source=BubleMA&utm_medium=travelcircus-affiliate,NA,NA
 Travel-Packages,Hamburg,0,NA,https://www.travelcircus.de/michael-buble-hamburg?partner-referral=a62dd32efe94b1f8&utm_campaign=michael-buble-hamburg&utm_source=BubleHH&utm_medium=travelcircus-affiliate,NA,NA
-Travel-Package,München,0,NA,https://www.travelcircus.de/sabaton-muenchen?partner-referral=46c833746145837a&utm_campaign=sabaton-muenchen&utm_source=Sabaton MUC&utm_medium=travelcircus-affiliate,NA,NA
 Forum am Schlosspark ,Ludwigsburg,0,NA,https://blog.ticketmaster.de/musik/lisa-batiashvili-geige-2023-deutschland-konzerte-12366/,NA,NA
 RheinMain CongressCenter (RMCC),Wiesbaden,0,NA,https://www.universe.com/events/ball-des-sports-2022-tickets-BLGZQH,NA,NA
 Prio Tickets,PayPal,0,NA,https://www.livenation.de/paypalpriotickets?utm_source=referral&utm_medium=pp-adp&utm_campaign=ROAM,NA,NA
@@ -4974,14 +5034,14 @@ Festhalle,Frankfurt am Main,0,NA,https://ticketmaster.travelcircus.de/tool-frank
 Club Theater Berlin,Berlin,0,NA,https://ticketmaster.travelcircus.de/magic-mike-berlin?partner-referral=a2a566cf9bc28de2&utm_campaign=magic-mike-berlin&utm_source=Ticketmaster&utm_medium=travelcircus-affiliate,NA,NA
 Sporthalle,Hamburg,0,NA,https://www.ticketmaster.de/feature/presale,NA,NA
 WACKEN OPEN AIR,Wacken,NA,NA,https://www.ticketmaster.fi/venue/wacken-open-air-wacken-lippuja/wac/303,9.372656,54.021562
-BORUSSIA-PARK,Mönchengladbach,41179,NA,https://www.ticketmaster.fi/venue/borussia-park-monchengladbach-lippuja/bor/325,6.3855,51.1746
-Stadthalle Gross-Gerau,Groß-Gerau,64521,NA,https://www.ticketmaster.de/venue/stadthalle-gross-gerau-gross-gerau-tickets/ggestadtha/722,8.48155,49.91857
-Stadthalle,Groß-Umstadt,64823,NA,https://www.ticketmaster.de/venue/stadthalle-gross-umstadt-tickets/gumstadtha/722,8.94869,49.86872
-Hamburger Hafen,Hamburg,20359,NA,https://www.ticketmaster.de/venue/hamburger-hafen-hamburg-tickets/hamhamhafe/701,9.99247,53.55334
-Merkur-Arena,Lübbecke,32312,NA,https://www.ticketmaster.de/venue/merkur-arena-lubbecke-tickets/lbbmerkura/712,8.62067,52.31084
-Lipperlandhalle,Lemgo,32657,NA,https://www.ticketmaster.de/venue/lipperlandhalle-lemgo-tickets/lemlipperh/712,8.90774,52.0171
-Bürgerhaus,Bad Camberg,65520,NA,https://www.ticketmaster.de/venue/burgerhaus-bad-camberg-tickets/bcbbuerger/722,8.26504,50.29826
-Stadthalle,Gießen,35390,NA,https://www.ticketmaster.de/venue/stadthalle-giessen-tickets/giestadtha/722,8.67847,50.58347
+BORUSSIA-PARK,Mönchengladbach,41179,Hennes-Weisweiler-Allee 1,https://www.ticketmaster.fi/venue/borussia-park-monchengladbach-lippuja/bor/325,6.3855,51.1746
+Stadthalle Gross-Gerau,Groß-Gerau,64521,Jahnstrasse 14,https://www.ticketmaster.de/venue/stadthalle-gross-gerau-gross-gerau-tickets/ggestadtha/722,8.48155,49.91857
+Stadthalle,Groß-Umstadt,64823,Am Darmstädter Schloss 6,https://www.ticketmaster.de/venue/stadthalle-gross-umstadt-tickets/gumstadtha/722,8.94869,49.86872
+Hamburger Hafen,Hamburg,20359,St. Pauli Landungsbrücken,https://www.ticketmaster.de/venue/hamburger-hafen-hamburg-tickets/hamhamhafe/701,9.99247,53.55334
+Merkur-Arena,Lübbecke,32312,Rote Mühle 1,https://www.ticketmaster.de/venue/merkur-arena-lubbecke-tickets/lbbmerkura/712,8.62067,52.31084
+Lipperlandhalle,Lemgo,32657,Bunsenstraße 39,https://www.ticketmaster.de/venue/lipperlandhalle-lemgo-tickets/lemlipperh/712,8.90774,52.0171
+Bürgerhaus,Bad Camberg,65520,Chambray les Pours Platz 1,https://www.ticketmaster.de/venue/burgerhaus-bad-camberg-tickets/bcbbuerger/722,8.26504,50.29826
+Stadthalle,Gießen,35390,Berliner Platz 2,https://www.ticketmaster.de/venue/stadthalle-giessen-tickets/giestadtha/722,8.67847,50.58347
 Stadthalle,Buchen,74722,Schützenstrasse 1,https://www.ticketmaster.de/venue/stadthalle-buchen-tickets/bucstadtha/722,9.32333,49.52167
 Stadthalle,Marburg,35037,Biegenstrasse 15,https://www.ticketmaster.de/venue/stadthalle-marburg-tickets/marstadtha/722,8.77455,50.81039
 Stadthalle (Kongress Palais),Kassel,34119,Holger-Börner-Platz 1,https://www.ticketmaster.de/venue/stadthalle-kongress-palais--kassel-tickets/kaskonpala/701,9.46318,51.31812
@@ -5643,25 +5703,25 @@ Sportgelände SC Neuhaus,Aufseß,91347,Bergstraße 80,https://www.ticketmaster.d
 Diverse Veranstaltungsstätten,Heiligenstadt,91332,NA,https://www.ticketmaster.de/venue/diverse-veranstaltungsstatten-heiligenstadt-tickets/hlsdiverse/701,11.16922,49.86454
 Marktplatz,Günzburg,89312,NA,https://www.ticketmaster.de/venue/marktplatz-gunzburg-tickets/gnzmarktpl/701,10.2765,48.4555
 LM - Wiley Sportpark,Neu-Ulm,89231,NA,https://www.ticketmaster.de/venue/lm-wiley-sportpark-neu-ulm-tickets/nulwileysp/701,10.01213,48.38277
-LM - Volksfestplatz,Neu-Ulm,89231,NA,https://www.ticketmaster.de/venue/lm-volksfestplatz-neu-ulm-tickets/nulvolksfe/701,10.01022,48.37355
-LM - Discothek A7 (Club Liberty),Neu-Ulm,89231,NA,https://www.ticketmaster.de/venue/lm-discothek-a7-club-liberty--neu-ulm-tickets/nulclublib/701,10.02717,48.39614
-LM - LSG,Neu-Ulm,89231,NA,https://www.ticketmaster.de/venue/lm-lsg-neu-ulm-tickets/nullsg/701,10.007778,48.381678
-LM - Big Ball,Neu-Ulm,89231,NA,https://www.ticketmaster.de/venue/lm-big-ball-neu-ulm-tickets/nulbigball/701,10.01702,48.3938
-Festivalgelände,Dischingen,89561,NA,https://www.ticketmaster.de/venue/festivalgelande-dischingen-tickets/dicopenair/701,10.37708,48.71551
-Kliffhalle,Gerstetten,89547,NA,https://www.ticketmaster.de/venue/kliffhalle-gerstetten-tickets/gstkliffha/701,10.07053,48.60365
-Sporthalle,Augsburg,86159,NA,https://www.ticketmaster.de/venue/sporthalle-augsburg-tickets/augsportha/701,10.88009,48.35641
-Kongress am Park,Augsburg,86159,NA,https://www.ticketmaster.de/venue/kongress-am-park-augsburg-tickets/augkongres/701,10.88689,48.35933
-Beim Weissen Lamm,Augsburg,86150,NA,https://www.ticketmaster.de/venue/beim-weissen-lamm-augsburg-tickets/augbeimwei/701,10.8931,48.37078
-Rathausplatz,Dachau,85221,NA,https://www.ticketmaster.de/venue/rathausplatz-dachau-tickets/dacrathaus/701,11.43488,48.25972
-Olympia Regatta Strecke,Oberschleißheim,85764,NA,https://www.ticketmaster.de/venue/olympia-regatta-strecke-oberschleissheim-tickets/obsolympia/701,11.5246,48.25255
-Friedenskirche,Dachau,85221,NA,https://www.ticketmaster.de/venue/friedenskirche-dachau-tickets/dacfrieden/701,11.43554,48.25414
-Trabrennbahn,Mühldorf am Inn,84453,NA,https://www.ticketmaster.de/venue/trabrennbahn-muhldorf-am-inn-tickets/mldtrabren/701,12.53839,48.238561
+LM - Volksfestplatz,Neu-Ulm,89231,Europaplatz,https://www.ticketmaster.de/venue/lm-volksfestplatz-neu-ulm-tickets/nulvolksfe/701,10.01022,48.37355
+LM - Discothek A7 (Club Liberty),Neu-Ulm,89231,Lessingstraße 8,https://www.ticketmaster.de/venue/lm-discothek-a7-club-liberty--neu-ulm-tickets/nulclublib/701,10.02717,48.39614
+LM - LSG,Neu-Ulm,89231,Wiley-Straße,https://www.ticketmaster.de/venue/lm-lsg-neu-ulm-tickets/nullsg/701,10.007778,48.381678
+LM - Big Ball,Neu-Ulm,89231,Borsigstraße 15,https://www.ticketmaster.de/venue/lm-big-ball-neu-ulm-tickets/nulbigball/701,10.01702,48.3938
+Festivalgelände,Dischingen,89561,Härtsfeldsee,https://www.ticketmaster.de/venue/festivalgelande-dischingen-tickets/dicopenair/701,10.37708,48.71551
+Kliffhalle,Gerstetten,89547,Flurstraße,https://www.ticketmaster.de/venue/kliffhalle-gerstetten-tickets/gstkliffha/701,10.07053,48.60365
+Sporthalle,Augsburg,86159,Ulrich-Hofmaier-Straße 30,https://www.ticketmaster.de/venue/sporthalle-augsburg-tickets/augsportha/701,10.88009,48.35641
+Kongress am Park,Augsburg,86159,Gögginger Straße 10,https://www.ticketmaster.de/venue/kongress-am-park-augsburg-tickets/augkongres/701,10.88689,48.35933
+Beim Weissen Lamm,Augsburg,86150,Ludwigstraße 23,https://www.ticketmaster.de/venue/beim-weissen-lamm-augsburg-tickets/augbeimwei/701,10.8931,48.37078
+Rathausplatz,Dachau,85221,Konrad-Adenauer-Platz 1,https://www.ticketmaster.de/venue/rathausplatz-dachau-tickets/dacrathaus/701,11.43488,48.25972
+Olympia Regatta Strecke,Oberschleißheim,85764,Dachauer Straße 35,https://www.ticketmaster.de/venue/olympia-regatta-strecke-oberschleissheim-tickets/obsolympia/701,11.5246,48.25255
+Friedenskirche,Dachau,85221,Uhdestraße 2,https://www.ticketmaster.de/venue/friedenskirche-dachau-tickets/dacfrieden/701,11.43554,48.25414
+Trabrennbahn,Mühldorf am Inn,84453,Trabrennbahn,https://www.ticketmaster.de/venue/trabrennbahn-muhldorf-am-inn-tickets/mldtrabren/701,12.53839,48.238561
 Schloss Tüssling,Tüßling,84577,NA,https://www.ticketmaster.de/venue/schloss-tussling-tussling-tickets/tueschloss/701,12.59997,48.21269
 Diverse Veranstaltungsstätten,Ingolstadt,85049,NA,https://www.ticketmaster.de/venue/diverse-veranstaltungsstatten-ingolstadt-tickets/ingdiverse/701,11.423939,48.76487
-Freilichtbühne,Augsburg,86150,NA,https://www.ticketmaster.de/venue/freilichtbuhne-augsburg-tickets/augfreilic/701,10.90245,48.35992
-Kerosin,Augsburg,86159,NA,https://www.ticketmaster.de/venue/kerosin-augsburg-tickets/augkerosin/701,10.88773,48.35731
-Tschabos,Rottenburg,84056,NA,https://www.ticketmaster.de/venue/tschabos-rottenburg-tickets/rlatschabo/701,12.01591,48.72145
-Eskara,Essenbach,84051,NA,https://www.ticketmaster.de/venue/eskara-essenbach-tickets/esseskara/701,12.21754,48.61278
+Freilichtbühne,Augsburg,86150,Am Roten Tor,https://www.ticketmaster.de/venue/freilichtbuhne-augsburg-tickets/augfreilic/701,10.90245,48.35992
+Kerosin,Augsburg,86159,Gögginger Straße 28,https://www.ticketmaster.de/venue/kerosin-augsburg-tickets/augkerosin/701,10.88773,48.35731
+Tschabos,Rottenburg,84056,Hans-Ebron-Straße 24,https://www.ticketmaster.de/venue/tschabos-rottenburg-tickets/rlatschabo/701,12.01591,48.72145
+Eskara,Essenbach,84051,Savigneuxplatz 4,https://www.ticketmaster.de/venue/eskara-essenbach-tickets/esseskara/701,12.21754,48.61278
 Open Air Gelände,Landshut,84028,Altstadt,https://www.ticketmaster.de/venue/open-air-gelande-landshut-tickets/lhsopenair/701,12.1514,48.53591
 Reduit Tilly,Ingolstadt,85049,Im Klenzepark,https://www.ticketmaster.de/venue/reduit-tilly-ingolstadt-tickets/ingreduitt/701,11.431482,48.760761
 Festsaal der Hans Seidel Stiftun,Kreuth,83708,Bildungszentrum Wildbad Kreuth,https://www.ticketmaster.de/venue/festsaal-der-hans-seidel-stiftun-kreuth-tickets/kthfestsaa/701,11.74077,47.62233
@@ -5703,25 +5763,25 @@ Gesellschaftshaus Sonneberg,Sonneberg,96515,Charlottenstraße 5,https://www.tick
 Tambacher Sommer,Weitramsdorf,96479,Schlossinnenhof / Schlossallee 1,https://www.ticketmaster.de/venue/tambacher-sommer-weitramsdorf-tickets/tamtambach/701,10.86536,50.23574
 Open Air,Speichersdorf,95469,Brüderes,https://www.ticketmaster.de/venue/open-air-speichersdorf-tickets/speopenair/701,11.74278,49.87254
 Diverse Veranstaltungsstätten,Bayreuth,95444,NA,https://www.ticketmaster.de/venue/diverse-veranstaltungsstatten-bayreuth-tickets/baydiverse/701,11.573755,49.942766
-Rehau Art,Rehau,95111,NA,https://www.ticketmaster.de/venue/rehau-art-rehau-tickets/rearehauar/701,12.03887,50.25227
-Peter und Paul Kirche,Münchberg,95213,NA,https://www.ticketmaster.de/venue/peter-und-paul-kirche-munchberg-tickets/mcepeterun/701,11.78726,50.19176
-Schützenplatz,Lichtenfels,96215,NA,https://www.ticketmaster.de/venue/schutzenplatz-lichtenfels-tickets/licschuetz/701,11.05901,50.15059
-Stadthalle,Landau,94405,NA,https://www.ticketmaster.de/venue/stadthalle-landau-tickets/lanstadtha/701,12.69205,48.66897
-Stadthalle,Deggendorf,94469,NA,https://www.ticketmaster.de/venue/stadthalle-deggendorf-tickets/degstadtha/701,12.95707,48.83088
-Club Leonhard,Babensham,83547,NA,https://www.ticketmaster.de/venue/club-leonhard-babensham-tickets/stlclubleo/701,12.26782,48.08211
-Münster St. Zeno,Bad Reichenhall,83435,NA,https://www.ticketmaster.de/venue/munster-st-zeno-bad-reichenhall-tickets/brhmuenste/701,12.89054,47.73503
-Kunsteisbahn Königssee,Schönau am Königssee,83471,NA,https://www.ticketmaster.de/venue/kunsteisbahn-konigssee-schonau-am-konigssee-tickets/ksekunstei/701,12.98635,47.58891
-Altkreut,Wessobrunn,82405,NA,https://www.ticketmaster.de/venue/altkreut-wessobrunn-tickets/wobaltkreu/701,11.0304,47.86231
-Pfarrkirche St. Josef,Tutzing,82327,NA,https://www.ticketmaster.de/venue/pfarrkirche-st-josef-tutzing-tickets/tuzpfarrki/701,11.27762,47.91061
-Festhalle,Egenhofen,82281,NA,https://www.ticketmaster.de/venue/festhalle-egenhofen-tickets/egefesthal/701,11.16343,48.28169
+Rehau Art,Rehau,95111,Zehstraße 5,https://www.ticketmaster.de/venue/rehau-art-rehau-tickets/rearehauar/701,12.03887,50.25227
+Peter und Paul Kirche,Münchberg,95213,Kirchplatz 1,https://www.ticketmaster.de/venue/peter-und-paul-kirche-munchberg-tickets/mcepeterun/701,11.78726,50.19176
+Schützenplatz,Lichtenfels,96215,Schützenstraße 10,https://www.ticketmaster.de/venue/schutzenplatz-lichtenfels-tickets/licschuetz/701,11.05901,50.15059
+Stadthalle,Landau,94405,Fleischgasse 4,https://www.ticketmaster.de/venue/stadthalle-landau-tickets/lanstadtha/701,12.69205,48.66897
+Stadthalle,Deggendorf,94469,Edlmairstraße 2,https://www.ticketmaster.de/venue/stadthalle-deggendorf-tickets/degstadtha/701,12.95707,48.83088
+Club Leonhard,Babensham,83547,St. Leonhard 8,https://www.ticketmaster.de/venue/club-leonhard-babensham-tickets/stlclubleo/701,12.26782,48.08211
+Münster St. Zeno,Bad Reichenhall,83435,Salzburger Straße,https://www.ticketmaster.de/venue/munster-st-zeno-bad-reichenhall-tickets/brhmuenste/701,12.89054,47.73503
+Kunsteisbahn Königssee,Schönau am Königssee,83471,An der Seeklause 43-45,https://www.ticketmaster.de/venue/kunsteisbahn-konigssee-schonau-am-konigssee-tickets/ksekunstei/701,12.98635,47.58891
+Altkreut,Wessobrunn,82405,Altkreut 2,https://www.ticketmaster.de/venue/altkreut-wessobrunn-tickets/wobaltkreu/701,11.0304,47.86231
+Pfarrkirche St. Josef,Tutzing,82327,Kirchenstraße 10,https://www.ticketmaster.de/venue/pfarrkirche-st-josef-tutzing-tickets/tuzpfarrki/701,11.27762,47.91061
+Festhalle,Egenhofen,82281,Krokusstraße,https://www.ticketmaster.de/venue/festhalle-egenhofen-tickets/egefesthal/701,11.16343,48.28169
 Diverse Veranstaltungsstätten,Starnberg,82319,NA,https://www.ticketmaster.de/venue/diverse-veranstaltungsstatten-starnberg-tickets/stadiverse/701,11.33973,48.01474
-Kleine Georg Elser Halle,Munich,81671,NA,https://www.ticketmaster.de/venue/kleine-georg-elser-halle-munchen-tickets/mueklgeorg/701,11.60412,48.12351
-The Westin Grand München Arabell,Munich,81925,NA,https://www.ticketmaster.de/venue/the-westin-grand-munchen-arabell-munchen-tickets/muearabell/701,11.61714,48.152
-Schulzentrum Perlach Konzerthall,Munich,81735,NA,https://www.ticketmaster.de/venue/schulzentrum-perlach-konzerthall-munchen-tickets/mueperlach/701,11.6487,48.10999
-ARTENKIRCHEN - Olympia Eisstadio,Garmisch-Partenkirchen,82467,NA,https://www.ticketmaster.de/venue/artenkirchen-olympia-eisstadio-garmisch-partenkirchen-tickets/gpkolympia/701,11.09426,47.48947
-ARTENKIRCHEN - Zugspitze Panoram,Garmisch-Partenkirchen,82467,NA,https://www.ticketmaster.de/venue/artenkirchen-zugspitze-panoram-garmisch-partenkirchen-tickets/gpkzugspit/701,11.09562,47.49085
-ARTENKIRCHEN - Partnach Alm,Garmisch-Partenkirchen,82467,NA,https://www.ticketmaster.de/venue/artenkirchen-partnach-alm-garmisch-partenkirchen-tickets/gpkpartnac/701,NA,NA
-KUKO Kultur + Kongresszentrum,Rosenheim,83022,NA,https://www.ticketmaster.de/venue/kuko-kultur--kongresszentrum-rosenheim-tickets/rshkukokul/701,12.12441,47.85268
+Kleine Georg Elser Halle,Munich,81671,Rosenheimer Straße 143,https://www.ticketmaster.de/venue/kleine-georg-elser-halle-munchen-tickets/mueklgeorg/701,11.60412,48.12351
+The Westin Grand München Arabell,Munich,81925,Arabellastraße 6,https://www.ticketmaster.de/venue/the-westin-grand-munchen-arabell-munchen-tickets/muearabell/701,11.61714,48.152
+Schulzentrum Perlach Konzerthall,Munich,81735,Quiddestraße 4,https://www.ticketmaster.de/venue/schulzentrum-perlach-konzerthall-munchen-tickets/mueperlach/701,11.6487,48.10999
+ARTENKIRCHEN - Olympia Eisstadio,Garmisch-Partenkirchen,82467,Am Eisstadion 1,https://www.ticketmaster.de/venue/artenkirchen-olympia-eisstadio-garmisch-partenkirchen-tickets/gpkolympia/701,11.09426,47.48947
+ARTENKIRCHEN - Zugspitze Panoram,Garmisch-Partenkirchen,82467,Zugspitzbahnhof / Olympiastrasse 27,https://www.ticketmaster.de/venue/artenkirchen-zugspitze-panoram-garmisch-partenkirchen-tickets/gpkzugspit/701,11.09562,47.49085
+ARTENKIRCHEN - Partnach Alm,Garmisch-Partenkirchen,82467,Hoher Weg,https://www.ticketmaster.de/venue/artenkirchen-partnach-alm-garmisch-partenkirchen-tickets/gpkpartnac/701,NA,NA
+KUKO Kultur + Kongresszentrum,Rosenheim,83022,Kufsteiner Straße 4,https://www.ticketmaster.de/venue/kuko-kultur--kongresszentrum-rosenheim-tickets/rshkukokul/701,12.12441,47.85268
 Arena Schloss Kaltenberg,Geltendorf,82269,Schloßstraße 14,https://www.ticketmaster.de/venue/arena-schloss-kaltenberg-geltendorf-tickets/kabarenaka/701,10.9922,48.13128
 Olympia-Reitanlage München-Riem,Munich,81929,Landshamer Straße 11,https://www.ticketmaster.de/venue/olympia-reitanlage-munchen-riem-munchen-tickets/muereitsta/701,11.66613,48.14384
 Merlin,Munich,81929,NA,https://www.ticketmaster.de/venue/merlin-munchen-tickets/muemerlin/701,11.66403,48.16085
@@ -6444,24 +6504,24 @@ Musiktheater BAD,Hannover,NA,Am Grossen Garten 60,https://www.ticketmaster.nl/ve
 "Maimarkthalle, Xaver Fuhrstrasse",Mannheim,NA,Xaver Fuhrstrasse,https://www.ticketmaster.nl/venue/maimarkthalle-xaver-fuhrstrasse-mannheim-tickets/mai/105,8.52179,49.4669
 Loreley Freilichtbuhne,Frankfurt am Main,NA,NA,https://www.ticketmaster.nl/venue/loreley-freilichtbuhne-frankfurt-am-main-tickets/loreley/108,8.68341,50.11208
 LTU Arena,Düsseldorf,NA,NA,https://www.ticketmaster.nl/venue/ltu-arena-dusseldorf-tickets/ltu/105,6.77604,51.21563
-Konzertwiese am Sante Royale,Wolkenstein,9429,NA,https://www.ticketmaster.de/venue/konzertwiese-am-sante-royale-wolkenstein-tickets/wrmsantroy/701,13.08107,50.66489
-Steigenberger Drei Mohren,Augsburg,86150,NA,https://www.ticketmaster.de/venue/steigenberger-drei-mohren-augsburg-tickets/augsteigen/731,10.89877,48.36554
-Reisebus-Haltestelle Lebenstedt,Salzgitter,38226,NA,https://www.ticketmaster.de/venue/reisebus-haltestelle-lebenstedt-salzgitter-tickets/slgreisebu/740,10.3281,52.1592
-Im Wizemann (Studio),Stuttgart,70376,NA,https://www.ticketmaster.de/venue/im-wizemann-studio--stuttgart-tickets/stuimwizst/749,9.20101,48.80816
-Nattenberg-Stadion,Lüdenscheid,58515,NA,https://www.ticketmaster.de/venue/nattenberg-stadion-ludenscheid-tickets/lddnattenb/701,7.62106,51.20766
-Bürgerhaus Neuenhagen,Neuenhagen,15366,NA,https://www.ticketmaster.de/venue/burgerhaus-neuenhagen-neuenhagen-tickets/nnhbuerger/701,13.70453,52.52122
-Güterbahnhof,Kiel,24143,NA,https://www.ticketmaster.de/venue/guterbahnhof-kiel-tickets/kieguterba/701,10.13009,54.30322
-Marko Mock Arena,Bremen,28355,NA,https://www.ticketmaster.de/venue/marko-mock-arena-bremen-tickets/breflorian/740,8.93105,53.08016
-Im Garten des Park Hotels Bremen,Bremen,28209,NA,https://www.ticketmaster.de/venue/im-garten-des-park-hotels-bremen-bremen-tickets/bredorigar/740,8.82184,53.08908
-folks! club,Munich,80337,NA,https://www.ticketmaster.de/venue/folks-club-munchen-tickets/muefolkscl/753,11.56662,48.13347
-Große Kunstschau,Worpswede,27726,NA,https://www.ticketmaster.de/venue/grosse-kunstschau-worpswede-tickets/wopgrokuns/740,8.9278,53.21969
+Konzertwiese am Sante Royale,Wolkenstein,9429,An der Silbertherme,https://www.ticketmaster.de/venue/konzertwiese-am-sante-royale-wolkenstein-tickets/wrmsantroy/701,13.08107,50.66489
+Steigenberger Drei Mohren,Augsburg,86150,Maximilianstraße 40,https://www.ticketmaster.de/venue/steigenberger-drei-mohren-augsburg-tickets/augsteigen/731,10.89877,48.36554
+Reisebus-Haltestelle Lebenstedt,Salzgitter,38226,Albert-Schweitzer-Straße,https://www.ticketmaster.de/venue/reisebus-haltestelle-lebenstedt-salzgitter-tickets/slgreisebu/740,10.3281,52.1592
+Im Wizemann (Studio),Stuttgart,70376,Quellenstraße 7,https://www.ticketmaster.de/venue/im-wizemann-studio--stuttgart-tickets/stuimwizst/749,9.20101,48.80816
+Nattenberg-Stadion,Lüdenscheid,58515,Am Nattenberg 3,https://www.ticketmaster.de/venue/nattenberg-stadion-ludenscheid-tickets/lddnattenb/701,7.62106,51.20766
+Bürgerhaus Neuenhagen,Neuenhagen,15366,Hauptstraße 2,https://www.ticketmaster.de/venue/burgerhaus-neuenhagen-neuenhagen-tickets/nnhbuerger/701,13.70453,52.52122
+Güterbahnhof,Kiel,24143,Tonberg 15,https://www.ticketmaster.de/venue/guterbahnhof-kiel-tickets/kieguterba/701,10.13009,54.30322
+Marko Mock Arena,Bremen,28355,Vinnenweg 100,https://www.ticketmaster.de/venue/marko-mock-arena-bremen-tickets/breflorian/740,8.93105,53.08016
+Im Garten des Park Hotels Bremen,Bremen,28209,Bürgerpark,https://www.ticketmaster.de/venue/im-garten-des-park-hotels-bremen-bremen-tickets/bredorigar/740,8.82184,53.08908
+folks! club,Munich,80337,Thalkirchner Str. 2,https://www.ticketmaster.de/venue/folks-club-munchen-tickets/muefolkscl/753,11.56662,48.13347
+Große Kunstschau,Worpswede,27726,Lindenallee 5,https://www.ticketmaster.de/venue/grosse-kunstschau-worpswede-tickets/wopgrokuns/740,8.9278,53.21969
 Halle Nord,Buxtehude,NA,NA,https://www.ticketmaster.de/venue/halle-nord-buxtehude-tickets/buxhalnord/716,9.70311,53.47717
-Max-Kreitmayr Halle (Stadthalle),Friedberg,86316,NA,https://www.ticketmaster.de/venue/max-kreitmayr-halle-stadthalle--friedberg-tickets/fdgmaxkrei/701,10.983459999999999,48.35711
-Oderberger Sommergarten,Berlin,10435,NA,https://www.ticketmaster.de/venue/oderberger-sommergarten-berlin-tickets/beroderber/701,13.41055,52.53799
-Congress Saal - RuhrCongress,Bochum,44791,NA,https://www.ticketmaster.de/venue/congress-saal-ruhrcongress-bochum-tickets/bocruhrcgr/749,7.23344,51.49038
-St. Maximilian / Maxkirche,Düsseldorf,40213,NA,https://www.ticketmaster.de/venue/st-maximilian-maxkirche-dusseldorf-tickets/dusmaxkirc/701,6.77151,51.22328
-ZOB Wilhelmshaven,Wilhelmshaven,26382,NA,https://www.ticketmaster.de/venue/zob-wilhelmshaven-wilhelmshaven-tickets/wilzob/740,8.11837,53.51893
-St. Peter,Frankfurt am Main,60313,NA,https://www.ticketmaster.de/venue/st-peter-frankfurt-am-main-tickets/famstpeter/701,8.6837,50.11845
+Max-Kreitmayr Halle (Stadthalle),Friedberg,86316,Aichacher Str. 7,https://www.ticketmaster.de/venue/max-kreitmayr-halle-stadthalle--friedberg-tickets/fdgmaxkrei/701,10.983459999999999,48.35711
+Oderberger Sommergarten,Berlin,10435,Oderberger Str. 57,https://www.ticketmaster.de/venue/oderberger-sommergarten-berlin-tickets/beroderber/701,13.41055,52.53799
+Congress Saal - RuhrCongress,Bochum,44791,Stadionring 20,https://www.ticketmaster.de/venue/congress-saal-ruhrcongress-bochum-tickets/bocruhrcgr/749,7.23344,51.49038
+St. Maximilian / Maxkirche,Düsseldorf,40213,Citadellstraße 2A,https://www.ticketmaster.de/venue/st-maximilian-maxkirche-dusseldorf-tickets/dusmaxkirc/701,6.77151,51.22328
+ZOB Wilhelmshaven,Wilhelmshaven,26382,Virchowstraße,https://www.ticketmaster.de/venue/zob-wilhelmshaven-wilhelmshaven-tickets/wilzob/740,8.11837,53.51893
+St. Peter,Frankfurt am Main,60313,Bleichstraße 33,https://www.ticketmaster.de/venue/st-peter-frankfurt-am-main-tickets/famstpeter/701,8.6837,50.11845
 St. Laurentius Kirche,Achim,28832,Pfarrstraße 3,https://www.ticketmaster.de/venue/st-laurentius-kirche-achim-tickets/achstlaurk/740,9.03028,53.01159
 Discovery Dock,Hamburg,20457,Am Kaiserkai 60,https://www.ticketmaster.de/venue/discovery-dock-hamburg-tickets/hamdiscove/701,9.98506,53.54149
 "Treffpunkt Statue ""Nackte Frau""",Hamburg,20354,Stephansplatz,https://www.ticketmaster.de/venue/treffpunkt-statue-nackte-frau-hamburg-tickets/hamstephan/737,9.98879,53.55848
@@ -6543,7 +6603,6 @@ Schlosskirche Eller,Düsseldorf,40229,Schloßallee 8,https://www.ticketmaster.de
 Ev.Luth.Kirche,Lastrup,49688,Am Apfelgarten 3,https://www.ticketmaster.de/venue/evluthkirche-lastrup-tickets/lastevluth/740,7.86531,52.79793
 Vineta-Sportarena,Barth,18356,Gewerbegebiet am Betonwerk 2,https://www.ticketmaster.de/venue/vineta-sportarena-barth-tickets/barvineta/701,12.70353,54.37177
 Jahrhunderthalle Kasino,Frankfurt am Main,65929,Pfaffenwiese 301,https://www.ticketmaster.de/venue/jahrhunderthalle-kasino-frankfurt-am-main-tickets/famjahrkas/715,8.51972,50.09914
-Bahnhof Pauli,Hamburg,20539,Spielbudenplatz 21-22,https://www.ticketmaster.de/venue/bahnhof-pauli-hamburg-tickets/hambahnpau/701,9.96426,53.54923
 Schloss Altdöbern,Altdöbern,3229,Am Park,https://www.ticketmaster.de/venue/schloss-altdobern-altdobern-tickets/aldschloss/721,14.03523,51.65375
 Hänsch-Arena,Meppen,49716,Lathener Str. 15A,https://www.ticketmaster.de/venue/hansch-arena-meppen-tickets/mephaearen/759,7.29851,52.70817
 Festplatz am Viadukt,Bietigheim-Bissingen,74321,Holzgartenstraße,https://www.ticketmaster.de/venue/festplatz-am-viadukt-bietigheim-bissingen-tickets/bitfestvia/753,9.12914,48.9559
@@ -7143,25 +7202,25 @@ Stadt Syke,Syke,28857,Waldstraße 1,https://www.ticketmaster.de/venue/stadt-syke
 Schützenhaus Pewsum,Krummhörn,26736,Schatthausstr. 23,https://www.ticketmaster.de/venue/schutzenhaus-pewsum-krummhorn-tickets/krhschuetz/740,7.0957,53.43925
 "Hangar 49, Bogen 49",Berlin,10179,Holzmarktstraße 15-18,https://www.ticketmaster.de/venue/hangar-49-bogen-49-berlin-tickets/berhanga49/701,13.42247,52.5139
 Promenade am Centro Oberhausen,Oberhausen,46047,NA,https://www.ticketmaster.de/venue/promenade-am-centro-oberhausen-oberhausen-tickets/oberpromen/729,6.8775,51.4916
-Hotel Faldernpoort,Emden,26725,NA,https://www.ticketmaster.de/venue/hotel-faldernpoort-emden-tickets/emdhotelfa/740,7.21529,53.36322
-Petrikirche,Münster,48143,NA,https://www.ticketmaster.de/venue/petrikirche-munster-tickets/munpetriki/701,7.62214,51.96175
-Kulturamt Bielefeld,Bielefeld,33602,NA,https://www.ticketmaster.de/venue/kulturamt-bielefeld-bielefeld-tickets/biekultura/749,8.53739,52.02639
-Ev. Altstadtkirche,Gelsenkirchen,45879,NA,https://www.ticketmaster.de/venue/ev-altstadtkirche-gelsenkirchen-tickets/gelevkirch/740,7.09427,51.51021
-König Galerie,Berlin,10969,NA,https://www.ticketmaster.de/venue/konig-galerie-berlin-tickets/berkoenigg/701,13.40074,52.5008
-Bürgerhaus Höchst im Odenwald,Höchst,64739,NA,https://www.ticketmaster.de/venue/burgerhaus-hochst-im-odenwald-hochst-tickets/hoebuerger/701,8.99416,49.79861
-Freilichtbühne Eberswalde,Eberswalde,16225,NA,https://www.ticketmaster.de/venue/freilichtbuhne-eberswalde-eberswalde-tickets/ebwfreilic/704,13.76745,52.84129
-Kieler Schloss,Kiel,24103,NA,https://www.ticketmaster.de/venue/kieler-schloss-kiel-tickets/kielschlos/701,10.1435,54.32435
-Bürgerhaus am Ihler Meer,Ihlow,26632,NA,https://www.ticketmaster.de/venue/burgerhaus-am-ihler-meer-ihlow-tickets/ihwbuerger/740,7.43999,53.41127
-Ballspielhalle,Potsdam,14471,NA,https://www.ticketmaster.de/venue/ballspielhalle-potsdam-tickets/potballspi/720,13.01943,52.37962
-Maria-Magdalena-Kirche,Holtgast,26427,NA,https://www.ticketmaster.de/venue/maria-magdalena-kirche-holtgast-tickets/hogmariama/740,7.52598,53.63266
-Im Foyer,Cologne,50670,NA,https://www.ticketmaster.de/venue/im-foyer-koln-tickets/koemediapa/701,6.94433,50.94883
-St. Matthäuskirche,Munich,80336,NA,https://www.ticketmaster.de/venue/st-matthauskirche-munchen-tickets/muestmatth/701,11.5648,48.13321
-STATION Berlin,Berlin,10963,NA,https://www.ticketmaster.de/venue/station-berlin-berlin-tickets/berstation/755,13.3756,52.50003
-Blauer Salon Leipzig,Leipzig,4109,NA,https://www.ticketmaster.de/venue/blauer-salon-leipzig-leipzig-tickets/leiblausal/701,12.37405,51.34101
-Konzertsaal der Hochschule,Aachen,52062,NA,https://www.ticketmaster.de/venue/konzertsaal-der-hochschule-aachen-tickets/aackonzert/732,6.08788,50.77207
-Schlosskirche Pforzheim,Pforzheim,75175,NA,https://www.ticketmaster.de/venue/schlosskirche-pforzheim-pforzheim-tickets/pfoschloss/701,8.70309,48.89204
-Kulturzentrum Frankental,Stolberg,52222,NA,https://www.ticketmaster.de/venue/kulturzentrum-frankental-stolberg-tickets/stokulturz/732,6.22521,50.77639
-Vienna House Sonne Rostock,Rostock,18055,NA,https://www.ticketmaster.de/venue/vienna-house-sonne-rostock-rostock-tickets/rossthotso/701,12.1422,54.08799
+Hotel Faldernpoort,Emden,26725,Courbierestraße 6,https://www.ticketmaster.de/venue/hotel-faldernpoort-emden-tickets/emdhotelfa/740,7.21529,53.36322
+Petrikirche,Münster,48143,Jesuitengang,https://www.ticketmaster.de/venue/petrikirche-munster-tickets/munpetriki/701,7.62214,51.96175
+Kulturamt Bielefeld,Bielefeld,33602,Kavalleriestraße 17,https://www.ticketmaster.de/venue/kulturamt-bielefeld-bielefeld-tickets/biekultura/749,8.53739,52.02639
+Ev. Altstadtkirche,Gelsenkirchen,45879,Heinrich-König-Platz,https://www.ticketmaster.de/venue/ev-altstadtkirche-gelsenkirchen-tickets/gelevkirch/740,7.09427,51.51021
+König Galerie,Berlin,10969,Alexandrinenstraße 118,https://www.ticketmaster.de/venue/konig-galerie-berlin-tickets/berkoenigg/701,13.40074,52.5008
+Bürgerhaus Höchst im Odenwald,Höchst,64739,Montmelianer Pl. 4,https://www.ticketmaster.de/venue/burgerhaus-hochst-im-odenwald-hochst-tickets/hoebuerger/701,8.99416,49.79861
+Freilichtbühne Eberswalde,Eberswalde,16225,Am alten Walzwerk 1,https://www.ticketmaster.de/venue/freilichtbuhne-eberswalde-eberswalde-tickets/ebwfreilic/704,13.76745,52.84129
+Kieler Schloss,Kiel,24103,Dänische Str. 44,https://www.ticketmaster.de/venue/kieler-schloss-kiel-tickets/kielschlos/701,10.1435,54.32435
+Bürgerhaus am Ihler Meer,Ihlow,26632,1. Kompanieweg 3,https://www.ticketmaster.de/venue/burgerhaus-am-ihler-meer-ihlow-tickets/ihwbuerger/740,7.43999,53.41127
+Ballspielhalle,Potsdam,14471,Olympischer Weg 6,https://www.ticketmaster.de/venue/ballspielhalle-potsdam-tickets/potballspi/720,13.01943,52.37962
+Maria-Magdalena-Kirche,Holtgast,26427,Kirchstraße,https://www.ticketmaster.de/venue/maria-magdalena-kirche-holtgast-tickets/hogmariama/740,7.52598,53.63266
+Im Foyer,Cologne,50670,Im Media Park 6,https://www.ticketmaster.de/venue/im-foyer-koln-tickets/koemediapa/701,6.94433,50.94883
+St. Matthäuskirche,Munich,80336,Nußbaumstraße 1,https://www.ticketmaster.de/venue/st-matthauskirche-munchen-tickets/muestmatth/701,11.5648,48.13321
+STATION Berlin,Berlin,10963,Luckenwalder Str. 4-6,https://www.ticketmaster.de/venue/station-berlin-berlin-tickets/berstation/755,13.3756,52.50003
+Blauer Salon Leipzig,Leipzig,4109,Markt 9,https://www.ticketmaster.de/venue/blauer-salon-leipzig-leipzig-tickets/leiblausal/701,12.37405,51.34101
+Konzertsaal der Hochschule,Aachen,52062,f. Musik u. Tanz l Theaterplatz 16,https://www.ticketmaster.de/venue/konzertsaal-der-hochschule-aachen-tickets/aackonzert/732,6.08788,50.77207
+Schlosskirche Pforzheim,Pforzheim,75175,Schlossberg 10,https://www.ticketmaster.de/venue/schlosskirche-pforzheim-pforzheim-tickets/pfoschloss/701,8.70309,48.89204
+Kulturzentrum Frankental,Stolberg,52222,Frankental Straße 3,https://www.ticketmaster.de/venue/kulturzentrum-frankental-stolberg-tickets/stokulturz/732,6.22521,50.77639
+Vienna House Sonne Rostock,Rostock,18055,Neuer Markt 2,https://www.ticketmaster.de/venue/vienna-house-sonne-rostock-rostock-tickets/rossthotso/701,12.1422,54.08799
 Dorint Herrenkrug Parkhotel,Magdeburg,39114,Herrenkrug 3,https://www.ticketmaster.de/venue/dorint-herrenkrug-parkhotel-magdeburg-tickets/magdorint/701,11.67944,52.15322
 "Yoko Bar, Musik Club",Hamburg,20354,Valentinskamp 47,https://www.ticketmaster.de/venue/yoko-bar-musik-club-hamburg-tickets/hamyoko/701,9.98204,53.55549
 Schlosskapelle,Jülich,52428,Am Wallgraben,https://www.ticketmaster.de/venue/schlosskapelle-julich-tickets/jueschlkap/732,6.36002,50.92536
@@ -7343,25 +7402,25 @@ DumeklemmerHalle - Stadthalle,Ratingen,40878,Schützenstraße 1,https://www.tick
 Dorfkirche Schönfeld (Barnim),Werneuchen,16356,Schönfelder Dorfstr. 16,https://www.ticketmaster.de/venue/dorfkirche-schonfeld-barnim--werneuchen-tickets/wrukischoe/719,13.73996,52.68108
 Diverse Spielstätten Stade,Stade,21682,NA,https://www.ticketmaster.de/venue/diverse-spielstatten-stade-stade-tickets/stadivspie/701,9.46365,53.59214
 Ticketmaster Shop,Berlin,NA,NA,https://www.ticketmaster.de/venue/ticketmaster-shop-berlin-tickets/ticketmast/722,13.37698,52.51607
-"St. Marienkirche, Treuenbrietzen",Treuenbrietzen,14929,NA,https://www.ticketmaster.de/venue/st-marienkirche-treuenbrietzen-treuenbrietzen-tickets/tbzstmarie/719,12.87612,52.09934
+"St. Marienkirche, Treuenbrietzen",Treuenbrietzen,14929,Großstraße 48,https://www.ticketmaster.de/venue/st-marienkirche-treuenbrietzen-treuenbrietzen-tickets/tbzstmarie/719,12.87612,52.09934
 Ticketmaster Shop,Berlin,NA,NA,https://www.ticketmaster.de/venue/ticketmaster-shop-berlin-tickets/ticketmast/731,13.37698,52.51607
-Klosterhotel Wöltingerode,Goslar,38690,NA,https://www.ticketmaster.de/venue/klosterhotel-woltingerode-goslar-tickets/wolkloster/701,10.53944,51.95972
-Stadthalle/Forum Alte Werft,Papenburg,26871,NA,https://www.ticketmaster.de/venue/stadthalle-forum-alte-werft-papenburg-tickets/papaltesta/740,7.38655,53.08754
-Theater/Forum Alte Werft,Papenburg,26871,NA,https://www.ticketmaster.de/venue/theater-forum-alte-werft-papenburg-tickets/papaltethe/740,7.38655,53.08754
-GLEIS4,Frankenthal,67227,NA,https://www.ticketmaster.de/venue/gleis4-frankenthal-tickets/frkkultgle/701,8.34876,49.53716
-Medusa,Kiel,24143,NA,https://www.ticketmaster.de/venue/medusa-kiel-tickets/kiemedusa/701,10.14829,54.31044
-Treffpunkt,Berlin,10117,NA,https://www.ticketmaster.de/venue/treffpunkt-berlin-tickets/bertreffpu/701,13.38732,52.5236
-Marktplatz,Lüneburg,21335,NA,https://www.ticketmaster.de/venue/marktplatz-luneburg-tickets/lunmarkpla/721,10.40834,53.25002
-Marina Braunsbedra,Braunsbedra,6242,NA,https://www.ticketmaster.de/venue/marina-braunsbedra-braunsbedra-tickets/bbdrmarina/721,11.87236,51.29627
-Concert Broken & Beautiful,Bremen,28209,NA,https://www.ticketmaster.de/venue/concert-broken--beautiful-bremen-tickets/breconbrob/740,8.88626,53.0563
-Kopf und Kragen,Fürth,90762,NA,https://www.ticketmaster.de/venue/kopf-und-kragen-furth-tickets/fuekopfund/749,10.98606,49.47185
-Südbahnhof,Krefeld,47805,NA,https://www.ticketmaster.de/venue/sudbahnhof-krefeld-tickets/kresueedba/749,6.5661,51.32418
-Westfalen Tankstelle Brüggemann,Barnstorf,49406,NA,https://www.ticketmaster.de/venue/westfalen-tankstelle-bruggemann-barnstorf-tickets/diepwestfa/740,8.50963,52.71165
-Bremer Presse-Club,Bremen,28195,NA,https://www.ticketmaster.de/venue/bremer-presse-club-bremen-tickets/brepressec/740,8.80924,53.07292
-Turniergelände,Bad Bederkesa,27624,NA,https://www.ticketmaster.de/venue/turniergelande-bad-bederkesa-tickets/geeturnelm/721,8.7577,53.58381
-Kulturhalle Ziegenhain,Schwalmstadt,34613,NA,https://www.ticketmaster.de/venue/kulturhalle-ziegenhain-schwalmstadt-tickets/smskultzie/701,9.24136,50.91151
-Schloss Britz - Schlossterrasse,Berlin,12359,NA,https://www.ticketmaster.de/venue/schloss-britz-schlossterrasse-berlin-tickets/berschloss/705,13.43781,52.44697
-Gasthaus Mügge,Bruchhausen-Vilsen,27305,NA,https://www.ticketmaster.de/venue/gasthaus-mugge-bruchhausen-vilsen-tickets/bvigastmug/740,9.00443,52.82676
+Klosterhotel Wöltingerode,Goslar,38690,Wöltingerode 3,https://www.ticketmaster.de/venue/klosterhotel-woltingerode-goslar-tickets/wolkloster/701,10.53944,51.95972
+Stadthalle/Forum Alte Werft,Papenburg,26871,Ölmühlenweg 9,https://www.ticketmaster.de/venue/stadthalle-forum-alte-werft-papenburg-tickets/papaltesta/740,7.38655,53.08754
+Theater/Forum Alte Werft,Papenburg,26871,Ölmühlenweg 9,https://www.ticketmaster.de/venue/theater-forum-alte-werft-papenburg-tickets/papaltethe/740,7.38655,53.08754
+GLEIS4,Frankenthal,67227,Johann-Klein-Str. 22,https://www.ticketmaster.de/venue/gleis4-frankenthal-tickets/frkkultgle/701,8.34876,49.53716
+Medusa,Kiel,24143,Medusastr. 16 Hof,https://www.ticketmaster.de/venue/medusa-kiel-tickets/kiemedusa/701,10.14829,54.31044
+Treffpunkt,Berlin,10117,Friedrichstraße 133,https://www.ticketmaster.de/venue/treffpunkt-berlin-tickets/bertreffpu/701,13.38732,52.5236
+Marktplatz,Lüneburg,21335,Am Markt,https://www.ticketmaster.de/venue/marktplatz-luneburg-tickets/lunmarkpla/721,10.40834,53.25002
+Marina Braunsbedra,Braunsbedra,6242,An der Seebrücke 1,https://www.ticketmaster.de/venue/marina-braunsbedra-braunsbedra-tickets/bbdrmarina/721,11.87236,51.29627
+Concert Broken & Beautiful,Bremen,28209,Christern Straße 6,https://www.ticketmaster.de/venue/concert-broken--beautiful-bremen-tickets/breconbrob/740,8.88626,53.0563
+Kopf und Kragen,Fürth,90762,Ottostraße 27,https://www.ticketmaster.de/venue/kopf-und-kragen-furth-tickets/fuekopfund/749,10.98606,49.47185
+Südbahnhof,Krefeld,47805,Saumstraße 9,https://www.ticketmaster.de/venue/sudbahnhof-krefeld-tickets/kresueedba/749,6.5661,51.32418
+Westfalen Tankstelle Brüggemann,Barnstorf,49406,Schlingstr.26,https://www.ticketmaster.de/venue/westfalen-tankstelle-bruggemann-barnstorf-tickets/diepwestfa/740,8.50963,52.71165
+Bremer Presse-Club,Bremen,28195,Schnoor 27/28,https://www.ticketmaster.de/venue/bremer-presse-club-bremen-tickets/brepressec/740,8.80924,53.07292
+Turniergelände,Bad Bederkesa,27624,Mühlenweg,https://www.ticketmaster.de/venue/turniergelande-bad-bederkesa-tickets/geeturnelm/721,8.7577,53.58381
+Kulturhalle Ziegenhain,Schwalmstadt,34613,Steinweg 6,https://www.ticketmaster.de/venue/kulturhalle-ziegenhain-schwalmstadt-tickets/smskultzie/701,9.24136,50.91151
+Schloss Britz - Schlossterrasse,Berlin,12359,Alt-Britz 73,https://www.ticketmaster.de/venue/schloss-britz-schlossterrasse-berlin-tickets/berschloss/705,13.43781,52.44697
+Gasthaus Mügge,Bruchhausen-Vilsen,27305,Am Marktplatz 13,https://www.ticketmaster.de/venue/gasthaus-mugge-bruchhausen-vilsen-tickets/bvigastmug/740,9.00443,52.82676
 Slaughterhouse,Berlin,10557,Lehrter Str. 35,https://www.ticketmaster.de/venue/slaughterhouse-berlin-tickets/berslaught/701,13.35957,52.5343
 Musikmuschel im Kurpark,Bad Eilsen,31707,Harrlallee 2,https://www.ticketmaster.de/venue/musikmuschel-im-kurpark-bad-eilsen-tickets/eilmukurpa/721,9.10189,52.24058
 Braunschweig Westand,Braunschweig,38118,Westbahnhof 13,https://www.ticketmaster.de/venue/braunschweig-westand-braunschweig-tickets/bruwestan/701,10.5015,52.25243
@@ -8403,25 +8462,25 @@ Groove Station,Dresden,1099,Katharinenstraße 11,https://www.ticketmaster.de/ven
 Festplatz Dreizehnerstraße,Ingolstadt,85049,Dreizehnerstraße,https://www.ticketmaster.de/venue/festplatz-dreizehnerstrasse-ingolstadt-tickets/ingfestdre/705,11.423599,48.769996
 Volksfestplatz,Bayreuth,95448,(Äußere Badstraße),https://www.ticketmaster.de/venue/volksfestplatz-bayreuth-tickets/bayfestpal/705,11.59265,49.94169
 Landungsbrücken / Brücke 4,Hamburg,20359,NA,https://www.ticketmaster.de/venue/landungsbrucken-brucke-4-hamburg-tickets/hambrueck4/704,9.968944,53.545936
-Parkhotel Weißer Hirsch Ballsaal,Dresden,1324,NA,https://www.ticketmaster.de/venue/parkhotel-weisser-hirsch-ballsaal-dresden-tickets/dreparkhot/704,13.82164,51.06383
-Stadtsaal,Mühldorf am Inn,84453,NA,https://www.ticketmaster.de/venue/stadtsaal-muhldorf-am-inn-tickets/mldstadtha/706,12.53375,48.23954
-Kubik,Goslar,38640,NA,https://www.ticketmaster.de/venue/kubik-goslar-tickets/goskubik/749,10.4263,51.9065
-Schwarzachtalhalle,Neunburg vorm Wald,92431,NA,https://www.ticketmaster.de/venue/schwarzachtalhalle-neunburg-vorm-wald-tickets/nbwschwrza/706,12.39025,49.34748
-bc - Studentenclub,Ilmenau,98693,NA,https://www.ticketmaster.de/venue/bc-studentenclub-ilmenau-tickets/ilmbcclub/749,10.93395,50.68085
-Alte Schweißerei,Schrobenhausen,86529,NA,https://www.ticketmaster.de/venue/alte-schweisserei-schrobenhausen-tickets/srhalschw/706,11.25824,48.56338
-Sporthalle,Wallenhorst,49134,NA,https://www.ticketmaster.de/venue/sporthalle-wallenhorst-tickets/whtsportha/740,8.01379,52.34755
-DIVARENA,Delmenhorst,27753,NA,https://www.ticketmaster.de/venue/divarena-delmenhorst-tickets/demdivaren/740,8.59362,53.03876
-Kurpark,Cuxhaven,27476,NA,https://www.ticketmaster.de/venue/kurpark-cuxhaven-tickets/cuxkurpark/740,8.68113,53.89064
-St. Josef Kirche,Cloppenburg,49661,NA,https://www.ticketmaster.de/venue/st-josef-kirche-cloppenburg-tickets/clostjosef/740,8.0427,52.84941
-Open Air vor der Roten Schule,Cloppenburg,49661,NA,https://www.ticketmaster.de/venue/open-air-vor-der-roten-schule-cloppenburg-tickets/clooairrot/740,8.03954,52.84332
-Tivoli,Varel,26316,NA,https://www.ticketmaster.de/venue/tivoli-varel-tickets/vrltivoli/740,8.13404,53.39336
-Wittekindehalle Rulle,Wallenhorst,49134,NA,https://www.ticketmaster.de/venue/wittekindehalle-rulle-wallenhorst-tickets/whtwitteki/740,8.05924,52.33895
-Ev. Stadtkirche St. Georg,Lünen,44532,NA,https://www.ticketmaster.de/venue/ev-stadtkirche-st-georg-lunen-tickets/lnestgeorg/740,7.52447,51.61301
-Blattlaus,Bremerhaven,27568,NA,https://www.ticketmaster.de/venue/blattlaus-bremerhaven-tickets/brvblattla/740,8.57573,53.54869
-Gemeindehaus Melle-Westerhausen,Melle,49324,NA,https://www.ticketmaster.de/venue/gemeindehaus-melle-westerhausen-melle-tickets/mllgemeind/740,8.28305,52.23625
-Theater Melle,Melle,49324,NA,https://www.ticketmaster.de/venue/theater-melle-melle-tickets/mllfestsaa/740,8.33772,52.19897
-Depothalle,Weener,26826,NA,https://www.ticketmaster.de/venue/depothalle-weener-tickets/weedepotha/740,7.37085,53.15953
-Fort Kugelbake,Cuxhaven,27476,NA,https://www.ticketmaster.de/venue/fort-kugelbake-cuxhaven-tickets/cuxfortkug/740,8.68113,53.89064
+Parkhotel Weißer Hirsch Ballsaal,Dresden,1324,Bautzner Landstraße 7,https://www.ticketmaster.de/venue/parkhotel-weisser-hirsch-ballsaal-dresden-tickets/dreparkhot/704,13.82164,51.06383
+Stadtsaal,Mühldorf am Inn,84453,Schützenstraße 1,https://www.ticketmaster.de/venue/stadtsaal-muhldorf-am-inn-tickets/mldstadtha/706,12.53375,48.23954
+Kubik,Goslar,38640,Marstallstr. 1,https://www.ticketmaster.de/venue/kubik-goslar-tickets/goskubik/749,10.4263,51.9065
+Schwarzachtalhalle,Neunburg vorm Wald,92431,Rötzer Str. 2,https://www.ticketmaster.de/venue/schwarzachtalhalle-neunburg-vorm-wald-tickets/nbwschwrza/706,12.39025,49.34748
+bc - Studentenclub,Ilmenau,98693,Max-Planck-Ring 16,https://www.ticketmaster.de/venue/bc-studentenclub-ilmenau-tickets/ilmbcclub/749,10.93395,50.68085
+Alte Schweißerei,Schrobenhausen,86529,Bauerstr. 1,https://www.ticketmaster.de/venue/alte-schweisserei-schrobenhausen-tickets/srhalschw/706,11.25824,48.56338
+Sporthalle,Wallenhorst,49134,Fröbelstr. 2,https://www.ticketmaster.de/venue/sporthalle-wallenhorst-tickets/whtsportha/740,8.01379,52.34755
+DIVARENA,Delmenhorst,27753,Gustav-Stresemann-Str. 1,https://www.ticketmaster.de/venue/divarena-delmenhorst-tickets/demdivaren/740,8.59362,53.03876
+Kurpark,Cuxhaven,27476,Strandstr. 80,https://www.ticketmaster.de/venue/kurpark-cuxhaven-tickets/cuxkurpark/740,8.68113,53.89064
+St. Josef Kirche,Cloppenburg,49661,Wallgärten,https://www.ticketmaster.de/venue/st-josef-kirche-cloppenburg-tickets/clostjosef/740,8.0427,52.84941
+Open Air vor der Roten Schule,Cloppenburg,49661,Eschstraße,https://www.ticketmaster.de/venue/open-air-vor-der-roten-schule-cloppenburg-tickets/clooairrot/740,8.03954,52.84332
+Tivoli,Varel,26316,Windallee 21,https://www.ticketmaster.de/venue/tivoli-varel-tickets/vrltivoli/740,8.13404,53.39336
+Wittekindehalle Rulle,Wallenhorst,49134,Prozessionsweg 5,https://www.ticketmaster.de/venue/wittekindehalle-rulle-wallenhorst-tickets/whtwitteki/740,8.05924,52.33895
+Ev. Stadtkirche St. Georg,Lünen,44532,St.-Georg Kirchplatz 2,https://www.ticketmaster.de/venue/ev-stadtkirche-st-georg-lunen-tickets/lnestgeorg/740,7.52447,51.61301
+Blattlaus,Bremerhaven,27568,Gasstraße 18,https://www.ticketmaster.de/venue/blattlaus-bremerhaven-tickets/brvblattla/740,8.57573,53.54869
+Gemeindehaus Melle-Westerhausen,Melle,49324,Anne-Frank-Ring 1,https://www.ticketmaster.de/venue/gemeindehaus-melle-westerhausen-melle-tickets/mllgemeind/740,8.28305,52.23625
+Theater Melle,Melle,49324,Am Schürenkamp 14,https://www.ticketmaster.de/venue/theater-melle-melle-tickets/mllfestsaa/740,8.33772,52.19897
+Depothalle,Weener,26826,Landsberg 1,https://www.ticketmaster.de/venue/depothalle-weener-tickets/weedepotha/740,7.37085,53.15953
+Fort Kugelbake,Cuxhaven,27476,Strandstr. 80,https://www.ticketmaster.de/venue/fort-kugelbake-cuxhaven-tickets/cuxfortkug/740,8.68113,53.89064
 Münsterlandhalle,Cloppenburg,49661,Marktplatz/Eschstraße 35,https://www.ticketmaster.de/venue/munsterlandhalle-cloppenburg-tickets/clomueland/740,8.03861,52.84164
 Mehrzweckplatz,Lüchow,29439,NA,https://www.ticketmaster.de/venue/mehrzweckplatz-luchow-tickets/lcwschuetz/740,11.1518,52.96993
 Am Hafen,Wedel,22880,Am Strandweg,https://www.ticketmaster.de/venue/am-hafen-wedel-tickets/wdamhafen/740,9.70034,53.56954
@@ -8630,7 +8689,6 @@ Stadthalle Kaisersaal,Greifswald,17489,Robert-Blum-Straße,https://www.ticketmas
 Mercure Hotel MOA Berlin,Berlin,10559,Stephanstrasse 41,https://www.ticketmaster.de/venue/mercure-hotel-moa-berlin-berlin-tickets/berbestwes/715,13.34384,52.53223
 Cultura,Rietberg,33397,Torfweg 53,https://www.ticketmaster.de/venue/cultura-rietberg-tickets/ritcultura/749,8.43357,51.80955
 Golden Nugget,Nürnberg,90411,Klingenhofstraße 50c,https://www.ticketmaster.de/venue/golden-nugget-nurnberg-tickets/nuegoldnug/715,11.11177,49.47582
-Badehaus Berlin,Berlin,10245,Revaler Str. 99,https://www.ticketmaster.de/venue/badehaus-berlin-berlin-tickets/berbadeszi/753,13.45493,52.50833
 Sportpark Vinnenweg,Bremen,28355,Vinnenweg 100,https://www.ticketmaster.de/venue/sportpark-vinnenweg-bremen-tickets/bresporvin/740,8.93091,53.08028
 Bürgerhalle Coesfeld,Coesfeld,48653,Osterwickler Straße 1,https://www.ticketmaster.de/venue/burgerhalle-coesfeld-coesfeld-tickets/coebuerger/740,7.17011,51.94952
 Landhaus Walter,Hamburg,22303,Otto-Wels-Straße 2,https://www.ticketmaster.de/venue/landhaus-walter-hamburg-tickets/hamlandwal/747,10.01278,53.59398
@@ -9023,25 +9081,25 @@ DRUCKHALLE,Bremerhaven,27576,Hafenstrasse 144,https://www.ticketmaster.de/venue/
 Ev.-ref. Kirche Westerhusen,Hinte,26759,Landesstr. 12,https://www.ticketmaster.de/venue/ev-ref-kirche-westerhusen-hinte-tickets/hnkiwester/740,7.20048,53.40835
 Marktplatz Wagenfeld,Wagenfeld,49419,Wagenfeld Marktplatz,https://www.ticketmaster.de/venue/marktplatz-wagenfeld-wagenfeld-tickets/wagmarktpl/740,8.58178,52.55286
 Marktplatz,Weyhe,28844,NA,https://www.ticketmaster.de/venue/marktplatz-weyhe-tickets/weymarktpl/740,8.85009,52.98191
-Ev.-ref. Kirche Eilsum,Krummhörn,26736,NA,https://www.ticketmaster.de/venue/ev-ref-kirche-eilsum-krummhorn-tickets/krhkieilsu/740,7.14051,53.4729
-Museum Zinkhütter Hof,Stolberg,52222,NA,https://www.ticketmaster.de/venue/museum-zinkhutter-hof-stolberg-tickets/stomuzinkh/721,6.21756,50.77497
-Ev.-ref. Kirche Jennelt,Krummhörn,26736,NA,https://www.ticketmaster.de/venue/ev-ref-kirche-jennelt-krummhorn-tickets/krhkijenne/740,7.13219,53.46291
-Bürgerbrunch,Oldenburg,26122,NA,https://www.ticketmaster.de/venue/burgerbrunch-oldenburg-tickets/oldburgerb/740,8.21598,53.13793
-Atlanta Hotel Int. Leipzig,Markkleeberg,4416,NA,https://www.ticketmaster.de/venue/atlanta-hotel-int-leipzig-markkleeberg-tickets/mkbatlanta/701,12.42808,51.28162
-Freizeitpark Rheinauen,Bonn,53175,NA,https://www.ticketmaster.de/venue/freizeitpark-rheinauen-bonn-tickets/bonparkrhe/761,7.14068,50.71077
-Gop. Variete-Theater Bonn,Bonn,53113,NA,https://www.ticketmaster.de/venue/gop-variete-theater-bonn-bonn-tickets/bongopvari/761,7.12273,50.72046
-MS Rheinstar,Bonn,53113,NA,https://www.ticketmaster.de/venue/ms-rheinstar-bonn-tickets/bonmsstar/761,7.1256,50.71989
-Franziskus-Gymnasium,Hürtgenwald,52393,NA,https://www.ticketmaster.de/venue/franziskus-gymnasium-hurtgenwald-tickets/huwfrangym/761,6.34954,50.67408
-Lvr-Landesmuseum Bonn,Bonn,53115,NA,https://www.ticketmaster.de/venue/lvr-landesmuseum-bonn-bonn-tickets/bonlvrmus/761,7.0934,50.73192
-Talbahnhof Eschweiler,Eschweiler,52249,NA,https://www.ticketmaster.de/venue/talbahnhof-eschweiler-eschweiler-tickets/eswtalbahn/761,6.2637,50.81481
-Kubana Live Club,Siegburg,53721,NA,https://www.ticketmaster.de/venue/kubana-live-club-siegburg-tickets/siekubana/761,7.21714,50.80159
-Bonner Weihnachtscircus,Bonn,53229,NA,https://www.ticketmaster.de/venue/bonner-weihnachtscircus-bonn-tickets/bonweihnci/761,7.1411,50.74532
-MS Germania,Bonn,53113,NA,https://www.ticketmaster.de/venue/ms-germania-bonn-tickets/bonmsgerma/761,7.12556,50.71991
-Kreuzbergkirche,Bonn,53127,NA,https://www.ticketmaster.de/venue/kreuzbergkirche-bonn-tickets/bonkreuzbe/761,7.08005,50.71426
-Ms Loreley Star,Königswinter,53639,NA,https://www.ticketmaster.de/venue/ms-loreley-star-konigswinter-tickets/kwtlorstar/761,7.12557,50.71991
-Katharinenhof,Bonn,53177,NA,https://www.ticketmaster.de/venue/katharinenhof-bonn-tickets/bonkathhof/761,7.13506,50.68103
-Brotfabrik,Bonn,53225,NA,https://www.ticketmaster.de/venue/brotfabrik-bonn-tickets/bonbrotfab/761,7.12331,50.74089
-Himmeroder Wall,Rheinbach,53359,NA,https://www.ticketmaster.de/venue/himmeroder-wall-rheinbach-tickets/rhbhimmwal/761,6.9484,50.62413
+Ev.-ref. Kirche Eilsum,Krummhörn,26736,Am Rathausplatz 5,https://www.ticketmaster.de/venue/ev-ref-kirche-eilsum-krummhorn-tickets/krhkieilsu/740,7.14051,53.4729
+Museum Zinkhütter Hof,Stolberg,52222,Cockerillstraße 90,https://www.ticketmaster.de/venue/museum-zinkhutter-hof-stolberg-tickets/stomuzinkh/721,6.21756,50.77497
+Ev.-ref. Kirche Jennelt,Krummhörn,26736,Knyphausenstr. 5,https://www.ticketmaster.de/venue/ev-ref-kirche-jennelt-krummhorn-tickets/krhkijenne/740,7.13219,53.46291
+Bürgerbrunch,Oldenburg,26122,auf dem Schlossplatz,https://www.ticketmaster.de/venue/burgerbrunch-oldenburg-tickets/oldburgerb/740,8.21598,53.13793
+Atlanta Hotel Int. Leipzig,Markkleeberg,4416,Südring 21,https://www.ticketmaster.de/venue/atlanta-hotel-int-leipzig-markkleeberg-tickets/mkbatlanta/701,12.42808,51.28162
+Freizeitpark Rheinauen,Bonn,53175,Ludwig-Erhard-Allee 20,https://www.ticketmaster.de/venue/freizeitpark-rheinauen-bonn-tickets/bonparkrhe/761,7.14068,50.71077
+Gop. Variete-Theater Bonn,Bonn,53113,Karl-Carstens-Str. 1,https://www.ticketmaster.de/venue/gop-variete-theater-bonn-bonn-tickets/bongopvari/761,7.12273,50.72046
+MS Rheinstar,Bonn,53113,Anleger am Bundeshaus / Stresemannufer,https://www.ticketmaster.de/venue/ms-rheinstar-bonn-tickets/bonmsstar/761,7.1256,50.71989
+Franziskus-Gymnasium,Hürtgenwald,52393,Franziskusweg 1,https://www.ticketmaster.de/venue/franziskus-gymnasium-hurtgenwald-tickets/huwfrangym/761,6.34954,50.67408
+Lvr-Landesmuseum Bonn,Bonn,53115,Colmantstraße 14-16,https://www.ticketmaster.de/venue/lvr-landesmuseum-bonn-bonn-tickets/bonlvrmus/761,7.0934,50.73192
+Talbahnhof Eschweiler,Eschweiler,52249,Raiffeisenplatz 1-3,https://www.ticketmaster.de/venue/talbahnhof-eschweiler-eschweiler-tickets/eswtalbahn/761,6.2637,50.81481
+Kubana Live Club,Siegburg,53721,Zeithstraße 100,https://www.ticketmaster.de/venue/kubana-live-club-siegburg-tickets/siekubana/761,7.21714,50.80159
+Bonner Weihnachtscircus,Bonn,53229,Siegburger Straße 187,https://www.ticketmaster.de/venue/bonner-weihnachtscircus-bonn-tickets/bonweihnci/761,7.1411,50.74532
+MS Germania,Bonn,53113,PSS-Anleger Bundeshaus Bonn,https://www.ticketmaster.de/venue/ms-germania-bonn-tickets/bonmsgerma/761,7.12556,50.71991
+Kreuzbergkirche,Bonn,53127,Stationsweg 21,https://www.ticketmaster.de/venue/kreuzbergkirche-bonn-tickets/bonkreuzbe/761,7.08005,50.71426
+Ms Loreley Star,Königswinter,53639,Anleger Maritim / Rheinallee 3,https://www.ticketmaster.de/venue/ms-loreley-star-konigswinter-tickets/kwtlorstar/761,7.12557,50.71991
+Katharinenhof,Bonn,53177,Vennerstr. 51,https://www.ticketmaster.de/venue/katharinenhof-bonn-tickets/bonkathhof/761,7.13506,50.68103
+Brotfabrik,Bonn,53225,Kreuzstraße 16,https://www.ticketmaster.de/venue/brotfabrik-bonn-tickets/bonbrotfab/761,7.12331,50.74089
+Himmeroder Wall,Rheinbach,53359,Himmeroder Wall,https://www.ticketmaster.de/venue/himmeroder-wall-rheinbach-tickets/rhbhimmwal/761,6.9484,50.62413
 Helenensaal Sinzig,Sinzig,53489,Koblenzer Straße 72,https://www.ticketmaster.de/venue/helenensaal-sinzig-sinzig-tickets/szghelesaa/761,7.25582,50.54361
 Meys Fabrik,Hennef,53773,Beethovenstraße 21,https://www.ticketmaster.de/venue/meys-fabrik-hennef-tickets/henmeysfab/761,7.27947,50.77438
 Rhein-Sieg-Gymnasium,Sankt Augustin,53757,Hubert-Minz-Straße 20,https://www.ticketmaster.de/venue/rhein-sieg-gymnasium-sankt-augustin-tickets/saurhesieg/761,7.18356,50.77684
@@ -9721,6 +9779,7 @@ Tante Amanda,Dortmund,44357,Mosselde 149,https://www.ticketmaster.de/venue/tante
 Amphitheater Gelsenkirchen,Gelsenkirchen,45889,Grothusstraße 201,https://www.ticketmaster.de/venue/amphitheater-gelsenkirchen-gelsenkirchen-tickets/gelampithe/761,7.03851,51.52475
 Spiegelzelt Westfallenhallen,Dortmund,44139,Rheinlanddamm 200,https://www.ticketmaster.de/venue/spiegelzelt-westfallenhallen-dortmund-tickets/dorwfhaspi/761,7.46127,51.49704
 Bergische Universität Wuppertal,Wuppertal,42119,"Gebäude K, Ebene 11, Raum 24, Gaußstr. 2",https://www.ticketmaster.de/venue/bergische-universitat-wuppertal-wuppertal-tickets/wupberguni/761,7.14899,51.245
+Klosterruine Eldena Greifswald,Greifswald,17493,Wolgaster Landstraße 41,https://www.ticketmaster.de/venue/klosterruine-eldena-greifswald-greifswald-tickets/grwkrelden/716,13.45246,54.08963
 Eidelstedter KulturContainer,Hamburg,22523,Ekenknick 18,https://www.ticketmaster.de/venue/eidelstedter-kulturcontainer-hamburg-tickets/hameidkuco/701,9.9012,53.60754
 Forum Alte Kirche,Varel,26316,Osterstraße 5,https://www.ticketmaster.de/venue/forum-alte-kirche-varel-tickets/vrlforumal/740,8.14189,53.38984
 Schloss Trebsen,Trebsen,4687,Zum Schloss 1,https://www.ticketmaster.de/venue/schloss-trebsen-trebsen-tickets/trebsschlo/733,12.75717,51.29123
@@ -10101,7 +10160,6 @@ Flughafen Tempelhof Haupteingang,Berlin,12101,Platz der Luftbrücke 5,https://ww
 MS Goldberg,Berlin,13581,Spandauer Havelufer/Dischinger Brücke,https://www.ticketmaster.de/venue/ms-goldberg-berlin-tickets/bermsgold/704,13.2044,52.53509
 Golf-&Country Club Seddiner See,Michendorf,14552,Zum Weiher 44,https://www.ticketmaster.de/venue/golf-country-club-seddiner-see-michendorf-tickets/mdfgolfcou/704,13.02999,52.28376
 Museumshof Open Air,Fulda,36037,Kasernengäßchen 4,https://www.ticketmaster.de/venue/museumshof-open-air-fulda-tickets/fulmuseoa/749,9.67886,50.55109
-Rudolf-Harbig-Stadion,Dresden,1069,Lennéstraße 12,https://www.ticketmaster.de/venue/rudolf-harbig-stadion-dresden-tickets/dreruharst/701,13.74793,51.0409
 Bremen Domshof,Bremen,28195,Domshof,https://www.ticketmaster.de/venue/bremen-domshof-bremen-tickets/bredomshof/740,8.80932,53.07635
 Katholische Kirche St. Peter,Wilhelmshaven,26384,Schellingstraße 11B,https://www.ticketmaster.de/venue/katholische-kirche-st-peter-wilhelmshaven-tickets/wilkastpet/740,8.12918,53.53352
 Schloss Etelsen,Langwedel,27299,Bremer Straße 2,https://www.ticketmaster.de/venue/schloss-etelsen-langwedel-tickets/lanschetel/740,9.11688,52.99479
@@ -10283,25 +10341,25 @@ MS Classic Queen,Hamburg,20359,Landungsbrücken HH Brücke 10,https://www.ticket
 Stollwerck,Cologne,50678,Dreikönigenstraße 23,https://www.ticketmaster.de/venue/stollwerck-koln-tickets/koestollwe/705,6.96443,50.92527
 Bürgergesellschaft,Hof,95028,Poststraße 6,https://www.ticketmaster.de/venue/burgergesellschaft-hof-tickets/hofbuerger/704,11.91573,50.31906
 Messe Kornhaus,Ulm,NA,NA,https://www.ticketmaster.de/venue/messe-kornhaus-ulm-tickets/ulmmessekh/711,9.994894,48.399761
-Kornhaus,Ulm,89073,NA,https://www.ticketmaster.de/venue/kornhaus-ulm-tickets/ulmkornhau/711,9.99478,48.39979
-Schulzentrum Halle 2,Henstedt-Ulzburg,24558,NA,https://www.ticketmaster.de/venue/schulzentrum-halle-2-henstedt-ulzburg-tickets/heulspomau/731,9.99041,53.79094
-GETEC Arena,Magdeburg,39114,NA,https://www.ticketmaster.de/venue/getec-arena-magdeburg-tickets/maggetec/737,11.66575,52.12809
-Olof-Palme-Gesamtschule,Hiddenhausen,32120,NA,https://www.ticketmaster.de/venue/olof-palme-gesamtschule-hiddenhausen-tickets/hiddolafpa/701,8.63737,52.15206
-27726 Worpswede,Worpswede,27726,NA,https://www.ticketmaster.de/venue/27726-worpswede-worpswede-tickets/wopdiverse/704,8.92547,53.21988
-AWD Arena,Hannover,30169,NA,https://www.ticketmaster.de/venue/awd-arena-hannover-tickets/hanawdaren/708,9.73338,52.36117
-Treffpunkt Reeperbahn,Hamburg,20359,NA,https://www.ticketmaster.de/venue/treffpunkt-reeperbahn-hamburg-tickets/hamtreffre/701,9.965394,53.551706
-St. Gertrud,Hamburg,22087,NA,https://www.ticketmaster.de/venue/st-gertrud-hamburg-tickets/hamstgertr/701,10.0267,53.5671
-ewerk,Berlin,10117,NA,https://www.ticketmaster.de/venue/ewerk-berlin-tickets/berewerk/701,13.17883,52.51647
-Optimolwerke,Munich,81671,NA,https://www.ticketmaster.de/venue/optimolwerke-munchen-tickets/mueoptimol/701,11.41752,48.0956
-Rudolf Steiner Schule,Dortmund,44225,NA,https://www.ticketmaster.de/venue/rudolf-steiner-schule-dortmund-tickets/dorrudosch/704,7.46308,51.47189
-Tina's Bar,Hamburg,20359,NA,https://www.ticketmaster.de/venue/tinas-bar-hamburg-tickets/hamtinabar/701,9.96379,53.54983
-Mercedes-Benz Arena,Stuttgart,70372,NA,https://www.ticketmaster.de/venue/mercedes-benz-arena-stuttgart-tickets/stumerbenz/708,9.2313,48.79164
-RuhrTourismus GmbH,Oberhausen,46047,NA,https://www.ticketmaster.de/venue/ruhrtourismus-gmbh-oberhausen-tickets/oberruhrto/724,6.88361,51.49085
-Schlosspark,Tüßling,84577,NA,https://www.ticketmaster.de/venue/schlosspark-tussling-tickets/tueschlopa/701,12.59997,48.21254
-Treffpunkt St. Pauli (U-Bahn),Hamburg,20359,NA,https://www.ticketmaster.de/venue/treffpunkt-st-pauli-u-bahn--hamburg-tickets/hamubahnpa/701,9.97032,53.55026
-Seaways Terminal,Hamburg,22767,NA,https://www.ticketmaster.de/venue/seaways-terminal-hamburg-tickets/hamseaways/701,9.94082,53.54341
-Fort Konstantin Open Air,Koblenz am Rhein,56075,NA,https://www.ticketmaster.de/venue/fort-konstantin-open-air-koblenz-am-rhein-tickets/kofortkons/701,7.586077,50.351017
-Schützenanger,Lichtenfels,96215,NA,https://www.ticketmaster.de/venue/schutzenanger-lichtenfels-tickets/licschuetz/734,11.05901,50.15059
+Kornhaus,Ulm,89073,Kornhausplatz 1,https://www.ticketmaster.de/venue/kornhaus-ulm-tickets/ulmkornhau/711,9.99478,48.39979
+Schulzentrum Halle 2,Henstedt-Ulzburg,24558,Maurepasstraße 67,https://www.ticketmaster.de/venue/schulzentrum-halle-2-henstedt-ulzburg-tickets/heulspomau/731,9.99041,53.79094
+GETEC Arena,Magdeburg,39114,Berliner Chaussee 32,https://www.ticketmaster.de/venue/getec-arena-magdeburg-tickets/maggetec/737,11.66575,52.12809
+Olof-Palme-Gesamtschule,Hiddenhausen,32120,Pestalozzistraße 5,https://www.ticketmaster.de/venue/olof-palme-gesamtschule-hiddenhausen-tickets/hiddolafpa/701,8.63737,52.15206
+27726 Worpswede,Worpswede,27726,Diverse Veranstaltungsorte,https://www.ticketmaster.de/venue/27726-worpswede-worpswede-tickets/wopdiverse/704,8.92547,53.21988
+AWD Arena,Hannover,30169,Robert-Enke-Straße 1,https://www.ticketmaster.de/venue/awd-arena-hannover-tickets/hanawdaren/708,9.73338,52.36117
+Treffpunkt Reeperbahn,Hamburg,20359,"Haus Nr. 56, rechts neben McDonalds",https://www.ticketmaster.de/venue/treffpunkt-reeperbahn-hamburg-tickets/hamtreffre/701,9.965394,53.551706
+St. Gertrud,Hamburg,22087,Immenhof 10,https://www.ticketmaster.de/venue/st-gertrud-hamburg-tickets/hamstgertr/701,10.0267,53.5671
+ewerk,Berlin,10117,Wilhelmstraße 43,https://www.ticketmaster.de/venue/ewerk-berlin-tickets/berewerk/701,13.17883,52.51647
+Optimolwerke,Munich,81671,Friedenstraße 10,https://www.ticketmaster.de/venue/optimolwerke-munchen-tickets/mueoptimol/701,11.41752,48.0956
+Rudolf Steiner Schule,Dortmund,44225,Mergelteichstraße 51,https://www.ticketmaster.de/venue/rudolf-steiner-schule-dortmund-tickets/dorrudosch/704,7.46308,51.47189
+Tina's Bar,Hamburg,20359,Reeperbahn 56 (Souterrain),https://www.ticketmaster.de/venue/tinas-bar-hamburg-tickets/hamtinabar/701,9.96379,53.54983
+Mercedes-Benz Arena,Stuttgart,70372,Mercedesstraße 87,https://www.ticketmaster.de/venue/mercedes-benz-arena-stuttgart-tickets/stumerbenz/708,9.2313,48.79164
+RuhrTourismus GmbH,Oberhausen,46047,Centroallee 261,https://www.ticketmaster.de/venue/ruhrtourismus-gmbh-oberhausen-tickets/oberruhrto/724,6.88361,51.49085
+Schlosspark,Tüßling,84577,Marktplatz 1,https://www.ticketmaster.de/venue/schlosspark-tussling-tickets/tueschlopa/701,12.59997,48.21254
+Treffpunkt St. Pauli (U-Bahn),Hamburg,20359,"Ausgang Millerntorplatz, rotes Häuschen",https://www.ticketmaster.de/venue/treffpunkt-st-pauli-u-bahn--hamburg-tickets/hamubahnpa/701,9.97032,53.55026
+Seaways Terminal,Hamburg,22767,Van-der-Smissen-Straße 4,https://www.ticketmaster.de/venue/seaways-terminal-hamburg-tickets/hamseaways/701,9.94082,53.54341
+Fort Konstantin Open Air,Koblenz am Rhein,56075,Am Fort Konstantin,https://www.ticketmaster.de/venue/fort-konstantin-open-air-koblenz-am-rhein-tickets/kofortkons/701,7.586077,50.351017
+Schützenanger,Lichtenfels,96215,Schützenstraße 10,https://www.ticketmaster.de/venue/schutzenanger-lichtenfels-tickets/licschuetz/734,11.05901,50.15059
 Pfarrheim,Burglengenfeld,93133,Kallmünzerstraße 16,https://www.ticketmaster.de/venue/pfarrheim-burglengenfeld-tickets/burglenfpf/701,12.03937,49.20431
 Goosbuster's,Kappeln,24376,Wassermühlenholz 3,https://www.ticketmaster.de/venue/goosbusters-kappeln-tickets/kapgoosbus/701,9.92754,54.67453
 Treffpunkt Saturn,Hamburg,20095,"Mönckebergstraße 1, vor Fahrradständern",https://www.ticketmaster.de/venue/treffpunkt-saturn-hamburg-tickets/hamsaturn/701,10.00173,53.55075
@@ -10704,24 +10762,24 @@ Reetscheune Weissenhaus,Weissenhaus,23758,Am Schloßplatz 7,https://www.ticketma
 Bungee Hafenkran Hamburg,Hamburg,20457,Versmannstraße,https://www.ticketmaster.de/venue/bungee-hafenkran-hamburg-hamburg-tickets/hambunghaf/704,10.01657,53.53927
 Download,Berlin,NA,NA,https://www.ticketmaster.de/venue/download-berlin-tickets/download/715,13.37698,52.51607
 Motorsport Arena,Oschersleben,NA,NA,https://www.ticketmaster.de/venue/motorsport-arena-oschersleben-tickets/oslmotorar/716,11.28375,52.0268
-Annakirche,Aachen,52062,NA,https://www.ticketmaster.de/venue/annakirche-aachen-tickets/aackian/732,6.08104,50.77312
-Freiheit 15,Berlin,12555,NA,https://www.ticketmaster.de/venue/freiheit-15-berlin-tickets/berfreihei/701,13.57684,52.44756
-Kastellplatz am Schloss Moers,Moers,47439,NA,https://www.ticketmaster.de/venue/kastellplatz-am-schloss-moers-moers-tickets/moekaplasm/721,6.64082,51.4516
-Idraetshallen,Flensburg,24937,NA,https://www.ticketmaster.de/venue/idraetshallen-flensburg-tickets/fleidraets/701,9.42176,54.78768
-CHAMÄLEON Theater,Berlin,10178,NA,https://www.ticketmaster.de/venue/chamaleon-theater-berlin-tickets/berchamael/704,13.40193,52.52408
-Hirschgraben,Büdingen,63654,NA,https://www.ticketmaster.de/venue/hirschgraben-budingen-tickets/bighirschg/721,9.11271,50.29348
-Aula Olof Palme Gesamtschule,Hiddenhausen,32120,NA,https://www.ticketmaster.de/venue/aula-olof-palme-gesamtschule-hiddenhausen-tickets/mmmaluaolo/701,8.63737,52.15206
-Albrechtsburg,Meißen,1662,NA,https://www.ticketmaster.de/venue/albrechtsburg-meissen-tickets/mssalbrebg/721,13.47142,51.16668
-Stadthalle Niebüll,Niebüll,25899,NA,https://www.ticketmaster.de/venue/stadthalle-niebull-niebull-tickets/nbuszhalle/701,8.82833,54.79493
-stories! Die Buchhandlung,Hamburg,20354,NA,https://www.ticketmaster.de/venue/stories-die-buchhandlung-hamburg-tickets/hamstorigb/704,9.98791,53.55245
-Club Déjà Vu,Cologne,50670,NA,https://www.ticketmaster.de/venue/club-deja-vu-koln-tickets/koedejavuc/701,6.94347,50.94974
-Joel Bar im Oberen Hof,Oberhof,98559,NA,https://www.ticketmaster.de/venue/joel-bar-im-oberen-hof-oberhof-tickets/obhjoelbar/701,10.72461,50.70753
-Stadion Ossecker Straße,Hof,95032,NA,https://www.ticketmaster.de/venue/stadion-ossecker-strasse-hof-tickets/hofossecke/701,11.90207,50.31119
-8Below,Munich,80335,NA,https://www.ticketmaster.de/venue/8below-munchen-tickets/mueeightbe/715,11.56289,48.13996
-Nörgelbuff,Göttingen,37073,NA,https://www.ticketmaster.de/venue/norgelbuff-gottingen-tickets/goenoergel/701,9.93366,51.53191
-Katy's Garage,Dresden,1099,NA,https://www.ticketmaster.de/venue/katys-garage-dresden-tickets/drekatygar/715,13.75181,51.06663
-Theater und Konzerthaus,Solingen,42651,NA,https://www.ticketmaster.de/venue/theater-und-konzerthaus-solingen-tickets/solthekonz/704,7.08089,51.17901
-big Buttinsky,Osnabrück,49074,NA,https://www.ticketmaster.de/venue/big-buttinsky-osnabruck-tickets/osnbigbutt/701,8.05243,52.26837
+Annakirche,Aachen,52062,Annastraße 35,https://www.ticketmaster.de/venue/annakirche-aachen-tickets/aackian/732,6.08104,50.77312
+Freiheit 15,Berlin,12555,Freiheit 15-16,https://www.ticketmaster.de/venue/freiheit-15-berlin-tickets/berfreihei/701,13.57684,52.44756
+Kastellplatz am Schloss Moers,Moers,47439,Moers,https://www.ticketmaster.de/venue/kastellplatz-am-schloss-moers-moers-tickets/moekaplasm/721,6.64082,51.4516
+Idraetshallen,Flensburg,24937,Moltkestraße 20c,https://www.ticketmaster.de/venue/idraetshallen-flensburg-tickets/fleidraets/701,9.42176,54.78768
+CHAMÄLEON Theater,Berlin,10178,Hackesche Höfe |  Rosenthaler Str. 40/41,https://www.ticketmaster.de/venue/chamaleon-theater-berlin-tickets/berchamael/704,13.40193,52.52408
+Hirschgraben,Büdingen,63654,Am Rosenkränzchen,https://www.ticketmaster.de/venue/hirschgraben-budingen-tickets/bighirschg/721,9.11271,50.29348
+Aula Olof Palme Gesamtschule,Hiddenhausen,32120,Pestalozzistraße 5,https://www.ticketmaster.de/venue/aula-olof-palme-gesamtschule-hiddenhausen-tickets/mmmaluaolo/701,8.63737,52.15206
+Albrechtsburg,Meißen,1662,Domplatz 1,https://www.ticketmaster.de/venue/albrechtsburg-meissen-tickets/mssalbrebg/721,13.47142,51.16668
+Stadthalle Niebüll,Niebüll,25899,Uhlebüller Straße 15,https://www.ticketmaster.de/venue/stadthalle-niebull-niebull-tickets/nbuszhalle/701,8.82833,54.79493
+stories! Die Buchhandlung,Hamburg,20354,Große Bleichen 36,https://www.ticketmaster.de/venue/stories-die-buchhandlung-hamburg-tickets/hamstorigb/704,9.98791,53.55245
+Club Déjà Vu,Cologne,50670,Im Media Park 4,https://www.ticketmaster.de/venue/club-deja-vu-koln-tickets/koedejavuc/701,6.94347,50.94974
+Joel Bar im Oberen Hof,Oberhof,98559,Crawinkler Straße 1,https://www.ticketmaster.de/venue/joel-bar-im-oberen-hof-oberhof-tickets/obhjoelbar/701,10.72461,50.70753
+Stadion Ossecker Straße,Hof,95032,Ossecker Straße 51,https://www.ticketmaster.de/venue/stadion-ossecker-strasse-hof-tickets/hofossecke/701,11.90207,50.31119
+8Below,Munich,80335,Schützenstraße 8,https://www.ticketmaster.de/venue/8below-munchen-tickets/mueeightbe/715,11.56289,48.13996
+Nörgelbuff,Göttingen,37073,Groner Straße 23,https://www.ticketmaster.de/venue/norgelbuff-gottingen-tickets/goenoergel/701,9.93366,51.53191
+Katy's Garage,Dresden,1099,Alaunstraße 48,https://www.ticketmaster.de/venue/katys-garage-dresden-tickets/drekatygar/715,13.75181,51.06663
+Theater und Konzerthaus,Solingen,42651,Konrad-Adenauer-Straße 71,https://www.ticketmaster.de/venue/theater-und-konzerthaus-solingen-tickets/solthekonz/704,7.08089,51.17901
+big Buttinsky,Osnabrück,49074,Johannisstraße 112,https://www.ticketmaster.de/venue/big-buttinsky-osnabruck-tickets/osnbigbutt/701,8.05243,52.26837
 Dreikönigskeller,Frankfurt am Main,60954,Färberstraße 71,https://www.ticketmaster.de/venue/dreikonigskeller-frankfurt-am-main-tickets/famdrekoek/715,8.68403,50.10712
 "Stadthalle, Großes Haus",Bayreuth,95444,Ludwigstraße 31,https://www.ticketmaster.de/venue/stadthalle-grosses-haus-bayreuth-tickets/baystadtha/704,11.57619,49.94104
 Kulturbrauerei,Berlin,10435,Knaackstraße 97,https://www.ticketmaster.de/venue/kulturbrauerei-berlin-tickets/berkultur/701,13.41413,52.54033
@@ -10903,25 +10961,25 @@ Schlosshof,Melsungen,34212,Kasseler Str. 29-31,https://www.ticketmaster.de/venue
 Ticketmaster Merchandise,Berlin,NA,NA,https://www.ticketmaster.de/venue/ticketmaster-merchandise-berlin-tickets/ticketmast/734,13.32798,52.52403
 "Schiff ""Wappen von Frankfurt""",Frankfurt am Main,60594,Mainkai 36 - Eiserner Steg,https://www.ticketmaster.de/venue/schiff-wappen-von-frankfurt-frankfurt-am-main-tickets/famwappenf/701,8.68245,50.10726
 Marktplatz,Calw,75365,NA,https://www.ticketmaster.de/venue/marktplatz-calw-tickets/calmarktpl/701,8.73896,48.71433
-Berliner Spreepark,Berlin,12437,NA,https://www.ticketmaster.de/venue/berliner-spreepark-berlin-tickets/berspreepa/701,13.49163,52.48357
-Domplatz,Havelberg,39539,NA,https://www.ticketmaster.de/venue/domplatz-havelberg-tickets/havdomplat/721,12.07639,52.83264
-Münstergelände Bachgarten,Bad Doberan,18209,NA,https://www.ticketmaster.de/venue/munstergelande-bachgarten-bad-doberan-tickets/baddobbach/721,11.90871,54.10732
-Hotel Forsthaus Damerow,Damerow,17459,NA,https://www.ticketmaster.de/venue/hotel-forsthaus-damerow-damerow-tickets/kosdamfors/721,13.98092,54.06152
-Anzeiger-Hochhaus,Hannover,30159,NA,https://www.ticketmaster.de/venue/anzeiger-hochhaus-hannover-tickets/hanschalte/706,9.73168,52.37703
-Schlosshof vom Schlosshof Weimar,Weimar,99423,NA,https://www.ticketmaster.de/venue/schlosshof-vom-schlosshof-weimar-weimar-tickets/shvstdweim/733,11.33168,50.98046
-MesseHalle Hamburg-Schnelsen,Hamburg,22457,NA,https://www.ticketmaster.de/venue/messehalle-hamburg-schnelsen-hamburg-tickets/hammesschn/701,9.92293,53.63801
-Hotel Schloß Gehrden,Brakel,33034,NA,https://www.ticketmaster.de/venue/hotel-schloss-gehrden-brakel-tickets/brageschlo/721,9.18262,51.71743
-Schloss Braunshardt,Weiterstadt,64331,NA,https://www.ticketmaster.de/venue/schloss-braunshardt-weiterstadt-tickets/weischlbra/721,8.56772,49.914790000000004
-Schloss Aulendorf,Aulendorf,88326,NA,https://www.ticketmaster.de/venue/schloss-aulendorf-aulendorf-tickets/auldschlad/721,9.63829,47.95405
-Gut Gremmelin,Lalendorf,18279,NA,https://www.ticketmaster.de/venue/gut-gremmelin-lalendorf-tickets/laldggremm/721,12.31598,53.79076
-Wall Arena - Kleinmesseplatz,Leipzig,4177,NA,https://www.ticketmaster.de/venue/wall-arena-kleinmesseplatz-leipzig-tickets/leicottawg/701,12.34195,51.34452
-Vorwerk Store Hamburg,Hamburg,20354,NA,https://www.ticketmaster.de/venue/vorwerk-store-hamburg-hamburg-tickets/hamvorwerk/704,9.9895,53.5548
-Gut Gremmelin,Teterow,18279,NA,https://www.ticketmaster.de/venue/gut-gremmelin-teterow-tickets/gremggre/721,12.57482,53.77525
-Wall Arena - Schwarzenbergplatz,Hamburg,21073,NA,https://www.ticketmaster.de/venue/wall-arena-schwarzenbergplatz-hamburg-tickets/hamschwzbg/701,9.97327,53.46303
-DESY HERA-Experimentierhalle,Hamburg,22607,NA,https://www.ticketmaster.de/venue/desy-hera-experimentierhalle-hamburg-tickets/hamherades/704,9.8813,53.57702
-Leuchtfeuer Lotsenhaus,Hamburg,22765,NA,https://www.ticketmaster.de/venue/leuchtfeuer-lotsenhaus-hamburg-tickets/hamleulots/704,9.93459,53.55011
-LandsEnd,Hamburg,20457,NA,https://www.ticketmaster.de/venue/landsend-hamburg-tickets/hamlandsen/704,10.00704,53.54453
-Augustinum (Theatersaal),Hamburg,22763,NA,https://www.ticketmaster.de/venue/augustinum-theatersaal--hamburg-tickets/hamauguthe/704,9.91661,53.54392
+Berliner Spreepark,Berlin,12437,Kiehnwerderallee 1-3,https://www.ticketmaster.de/venue/berliner-spreepark-berlin-tickets/berspreepa/701,13.49163,52.48357
+Domplatz,Havelberg,39539,Domplatz,https://www.ticketmaster.de/venue/domplatz-havelberg-tickets/havdomplat/721,12.07639,52.83264
+Münstergelände Bachgarten,Bad Doberan,18209,Klosterstraße,https://www.ticketmaster.de/venue/munstergelande-bachgarten-bad-doberan-tickets/baddobbach/721,11.90871,54.10732
+Hotel Forsthaus Damerow,Damerow,17459,Damerow,https://www.ticketmaster.de/venue/hotel-forsthaus-damerow-damerow-tickets/kosdamfors/721,13.98092,54.06152
+Anzeiger-Hochhaus,Hannover,30159,Goseriede 9,https://www.ticketmaster.de/venue/anzeiger-hochhaus-hannover-tickets/hanschalte/706,9.73168,52.37703
+Schlosshof vom Schlosshof Weimar,Weimar,99423,Burgstrasse 4,https://www.ticketmaster.de/venue/schlosshof-vom-schlosshof-weimar-weimar-tickets/shvstdweim/733,11.33168,50.98046
+MesseHalle Hamburg-Schnelsen,Hamburg,22457,Modering 1a,https://www.ticketmaster.de/venue/messehalle-hamburg-schnelsen-hamburg-tickets/hammesschn/701,9.92293,53.63801
+Hotel Schloß Gehrden,Brakel,33034,Schlosstraße 6,https://www.ticketmaster.de/venue/hotel-schloss-gehrden-brakel-tickets/brageschlo/721,9.18262,51.71743
+Schloss Braunshardt,Weiterstadt,64331,Schloßgartenstraße 2,https://www.ticketmaster.de/venue/schloss-braunshardt-weiterstadt-tickets/weischlbra/721,8.56772,49.914790000000004
+Schloss Aulendorf,Aulendorf,88326,Hauptstraße 35,https://www.ticketmaster.de/venue/schloss-aulendorf-aulendorf-tickets/auldschlad/721,9.63829,47.95405
+Gut Gremmelin,Lalendorf,18279,Am Hofsee 33,https://www.ticketmaster.de/venue/gut-gremmelin-lalendorf-tickets/laldggremm/721,12.31598,53.79076
+Wall Arena - Kleinmesseplatz,Leipzig,4177,Cottaweg,https://www.ticketmaster.de/venue/wall-arena-kleinmesseplatz-leipzig-tickets/leicottawg/701,12.34195,51.34452
+Vorwerk Store Hamburg,Hamburg,20354,Jungfernstieg 44,https://www.ticketmaster.de/venue/vorwerk-store-hamburg-hamburg-tickets/hamvorwerk/704,9.9895,53.5548
+Gut Gremmelin,Teterow,18279,Am Hofsee 33,https://www.ticketmaster.de/venue/gut-gremmelin-teterow-tickets/gremggre/721,12.57482,53.77525
+Wall Arena - Schwarzenbergplatz,Hamburg,21073,Schwarzenbergstraße,https://www.ticketmaster.de/venue/wall-arena-schwarzenbergplatz-hamburg-tickets/hamschwzbg/701,9.97327,53.46303
+DESY HERA-Experimentierhalle,Hamburg,22607,Notkestraße 85,https://www.ticketmaster.de/venue/desy-hera-experimentierhalle-hamburg-tickets/hamherades/704,9.8813,53.57702
+Leuchtfeuer Lotsenhaus,Hamburg,22765,Museumstraße 31,https://www.ticketmaster.de/venue/leuchtfeuer-lotsenhaus-hamburg-tickets/hamleulots/704,9.93459,53.55011
+LandsEnd,Hamburg,20457,Stockmeyerstraße 41,https://www.ticketmaster.de/venue/landsend-hamburg-tickets/hamlandsen/704,10.00704,53.54453
+Augustinum (Theatersaal),Hamburg,22763,Neumühlen 37,https://www.ticketmaster.de/venue/augustinum-theatersaal--hamburg-tickets/hamauguthe/704,9.91661,53.54392
 Theater Trier,Trier,54290,Am Augustinerhof,https://www.ticketmaster.de/venue/theater-trier-trier-tickets/tritheater/705,6.63318,49.75253
 Hamburg 1 Fernsehen,Hamburg,20148,"Rothenbaumchaussee 80c, Seiteneingang",https://www.ticketmaster.de/venue/hamburg-1-fernsehen-hamburg-tickets/hamhameins/704,9.99662,53.56758
 Gosch im Café Keese,Hamburg,20359,Reeperbahn 19-21,https://www.ticketmaster.de/venue/gosch-im-cafe-keese-hamburg-tickets/hamgoschck/704,9.96639,53.55014
@@ -11063,25 +11121,25 @@ Klosterkirche Guben,Guben,3172,Kirchstraße 3,https://www.ticketmaster.de/venue/
 Dorfkirche Cumlosen,Cumlosen,19322,Dorfplatz 1,https://www.ticketmaster.de/venue/dorfkirche-cumlosen-cumlosen-tickets/cumdorfki/719,11.65958,53.03161
 Schloss-Neuhaus Schloss-Innenhof,Paderborn,33104,Residenzstraße 2,https://www.ticketmaster.de/venue/schloss-neuhaus-schloss-innenhof-paderborn-tickets/padschloih/701,8.71228,51.7456
 HSV Champions League Auswärts,Hamburg,NA,NA,https://www.ticketmaster.de/venue/hsv-champions-league-auswarts-hamburg-tickets/hamhsvclau/712,NA,NA
-Wiesenhaus,Lutherstadt Eisleben,6295,NA,https://www.ticketmaster.de/venue/wiesenhaus-lutherstadt-eisleben-tickets/lslwiesenh/701,11.55805,51.52842
-Antoniushaus Regensburg,Regensburg,93053,NA,https://www.ticketmaster.de/venue/antoniushaus-regensburg-regensburg-tickets/regantoniu/705,12.10932,49.0081
-Tonhalle (Helmut-Hentrich-Saal),Düsseldorf,40479,NA,https://www.ticketmaster.de/venue/tonhalle-helmut-hentrich-saal--dusseldorf-tickets/dustonhelm/701,6.77219,51.23222
-Norisring,Nürnberg,90471,NA,https://www.ticketmaster.de/venue/norisring-nurnberg-tickets/nuenorisri/720,11.133,49.42714
-Gasteig (Kleiner Konzertsaal),Munich,81667,NA,https://www.ticketmaster.de/venue/gasteig-kleiner-konzertsaal--munchen-tickets/muegasteik/701,11.59047,48.13135
-Sportzentrum am Tierpark,Hamm,59063,NA,https://www.ticketmaster.de/venue/sportzentrum-am-tierpark-hamm-tickets/hmmsztpark/701,7.81867,51.66458
-Sportplatz BV05 Lünen,Lünen,44536,NA,https://www.ticketmaster.de/venue/sportplatz-bv05-lunen-lunen-tickets/lnesportpl/701,7.49481,51.61386
-Grieser Spitz,Regensburg,93059,NA,https://www.ticketmaster.de/venue/grieser-spitz-regensburg-tickets/reggriespi/701,12.10237,49.02437
-Altonaer Museum,Hamburg,22765,NA,https://www.ticketmaster.de/venue/altonaer-museum-hamburg-tickets/hamaltomus/701,9.93468,53.54895
-Asphalt Klub,Berlin,10117,NA,https://www.ticketmaster.de/venue/asphalt-klub-berlin-tickets/berasphalt/701,13.3928,52.51216
-H1 Club & Lounge,Hamburg,22089,NA,https://www.ticketmaster.de/venue/h1-club--lounge-hamburg-tickets/hamheinscl/701,10.03696,53.56437
-Westgermany,Berlin,10999,NA,https://www.ticketmaster.de/venue/westgermany-berlin-tickets/berwestger/701,13.4198,52.49929
-Messegelände Hannover,Hannover,30521,NA,https://www.ticketmaster.de/venue/messegelande-hannover-hannover-tickets/hanmesha25/728,9.73815,52.37227
-Congress Centrum (Simson Saal),Suhl,98527,NA,https://www.ticketmaster.de/venue/congress-centrum-simson-saal--suhl-tickets/suhcongrss/701,10.68746,50.60951
-Messegelände,Wächtersbach,63607,NA,https://www.ticketmaster.de/venue/messegelande-wachtersbach-tickets/waemessege/701,9.28773,50.24991
+Wiesenhaus,Lutherstadt Eisleben,6295,Lindenallee 32,https://www.ticketmaster.de/venue/wiesenhaus-lutherstadt-eisleben-tickets/lslwiesenh/701,11.55805,51.52842
+Antoniushaus Regensburg,Regensburg,93053,Mühlweg 13,https://www.ticketmaster.de/venue/antoniushaus-regensburg-regensburg-tickets/regantoniu/705,12.10932,49.0081
+Tonhalle (Helmut-Hentrich-Saal),Düsseldorf,40479,Ehrenhof 1,https://www.ticketmaster.de/venue/tonhalle-helmut-hentrich-saal--dusseldorf-tickets/dustonhelm/701,6.77219,51.23222
+Norisring,Nürnberg,90471,Beuthener Straße 41,https://www.ticketmaster.de/venue/norisring-nurnberg-tickets/nuenorisri/720,11.133,49.42714
+Gasteig (Kleiner Konzertsaal),Munich,81667,Rosenheimer Straße 5,https://www.ticketmaster.de/venue/gasteig-kleiner-konzertsaal--munchen-tickets/muegasteik/701,11.59047,48.13135
+Sportzentrum am Tierpark,Hamm,59063,Grünstraße 122,https://www.ticketmaster.de/venue/sportzentrum-am-tierpark-hamm-tickets/hmmsztpark/701,7.81867,51.66458
+Sportplatz BV05 Lünen,Lünen,44536,Moltkestraße 101,https://www.ticketmaster.de/venue/sportplatz-bv05-lunen-lunen-tickets/lnesportpl/701,7.49481,51.61386
+Grieser Spitz,Regensburg,93059,Am Gries,https://www.ticketmaster.de/venue/grieser-spitz-regensburg-tickets/reggriespi/701,12.10237,49.02437
+Altonaer Museum,Hamburg,22765,Museumstraße 23,https://www.ticketmaster.de/venue/altonaer-museum-hamburg-tickets/hamaltomus/701,9.93468,53.54895
+Asphalt Klub,Berlin,10117,Mohrenstraße 30,https://www.ticketmaster.de/venue/asphalt-klub-berlin-tickets/berasphalt/701,13.3928,52.51216
+H1 Club & Lounge,Hamburg,22089,Conventstraße 8-10c,https://www.ticketmaster.de/venue/h1-club--lounge-hamburg-tickets/hamheinscl/701,10.03696,53.56437
+Westgermany,Berlin,10999,Skalitzer Straße 133,https://www.ticketmaster.de/venue/westgermany-berlin-tickets/berwestger/701,13.4198,52.49929
+Messegelände Hannover,Hannover,30521,"Show-Arena, Halle 25",https://www.ticketmaster.de/venue/messegelande-hannover-hannover-tickets/hanmesha25/728,9.73815,52.37227
+Congress Centrum (Simson Saal),Suhl,98527,Friedrich-König-Straße 7,https://www.ticketmaster.de/venue/congress-centrum-simson-saal--suhl-tickets/suhcongrss/701,10.68746,50.60951
+Messegelände,Wächtersbach,63607,Main-Kinzig-Straße 31,https://www.ticketmaster.de/venue/messegelande-wachtersbach-tickets/waemessege/701,9.28773,50.24991
 LiveNation Merchandise Ltd.,Berlin,NA,NA,https://www.ticketmaster.de/venue/livenation-merchandise-ltd-berlin-tickets/livenation/701,13.37698,52.51607
 LiveNation Merchandise Ltd.,Berlin,NA,NA,https://www.ticketmaster.de/venue/livenation-merchandise-ltd-berlin-tickets/livenation/709,13.37698,52.51607
-Christuskirche,Hamburg,20259,NA,https://www.ticketmaster.de/venue/christuskirche-hamburg-tickets/hamchristk/701,9.96094,53.57019
-TROCADERO ZELTPALAST,Dresden,1069,NA,https://www.ticketmaster.de/venue/trocadero-zeltpalast-dresden-tickets/dretrocade/729,13.75501,51.04611
+Christuskirche,Hamburg,20259,Bei der Christuskirche 5,https://www.ticketmaster.de/venue/christuskirche-hamburg-tickets/hamchristk/701,9.96094,53.57019
+TROCADERO ZELTPALAST,Dresden,1069,Wiener Platz,https://www.ticketmaster.de/venue/trocadero-zeltpalast-dresden-tickets/dretrocade/729,13.75501,51.04611
 Einfache Bühne,Hamburg,22529,"Hochhaus Lenzsiedlung, Lenzweg 8",https://www.ticketmaster.de/venue/einfache-buhne-hamburg-tickets/hameinfbue/701,9.99247,53.55334
 Hamburger Garten,Hamburg,21000,Demoweg 13,https://www.ticketmaster.de/venue/hamburger-garten-hamburg-tickets/hamgarten/716,10.87214,51.75232
 Matthäuskirche,Munich,80336,Nußbaumstraße 1,https://www.ticketmaster.de/venue/matthauskirche-munchen-tickets/muemattki/704,11.5648,48.13318
@@ -12713,223 +12771,166 @@ Festhalle,Frankfurt (Oder),60327,Ludwig-Erhard-Anlage 1,https://www.ticketweb.co
 Mainwiesen Hanau,Hanau,63457,Josef Bautz Strasse,https://www.ticketweb.co.uk/venue/mainwiesen-hanau-hanau-tickets/mainwieufm/901,8.92805,50.11007
 Monarch Berlin,Berlin,10999,Skalitzer Straße 134,https://www.ticketweb.co.uk/venue/monarch-berlin-berlin-tickets/monarchjyn/901,13.4205,52.49927
 BorderShop (Svenska kunder),Puttgarden,23769,Neuer Skanavienkai,https://www.ticketmaster.se/venue/bordershop-svenska-kunder--puttgarden-biljetter/bop/632,0,0
-Hofbraeu-Festzelt,Munich,80336,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
-,,0,,,0,0
+Hofbraeu-Festzelt,Munich,80336,NA,NA,0,0
+Theater at Potsdamer Platz,Berlin,10785,Marlene-Dietrich-Platz 1,NA,0,0
+Tempodrom Berlin,Berlin,10963,M??ckernstra??e 10,NA,0,0
+Volksbank BraWo Immobilien GmbH,Braunschweig,38114,Bohlweg 8,NA,0,0
+Expo Plaza,Hanover,30539,30539 Hannover,NA,0,0
+Rothaushalle,Berlin,12559,88046 Friedrichshafen,NA,0,0
+Opel Arena,Mainz,55128,Eugen-Saloman-Strasse 1,NA,0,0
+Schleyerhalle,Stuttgart,70469,NA,NA,0,0
+TennisClub Weissenhof,Stuttgart,70192,"Parlerstrasse 102-110, Stuttgart, 70192",NA,0,0
+Berliner Philharmonie,Berlin,10785,"Herbert-von-Karajan-Stra??e 1, 10785 Berlin",NA,0,0
+Elbphilharmonie,Hamburg,20457,"Platz der Deutschen Einheit 1,",NA,0,0
+Leipziger Messe,Leipzig,4356,"Messe-allee 1, Neues Messegelande",NA,0,0
+Berlin State Opera,Berlin,10117,Unter den Linden,NA,0,0
+Bayreuth Festspielhaus,Bayreuth,95445,"Festspielhugel 1-2, 95445",NA,0,0
+Killesberg Park,Stuttgart,70174,Stuttgart,NA,0,0
+Amphitheater Gelsenkirchen,Gelsenkirchen,45883,Grothus St,NA,0,0
+Treptower Park,Berlin,12459,"Alt-Treptow, 12435 Berlin",NA,0,0
+Mehr! Theater,Hamburg,20097,"Banksstr 28, 20097 Hamburg, Germany",NA,0,0
+Batschkapp,Frankfurt,60388,Gwinnerstrauss 5,NA,0,0
+Stadthalle Offenbach,Mainz,63071,Offenbach,NA,0,0
+Docks - Hamburg,Hamburg,20359,"Spielbudenpl. 19, 20359 Hamburg, Germany",NA,0,0
+Bruchwegstadion,Mainz,55122,"Dr.-Martin-Luther-King-Weg, 55122",NA,0,0
+Jonathan-Heimes-Stadion am B??llenfalltor,darmstadt,64285,"Nieder-Ramst??dter Str, 170",NA,0,0
+Zitadelle Mainz,Mainz,55131,Windm??hlenstra??e,NA,0,0
+Palastzelt Am Mvv Reitstadion,Mannheim,68163,Xaver Fuhr Str. 101,NA,0,0
+Schlossplatz,Stuttgart,70173,Stuttgart,NA,0,0
+Volkspark,Mainz,55130,Gottelmannstr,NA,0,0
+Coface Arena,Mainz,55118,NA,NA,0,0
+Festspielhaus Baden-Baden,Baden-Baden,76530,Beim Alten Bahnhof 2,NA,0,0
+Red Bull Arena - Leipzig,Leipzig,4105,Am Sportforum 2,NA,0,0
+WWK Arena,Augsburg,86199,B??rgermeister-Ulrich-Stra??e 90,NA,0,0
+Schwarzwald-Stadion,Freiburg,79117,Schwarzwaldstra??e 193,NA,0,0
+Bowling Green ??? Germany,Wiesbaden,65199,Kurhausplatz 1,NA,0,0
+Konigsplatz Munchen,Munich,80333,NA,NA,0,0
+Jahnwiese,Munich,50933,"Junkersdorfer Stra??e,",NA,0,0
+Koln Palladium,Koln,51063,Schanzenstra??e 40,NA,0,0
+MICROFLEXVENUE,Berlin,NA,2505 Boulevard Laurier,https://www.ticketmaster.de/venue/microflexvenue-berlin-tickets/mfx705/705,13.40495,52.52001
+MICROFLEX VENUE,Hamburg,NA,2505 Boulevard Laurier,https://www.ticketmaster.de/venue/microflex-venue-hamburg-tickets/mfxvenue/701,NA,NA
+Zollhafen Mainz,Mainz,55118,Rheinallee 41,NA,0,0
+Warsteiner HockeyPark,Monchengladbach,41179,Am Hockeypark 1,NA,0,0
+Semperoper Dresden,Dresden,1067,Theaterplatz 2,NA,0,0
+Marktplatz Lorrach,Lorrach,79539,Bettinger Str,NA,0,0
+Golf Club Gut Larchenhof,Pulheim,50259,Hahn Strasse,NA,0,0
+Palladium Theater - Stuttgart,Stuttgart,70567,Plieninger Str. 109,NA,0,0
+Olympic Stadium - Munich,Munich,80809,Spiridon Louis Ring 21,NA,0,0
+Frankenstadion - Nurnberg,Nuremberg,90471,NA,NA,0,0
+Fritz Walter Stadion - Kaiserslautern,Kaiserslautern,67663,Fritz-Walter-Stra??e 1,NA,0,0
+Deutsche Bank Park,Frankfurt,60528,Flughafenstrabe 362,NA,0,0
+Stadion Munchen - Allianz Arena,Munich,80939,Wer-Heisenberg-Allee 25,NA,0,0
+Frankfurt Forest Stadium,"Frankfurt, Hesse",60001,Moerfelder Highway 362,NA,0,0
+Merkur Spiel Arena,D??sseldorf,40474,Arena strabe 1,NA,0,0
+Oberammergau Theatre,Oberammergau,82487,NA,NA,0,0
+Weserstadion,Bremen,28205,Franz-Bohmert-Str. 7,NA,0,0
+Volkswagen Arena,Wolfsburg,38165,In den Allerwiesen 1,NA,0,0
+Volksparkstadion,Hamburg,NA,Sylvester Allee 7,NA,0,0
+Zeppelinfeld - Nurnberg,"Nuremberg,",90471,"Kurt-Schmidtpeter-Weg 10, 90471",NA,0,0
+Mercedes-Benz Arena - Berlin,Berlin,10243,Platz 1,NA,0,0
+Congress Center - Hamburg,Hamburg,20355,Sankt Petersburger Stra??e 1,NA,0,0
+National Theatre-Munich,M??nchen,80539,Max-Joseph-Platz 2,NA,0,0
+Rhein Energie Stadion,Cologne,50606,Parkgurtel 24,NA,0,0
+Ruhrstadion,Bochum,4630,Am Stadion,NA,0,0
+Rudolf Harbig Stadion,Dresden,1067,Lennestrabe 12,NA,0,0
+PreZero Arena,Sinsheim,74889,Baden-Wurttemberg,NA,0,0
+BayArena,Leverkusen,51371,Bismarckstrake 122,NA,0,0
+Impuls Arena,Augsburg,86150,Burgermeister Ulrich-strasse 90,NA,0,0
+Apollo Theater - Stuttgart,Stuttgart,70567,Plieninger Str 102,NA,0,0
+Rathausplatz Gmunden,Gmunden,4810,NA,http://www.ticketmaster.de/search/?keyword=Rathausplatz+Gmunden,NA,NA
+Wiener Urania - Mittlerer Saal,Wien,1010,NA,http://www.ticketmaster.de/search/?keyword=Wiener+Urania+-+Mittlerer+Saal,NA,NA
+"Theater Wolfsburg, Großer Saal",Wolfsburg,38440,NA,http://www.ticketmaster.de/search/?keyword=Theater+Wolfsburg%2c+Gro%c3%9fer+Saal,NA,NA
+"Theater Wolfsburg, Hinterbühne",Wolfsburg,38440,NA,http://www.ticketmaster.de/search/?keyword=Theater+Wolfsburg%2c+Hinterb%c3%bchne,NA,NA
+"Theater Wolfsburg, Foyer",Wolfsburg,38440,NA,http://www.ticketmaster.de/search/?keyword=Theater+Wolfsburg%2c+Foyer,NA,NA
+Kulturhaus Lüdenscheid,Lüdenscheid,58511,NA,http://www.ticketmaster.de/search/?keyword=Kulturhaus+L%c3%bcdenscheid,NA,NA
+Marktplatz,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Marktplatz,NA,NA
+Auerbachs Keller,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Auerbachs+Keller,NA,NA
+Kath. Propstei St. Trinitatis Leipzig,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Kath.+Propstei+St.+Trinitatis+Leipzig,NA,NA
+Institu für Anatomie,Leipzig,4103,NA,http://www.ticketmaster.de/search/?keyword=Institu+f%c3%bcr+Anatomie,NA,NA
+St. Marien Kirche,Rötha,4571,NA,http://www.ticketmaster.de/search/?keyword=St.+Marien+Kirche,NA,NA
+Kaffeerösterei Elstermühle,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Kaffeer%c3%b6sterei+Elsterm%c3%bchle,NA,NA
+Altes Rathaus,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Altes+Rathaus,NA,NA
+Bach-Archiv Leipzig,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Bach-Archiv+Leipzig,NA,NA
+Paul-Gerhardt-Haus,Leipzig,4277,NA,http://www.ticketmaster.de/search/?keyword=Paul-Gerhardt-Haus,NA,NA
+Paulinum - Aula und Universitätskirche St. Pauli,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Paulinum+-+Aula+und+Universit%c3%a4tskirche+St.+Pauli,NA,NA
+Orgelfahrt,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Orgelfahrt,NA,NA
+Musikinstrumentenmuseum der Universität Leipzig,Leipzig,4103,NA,http://www.ticketmaster.de/search/?keyword=Musikinstrumentenmuseum+der+Universit%c3%a4t+Leipzig,NA,NA
+Zoo Leipzig,Leipzig,4105,NA,http://www.ticketmaster.de/search/?keyword=Zoo+Leipzig,NA,NA
+GRASSI Museum für Angewandte Kunst,Leipzig,4103,NA,http://www.ticketmaster.de/search/?keyword=GRASSI+Museum+f%c3%bcr+Angewandte+Kunst,NA,NA
+Sommersaal,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Sommersaal,NA,NA
+Kupfersaal,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Kupfersaal,NA,NA
+Bundesverwaltungsgericht,Leipzig,4107,NA,http://www.ticketmaster.de/search/?keyword=Bundesverwaltungsgericht,NA,NA
+Evangelisch Reformierte Kirche zu Leipzig,Leipzig,4105,NA,http://www.ticketmaster.de/search/?keyword=Evangelisch+Reformierte+Kirche+zu+Leipzig,NA,NA
+Salles de Pologne,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Salles+de+Pologne,NA,NA
+Alte Börse,Leipzig,4109,NA,http://www.ticketmaster.de/search/?keyword=Alte+B%c3%b6rse,NA,NA
+Glashaus Bayreuth,Bayreuth,95447,NA,NA,NA,NA
+Broadway - Cineplex Bayreuth,Bayreuth,95445,NA,http://www.ticketmaster.de/search/?keyword=Broadway+-+Cineplex+Bayreuth,NA,NA
+Petrikirche Kulmbach,Kulmbach,95326,NA,http://www.ticketmaster.de/search/?keyword=Petrikirche+Kulmbach,NA,NA
+Reichshof Kulturbühne,Bayreuth,95444,NA,http://www.ticketmaster.de/search/?keyword=Reichshof+Kulturb%c3%bchne,NA,NA
+Heinrich-von-Kleist-Forum,Hamm,59065,NA,http://www.ticketmaster.de/search/?keyword=Heinrich-von-Kleist-Forum,NA,NA
+Pfarrkirche St. Agnes,Hamm,59065,NA,http://www.ticketmaster.de/search/?keyword=Pfarrkirche+St.+Agnes,NA,NA
+Schloss Heessen,Hamm,59073,NA,http://www.ticketmaster.de/search/?keyword=Schloss+Heessen,NA,NA
+Schloss Oberwerries,Hamm,59073,NA,http://www.ticketmaster.de/search/?keyword=Schloss+Oberwerries,NA,NA
+Kulturbahnhof,Hamm,59065,NA,http://www.ticketmaster.de/search/?keyword=Kulturbahnhof,NA,NA
+Kulturbüro - VVK,Hamm,59071,NA,http://www.ticketmaster.de/search/?keyword=Kulturb%c3%bcro+-+VVK,NA,NA
+Pauluskirche Hamm,Hamm,59065,NA,http://www.ticketmaster.de/search/?keyword=Pauluskirche+Hamm,NA,NA
+Societaetstheater (Große Bühne),Dresden,1097,An der Dreikönigskirche 1a,https://www.ticketmaster.de/venue/societaetstheater-grosse-buhne--dresden-tickets/dresocieta/701,13.74281,51.06053
+TU Dresden (Hörsaalzentrum),Dresden,1069,Bergstraße 64,https://www.ticketmaster.de/venue/tu-dresden-horsaalzentrum--dresden-tickets/dretuhoers/701,13.73033,51.02881
+Alter Schlachthof (Gr. Saal),Dresden,1097,Gothaer Straße 11,https://www.ticketmaster.de/venue/alter-schlachthof-gr-saal--dresden-tickets/drealtschg/701,13.73257,51.06985
+Gemeindezentrum der Jüdischen Ge,Dresden,1067,Hasenberg 1,https://www.ticketmaster.de/venue/gemeindezentrum-der-judischen-ge-dresden-tickets/dregemeind/701,13.7464,51.05206
+Diverse Veranstaltungsstätten,Dresden,1067,NA,https://www.ticketmaster.de/venue/diverse-veranstaltungsstatten-dresden-tickets/derdiverse/701,13.72075,51.05972
+"Alter Reitplatz, REES-HALDERN(D)",Rees-Haldern,NA,NA,https://www.ticketmaster.nl/venue/alter-reitplatz-rees-haldern-d--rees-haldern-tickets/alter/105,6.45917,51.775
+Travel-Packages,Hockenheim,0,NA,https://www.travelcircus.de/bruce-springsteen-hockenheim?partner-referral=ef52392a09d4421b&utm_campaign=bruce-springsteen-hockenheim&utm_source=BruceSpringsteenHock&utm_medium=travelcircus-affiliate,NA,NA
+Travel-Packages,Düsseldorf,0,NA,https://www.travelcircus.de/depeche-mode-duesseldorf?partner-referral=846ff134c8aa323a&utm_campaign=depeche-mode-duesseldorf&utm_source=depechemodeDE&utm_medium=travelcircus-affiliate&locale=de_DE,NA,NA
+Travel-Package,Hamburg,0,NA,https://www.travelcircus.de/sabaton-hamburg?partner-referral=8dc39e8176f4a07e&utm_campaign=sabaton-hamburg&utm_source=Sabaton HH&utm_medium=travelcircus-affiliate20HH&utm_medium=travelcircus-affiliate,NA,NA
+Travel-Packages,München,0,NA,https://www.travelcircus.de/depeche-mode-muenchen?partner-referral=846ff134c8aa323a&utm_campaign=depeche-mode-muenchen&utm_source=depechemodeDE&utm_medium=travelcircus-affiliate&locale=de_DE,NA,NA
+Travel-Packages,Frankfurt am Main,0,NA,https://www.travelcircus.de/depeche-mode-frankfurt?partner-referral=846ff134c8aa323a&utm_campaign=depeche-mode-frankfurt&utm_source=depechemodeDE&utm_medium=travelcircus-affiliate&locale=de_DE,NA,NA
+SAP Arena,Mannheim,0,NA,https://www.travelcircus.de/night-of-the-jumps-mannheim?partner-referral=c91dec74f42b0222&utm_campaign=night-of-the-jumps-mannheim&utm_source=NoJumpMAN&utm_medium=travelcircus-affiliate,NA,NA
+Travel-Package,München,0,NA,https://ticketmaster.travelcircus.de/billy-idol-live-muenchen-2022?partner-referral=c397cc2e841282fa&utm_campaign=billy-idol-live-muenchen-2022&utm_source=BillyMUC&utm_medium=travelcircus-affiliate,NA,NA
+BERLIN,ZZZZZZZ,99999,.,http://www.ticketmaster.fr/fr/salle/voyage-4-a/idsite/625,NA,NA
+NE PAS UTILISER,TRIER,54292,FORTH WORTH-PLATZ,http://www.ticketmaster.fr/fr/salle/ne-pas-utiliser/idsite/14568,NA,NA
+FESTSPIELHAUS - BADEN-BADEN,BADEN-BADEN,76530,Beim Alten Bahnhof 2,http://www.ticketmaster.fr/fr/salle/festspielhaus-baden-baden/idsite/15692,NA,NA
+MESSEGELANDE SAARBRUCKEN,SAARBRÜCKEN,66113,SCHANZENBERGSTR,http://www.ticketmaster.fr/fr/salle/messegelande-saarbrucken/idsite/16980,NA,NA
+GELANDE AM FREIBAD,SAARWELLINGEN,66793,AM SCHWIMMBAD,http://www.ticketmaster.fr/fr/salle/gelande-am-freibad/idsite/16979,NA,NA
+PARC D'ATTRACTIONS FUNNY-WORLD,KAPPEL-GRAFENHAUSEN,77966,ALLMENDSTR.1,http://www.ticketmaster.fr/fr/salle/parc-d-attractions-funny-world/idsite/14415,NA,NA
+CIRCUIT SACHSENRING,HOHENSTEIN ERNSTTHAL,9337,.,http://www.ticketmaster.fr/fr/salle/circuit-sachsenring/idsite/14173,NA,NA
+HOLIDAY PARK,Hassloch,67454,Str 1-5,https://www.ticketmaster.fr/fr/salle/holiday-park/idsite/14131,NA,NA
+OPEN AIR – WEINGUT SIEGBERT BIMMERLE,RENCHEN,77871,CARL BENZ Strasse 25,http://www.ticketmaster.fr/fr/salle/open-air-weingut-siegbert-bimmerle/idsite/16319,NA,NA
+EUROPABAD KARLSRUHE,KARLSRUHE,76135,HERMANN-VEIT-STRASSE,http://www.ticketmaster.fr/fr/salle/europabad-karlsruhe/idsite/17319,NA,NA
+ROSSELTALHALLE,GROSSROSSELN,66352,LUDWEILERSTRASSE 134,http://www.ticketmaster.fr/fr/salle/rosseltalhalle/idsite/17321,NA,NA
+FURSTENBERG FESTIVALBUHNE AN DER MESSE,FREIBURG,79108,HERMANN-MITSCH-STR.3,https://www.ticketmaster.fr/fr/salle/messe-freiburg-halle-2/idsite/18162,NA,NA
+BERGMANNS ALM,LANDSWEILER REDEN,66578,BERGMANNS ALM,https://www.ticketmaster.fr/fr/salle/bergmanns-alm/idsite/18138,NA,NA
+STRANDBAD - LOSHEIM,LOSHEIM AM SEE,66679,ZUM STAUSEE,https://www.ticketmaster.fr/fr/salle/strandbad-losheim/idsite/17734,NA,NA
+LOKSCHUPPEN,Dillingen/saar Allemagne,66763,WERDERSTRASSE 4,https://www.ticketmaster.fr/fr/salle/lokschuppen/idsite/17715,NA,NA
+OPEN AIR,KEHL,77694,OPEN AIR GELANDE,http://www.ticketmaster.fr/fr/salle/open-air-kehl/idsite/12051,NA,NA
+CIRCUIT DU NURBURGRING,EIFEL,53520,.,http://www.ticketmaster.fr/fr/salle/circuit-du-nurburgring/idsite/11240,NA,NA
+EXIL,TRIER,54292,ZURMALENER STR. 114,http://www.ticketmaster.fr/fr/salle/exil-allemagne/idsite/12875,NA,NA
+FLUGPLATZ DES AEROCLUBS DINKELSBUHL,DINKELSBÜHL,91550,.,http://www.ticketmaster.fr/fr/salle/flugplatz-des-aeroclubs-dinkelsbuhl/idsite/12163,NA,NA
+KOLN - COLOGNE,COLOGNE,51149,.,http://www.ticketmaster.fr/fr/salle/koln-cologne/idsite/13184,NA,NA
+ZEPPELINFELD,NÜRNBERG,90425,.,http://www.ticketmaster.fr/fr/salle/zeppelinfeld/idsite/13183,NA,NA
+HOCKENHEIM CIRCUIT,HOCKENHEIM,0,BERTHA BENZ MEMORIAL ROUTE,http://www.ticketmaster.fr/fr/salle/hockenheim-circuit/idsite/13949,NA,NA
+MAIMARKTHALL,MANNHEIM,68163,.,http://www.ticketmaster.fr/fr/salle/maimarkthall/idsite/12062,NA,NA
+MECHANISCHE WORKSTATT,ST INGBERT,66386,SAARBRUCKER STRASSE,http://www.ticketmaster.fr/fr/salle/mechanische-workstatt-saarbruck/idsite/10964,NA,NA
+PAULUS SAAL - FREIBURG,FREIBURG,79098,.,http://www.ticketmaster.fr/fr/salle/paulus-saal-freiburg/idsite/11855,NA,NA
+"Festplatz Sauwasen, Kollerbach-puttlingen",SCHWARZENHOLZ,66793,am Frauenwald,http://www.ticketmaster.fr/fr/salle/festplatz-sauwasen-kollerbach-puttlingen/idsite/13523,NA,NA
+EUROPA PARK,Rust,77977,Europa-Park Strasse 2,https://www.ticketmaster.fr/fr/salle/europa-park/idsite/13345,NA,NA
+TENNIS CLUB WEISSENHOF - STUTTGART,STUTTGART,70192,PARLERSTRASSE 102-110,http://www.ticketmaster.fr/fr/salle/tennis-club-weissenhof-stuttgart/idsite/13658,NA,NA
+HILDESHEIM,HILDESHEIM,31137,.,http://www.ticketmaster.fr/fr/salle/hildesheim/idsite/9289,NA,NA
+PETIT CLUB,SAARBRUCKEN,66111,Rue Neugabchen -,http://www.ticketmaster.fr/fr/salle/petit-club-saarbrucken/idsite/9277,NA,NA
+SCHLESWIG HOLSTEIN,SCHLESWIG HOLSTEIN,21450,.,http://www.ticketmaster.fr/fr/salle/schleswig-holstein/idsite/9320,NA,NA
+EISENBAHNHALLE,Losheim,66679,STREIFSTR. 3A,https://www.ticketmaster.fr/fr/salle/eisenbahnhalle-losheim/idsite/9685,NA,NA
+GELANDE AM ZELTPALAST MERZIG,MERZIG,66663,SAARWIESENRING,http://www.ticketmaster.fr/fr/salle/gelande-am-zeltpalast-merzig/idsite/9222,NA,NA
+UNIVERSITE SAAREBRUCK,SAARBRUCKEN,66123,CAMPUS,http://www.ticketmaster.fr/fr/salle/universite-saarebruck/idsite/9887,NA,NA
+VORPLATZ CONGRESSHALLE,SARREBRUCK,66111,HAFENSTRASSE 12,https://www.ticketmaster.fr/fr/salle/vorplatz-congresshalle/idsite/8464,NA,NA
+SAAR-MOSEL-HALLE,KONZ,54329,HERMAN-RHEINHOLZ-STASSE,http://www.ticketmaster.fr/fr/salle/saar-mosel-halle-konz/idsite/8485,NA,NA
+STADTHALLE - DILLINGEN,Dillingen,66763,Pachtener Strasse 32,http://www.ticketmaster.fr/fr/salle/stadthalle-dillingen/idsite/8555,NA,NA
+ROXY,SAARBEÜCKEN,66121,BREBACHER LANDSTR. 15,http://www.ticketmaster.fr/fr/salle/roxy-saarbrucken/idsite/8814,NA,NA
+MESSEPARKHALLE TRIER,TRIER,54294,IN DEN MOSELAUEN,http://www.ticketmaster.fr/fr/salle/messeparkhalle-trier/idsite/8410,NA,NA
+SAARLANDHALLE SAARBRUCKEN,SAARBRÜCKEN,66113,An der Saarlandhalle 1,http://www.ticketmaster.fr/fr/salle/saarlandhalle-saarbrucken/idsite/3252,NA,NA
+KAISERTHERMEN,TRIER,54290,OPEN AIR,http://www.ticketmaster.fr/fr/salle/kaiserthermen-trier/idsite/3640,NA,NA
+E-WERK,SAARBRUECKEN,66115,AUF DEN SAARTERRASSEN,http://www.ticketmaster.fr/fr/salle/e-werk-saarbrucken/idsite/3878,NA,NA
+GARAGE,SARREBRUCK/SARRE,66111,BLEICHSTR 11-15,http://www.ticketmaster.fr/fr/salle/garage-saarbrucken/idsite/3879,NA,NA
+EVENTGELANDE STAUSEE,LOSHEIM AM SEE,66679,Zum Stausee,http://www.ticketmaster.fr/fr/salle/eventgelande-stausee/idsite/8099,NA,NA
+ARENA de TRIER - ALLEMAGNE,TRIER,54292,FORTH WORTH-PLATZ 1D,http://www.ticketmaster.fr/fr/salle/arena-de-trier-allemagne/idsite/7408,NA,NA
+VHS-ZENTRUM - Chateau de Sarrebuck,SARREBRUCK/SARRE,66111,AM SCHLOSS,http://www.ticketmaster.fr/fr/salle/vhs-zentrum-chateau-de-sarrebuck/idsite/7359,NA,NA
+IKS-WERKSTATT,GOTTELBORN,66287,ZUM SCHACHT 3,http://www.ticketmaster.fr/fr/salle/iks-werkstatt/idsite/7358,NA,NA

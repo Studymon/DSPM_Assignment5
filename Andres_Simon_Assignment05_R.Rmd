@@ -174,11 +174,23 @@ data frame. Print the first 10 rows and the shape of the resulting data frame.
 # frame is exported at the end of this code chunk once
 # Then the chunk is muted
 
+# re-do first request
+first400Venues <- GET("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                     query = list(
+                        apikey = tm_key,
+                       "countryCode" = "DE",
+                       "locale" = "*",
+                       "size" = 400)
+                   )
+
+# make unicode readable
+first400Venues <- content(first400Venues)
+
 # store number of total results in n
-n <- firstVenues[["page"]]$totalElements
+n <- first400Venues[["page"]]$totalElements
 
 # store number of pages in n_pages
-n_pages <- firstVenues[["page"]]$totalPages
+n_pages <- first400Venues[["page"]]$totalPages
 
 # initiate df collecting all venues in Germany
 venuesGER <- tibble(
@@ -206,6 +218,7 @@ for (i in 1:n_pages) {
                         apikey = tm_key,
                        "countryCode" = "DE",
                        "locale" = "*",
+                       "size" = 400,
                        "page" = i-1)
                    )
   # check the status code
@@ -238,12 +251,16 @@ for (i in 1:n_pages) {
     venuesGER[x,4] <-
       ifelse(
         "address" %in% names(tempResults[["_embedded"]][["venues"]][[j]]) &
+          !is.null(tempResults[["_embedded"]][["venues"]][[j]]$address$line1) &
           tempResults[["_embedded"]][["venues"]][[1]]$address %>% unlist() %>% is.character(),
         tempResults[["_embedded"]][["venues"]][[j]]$address %>% unlist(),
         NA
       )
     # url
-    venuesGER[x,5] <- tempResults[["_embedded"]][["venues"]][[j]]$url
+    venuesGER[x,5] <-
+      ifelse("url" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
+             tempResults[["_embedded"]][["venues"]][[j]]$url,
+             NA)
     
     # longitude and latitude is missing for many venues, so give NA accordingly
     if("location" %in% names(tempResults[["_embedded"]][["venues"]][[j]])) {
@@ -266,13 +283,17 @@ write_csv(venuesGER, "./venuesGER.csv")
 
 ```
 
-We are losing about 220 rows out of the 12934 (~1.7%). This is partially due to the three faulty pages accounting for 60 lost observations. The rest is missing at the end. Multiple observations threw errors due to missing values/empty lists. Instead of making the loop more complicated, I opted for leaving the rest out, as these are relatively few observations compared to the total number.
-
 ```{r, warning = FALSE, message = FALSE}
 # read in the previously exported venuesGER data
 venuesGER <- read_csv("./venuesGER.csv")
 
 ```
+
+```{r, warning = FALSE, message = FALSE}
+head(venuesGER)
+```
+
+The data frame is filled with it 12,935 observations, missing properties were successfully marked with NAs.
 
 ***
 
@@ -303,7 +324,7 @@ venuesGER$latitude[faulty_coordinates] <- NA
 is.na(venuesGER$longitude) %>% sum()
 ```
 
-We removed 247 observations with faulty coordinates
+We removed 89 (4496 - 4407) observations with faulty coordinates
 
 ```{r}
 # adjust plot (add points and format)
@@ -333,7 +354,8 @@ firstVenues_DK <- GET("https://app.ticketmaster.com/discovery/v2/venues.json?",
                      query = list(
                         apikey = tm_key,
                        "countryCode" = "DK",
-                       "locale" = "*")
+                       "locale" = "*",
+                       "size" = 400)
                    )
 
 # make unicode readable
@@ -359,7 +381,7 @@ x = 1
 faultyPages <- 0
 
 # Loop
-for (i in 1:n_pages_DK) {
+for (i in 1:n_pages) {
   
   # enforce rate limit
   Sys.sleep(0.2)
@@ -370,6 +392,7 @@ for (i in 1:n_pages_DK) {
                         apikey = tm_key,
                        "countryCode" = "DK",
                        "locale" = "*",
+                       "size" = 400,
                        "page" = i-1)
                    )
   # check the status code
@@ -386,35 +409,32 @@ for (i in 1:n_pages_DK) {
   tempResults <- content(tempResults)
   
   for (j in 1:tempResults[["page"]]$size) {
-    
     # name
     venuesDK[x,1] <- tempResults[["_embedded"]][["venues"]][[j]]$name
-    
     # city
     venuesDK[x,2] <-
       ifelse("city" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
              tempResults[["_embedded"]][["venues"]][[j]]$city %>% unlist(),
              NA) 
-    
     # postal code (missing for some --> NA)
     venuesDK[x,3] <-
       ifelse("postalCode" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
              tempResults[["_embedded"]][["venues"]][[j]]$postalCode %>% as.double(),
-             NA) 
-    
+             NA)    
     # address (missing for some --> NA)
     venuesDK[x,4] <-
       ifelse(
         "address" %in% names(tempResults[["_embedded"]][["venues"]][[j]]) &
+          !is.null(tempResults[["_embedded"]][["venues"]][[j]]$address$line1) &
           tempResults[["_embedded"]][["venues"]][[1]]$address %>% unlist() %>% is.character(),
         tempResults[["_embedded"]][["venues"]][[j]]$address %>% unlist(),
         NA
       )
-    
     # url
-    ifelse("url" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
-           venuesDK[x,5] <- tempResults[["_embedded"]][["venues"]][[j]]$url,
-           venuesDK[x,5] <- NA)
+    venuesDK[x,5] <-
+      ifelse("url" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
+             tempResults[["_embedded"]][["venues"]][[j]]$url,
+             NA)
     
     # longitude and latitude is missing for many venues, so give NA accordingly
     if("location" %in% names(tempResults[["_embedded"]][["venues"]][[j]])) {
@@ -432,14 +452,10 @@ for (i in 1:n_pages_DK) {
   
 }
 
-# 5 faulty pages
-
 # Export
 write_csv(venuesDK, "./venuesDK.csv")
-```
 
-We lose 4484 - 4340 = 144 rows (3.2%).
-100 missing rows are due to faulty pages (faultyPages = 5)
+```
 
 ```{r, warning = FALSE, message = FALSE}
 # read in the previously exported venuesDK data
@@ -466,7 +482,7 @@ venuesDK$latitude[faulty_coordinatesDK] <- NA
 is.na(venuesDK$longitude) %>% sum()
 ```
 
-We removed 177 observations with faulty coordinates
+We removed 38 (39 - 1) observations with faulty coordinates
 
 ```{r}
 # adjust plot (add points and format)
