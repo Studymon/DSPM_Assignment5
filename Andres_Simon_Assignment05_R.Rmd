@@ -261,12 +261,17 @@ for (i in 1:n_pages) {
   
 }
 
+# We are losing a bit over 200 rows out of the 12934. This is partially due to
+# the three faulty rows ()
+
 # Export
 write_csv(venuesGER, "./venuesGER.csv")
 
 ```
 
-``` {r}
+We are losing about 220 rows out of the 12934 (~1.7%). This is partially due to the three faulty pages accounting for 60 lost observations. The rest is missing at the end. Multiple observations threw errors due to missing values/empty lists. Instead of making the loop more complicated, I opted for leaving the rest out, as these are relatively few observations compared to the total number.
+
+```{r, warning = FALSE, message = FALSE}
 # read in the previously exported venuesGER data
 venuesGER <- read_csv("./venuesGER.csv")
 
@@ -277,11 +282,43 @@ venuesGER <- read_csv("./venuesGER.csv")
 ### Visualizing the extracted data
 
 <div class="alert alert-block alert-info">
-10. 
+10./11. Below, you can find code that produces a map of Germany. Add points to the map indicating the
+locations of the event venues across Germany.
 </div>
 
 ```{r}
+# NA count prior
+is.na(venuesGER$longitude) %>% sum()
 
+```
+
+
+```{r}
+# first, give the faulty coordinates NA's
+faulty_coordinates <- venuesGER$longitude < 5.866 | venuesGER$longitude > 15.042 |
+                      venuesGER$latitude < 47.270 | venuesGER$latitude > 55.059
+
+# set invalid coordinates to NA
+venuesGER$longitude[faulty_coordinates] <- NA
+venuesGER$latitude[faulty_coordinates] <- NA
+
+# NA count after
+is.na(venuesGER$longitude) %>% sum()
+```
+
+We removed 247 observations with faulty coordinates
+
+```{r}
+# adjust plot (add points and format)
+ggplot() +
+  borders("world", "Germany", colour = "black", fill = "grey90") +
+  theme_void() +
+  coord_quickmap() +
+  geom_point(data = venuesGER, aes(x = longitude, y = latitude), color = "red", shape = 21, size = 1, alpha = 0.5) +
+  labs(title = "Event locations across Germany",
+       caption = "Source: ticketmaster.com") +
+  theme(title = element_text(size=8, face='bold'),
+        plot.caption = element_text(face = "italic"))
 ```
 
 ***
