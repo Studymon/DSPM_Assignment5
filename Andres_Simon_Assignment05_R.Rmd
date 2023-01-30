@@ -169,18 +169,10 @@ perform `GET` requests for all venues in Germany. After each iteration, extract 
 data frame. Print the first 10 rows and the shape of the resulting data frame.
 </div>
 
-```{r}
-# make first request
-firstVenues <- GET("https://app.ticketmaster.com/discovery/v2/venues.json?",
-                     query = list(
-                        apikey = tm_key,
-                       "countryCode" = "DE",
-                       "locale" = "*",
-                       "page" = 177)
-                   )
-
-# make unicode readable
-firstVenues <- content(firstVenues)
+```{r, eval=FALSE}
+# As it is really inefficient to do the GET request over and over, the data
+# frame is exported at the end of this code chunk once
+# Then the chunk is muted
 
 # store number of total results in n
 n <- firstVenues[["page"]]$totalElements
@@ -244,9 +236,12 @@ for (i in 1:n_pages) {
              NA)    
     # address (missing for some --> NA)
     venuesGER[x,4] <-
-      ifelse("address" %in% names(tempResults[["_embedded"]][["venues"]][[j]]),
-             tempResults[["_embedded"]][["venues"]][[j]]$address %>% unlist(),
-             NA)
+      ifelse(
+        "address" %in% names(tempResults[["_embedded"]][["venues"]][[j]]) &
+          tempResults[["_embedded"]][["venues"]][[1]]$address %>% unlist() %>% is.character(),
+        tempResults[["_embedded"]][["venues"]][[j]]$address %>% unlist(),
+        NA
+      )
     # url
     venuesGER[x,5] <- tempResults[["_embedded"]][["venues"]][[j]]$url
     
@@ -265,8 +260,17 @@ for (i in 1:n_pages) {
   }
   
 }
+
+# Export
+write_csv(venuesGER, "./venuesGER.csv")
+
 ```
 
+``` {r}
+# read in the previously exported venuesGER data
+venuesGER <- read_csv("./venuesGER.csv")
+
+```
 
 ***
 
