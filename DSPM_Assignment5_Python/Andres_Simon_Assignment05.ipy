@@ -213,13 +213,156 @@ gdf.plot(ax=ax, marker='^', color='red', markersize=10)
 ax.set_aspect(1.5)  # counter distortion
 ax.set_title("Event Venues in Germany")
 plt.show()
+# Overall, the hotspots seem plausible (Cologne/Berlin/Hamburg/Stuttgart/Munich)
+# However, the venues look a bit scarce. Again, possibly too many observations were dropped
 
 
 # (12) Repeat (09) - (11) for another European Country (my choice: Denmark) ---
 
 
+# Advanced GET request ---------------------------------------------------
+
+# make single request
+firstVenues_DK = requests.get("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                           params = {"apikey": tm_key,
+                                     "countryCode": "DK",
+                                     "locale": "*",
+                                     "size": 400}).json()
+
+# store number of total results in n
+n_DK = firstVenues_DK["page"]["totalElements"]
+
+# store number of pages in n_pages
+n_perPage_DK = firstVenues_DK["page"]["size"]
+
+# store number of pages in n_pages
+n_pages_DK = firstVenues_DK["page"]["totalPages"]
 
 
+# initiate df collecting all venues in Germany
+venuesDK = pd.DataFrame(columns=["name", "city", "postalCode", "address", "url", "longitude", "latitude"],
+                         index=range(n_DK))
+
+# initiate row counter
+row = 0
+
+# loop over all results pages
+for i in range(n_pages_DK):
+    
+    # enforce rate limit
+    time.sleep(0.2)
+    
+    # store results of each page temporarily
+    tempResults = requests.get("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                               params = {"apikey": tm_key,
+                                         "countryCode": "DK",
+                                         "locale": "*",
+                                         "size": 400}).json()
+    
+    try:
+        # ease of notation again
+        tempVenues = tempResults["_embedded"]["venues"]
+    
+        # loop over all venues on page
+        for j, venue in enumerate(tempVenues):
+            try:
+                venuesDK.iloc[row, 0] = venue["name"]
+            except KeyError:
+                venuesDK.iloc[row, 0] = np.nan
+            try:
+                venuesDK.iloc[row, 1] = venue["city"]["name"]
+            except KeyError:
+                venuesDK.iloc[row, 1] = np.nan
+            try:
+                venuesDK.iloc[row, 2] = venue["postalCode"]
+            except KeyError:
+                venuesDK.iloc[row, 2] = np.nan
+            try:
+                venuesDK.iloc[row, 3] = venue["address"]["line1"]
+            except KeyError:
+                venuesDK.iloc[row, 3] = np.nan
+            try:
+                venuesDK.iloc[row, 4] = venue["url"]
+            except KeyError:
+                venuesDK.iloc[row, 4] = np.nan
+            try:
+                venuesDK.iloc[row, 5] = venue["location"]["longitude"]
+            except KeyError:
+                venuesDK.iloc[row, 5] = np.nan
+            try:
+                venuesDK.iloc[row, 6] = venue["location"]["latitude"]
+            except KeyError:
+                venuesDK.iloc[row, 6] = np.nan
+            row += 1
+            
+    except KeyError:
+        pass
+
+
+# reset index of data frame
+venuesDK.reset_index(drop=True, inplace=True)
+
+# export so the data doesn't have to be requested every time
+venuesDK.to_csv("venuesDK_py.csv", index=False)
+
+# import previously exported venuesDK data
+venuesDK = pd.read_csv("venuesDK_py.csv")
+
+# look at the top of the df
+venuesDK.head(30)
+# looks good
+
+
+# Visualization Denmark --------------------------------------------------
+
+
+# 1. Remove lat/long values outside of range
+
+# NaN count before
+venuesDK["longitude"].isnull().sum()
+
+# set the ranges for Denmark
+longitude_rangeDK = (8.0725, 15.1972)
+latitude_rangeDK = (54.5833, 57.7525)
+
+# for Denmark there are long/lat values stored as strings, so we convert
+venuesDK['longitude'] = pd.to_numeric(venuesDK['longitude'])
+venuesDK['latitude'] = pd.to_numeric(venuesDK['latitude'])
+
+# identify rows outside the range and get their index
+out_longitudeDK = (venuesDK['longitude'] < longitude_rangeDK[0]) | (venuesDK['longitude'] > longitude_rangeDK[1])
+out_latitudeDK = (venuesDK['latitude'] < latitude_rangeDK[0]) | (venuesDK['latitude'] > latitude_rangeDK[1])
+out_rangeDK = out_longitudeDK | out_latitudeDK
+
+# set the values outside of range to NaN
+venuesDK.loc[out_rangeDK, 'longitude'] = np.nan
+venuesDK.loc[out_rangeDK, 'latitude'] = np.nan
+
+venuesDK["longitude"].isnull().sum()
+# we removed 11 of 4486 observations
+
+
+# 2. Create the map
+
+# get a base map of Germany
+map = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
+denmark = map[map.name == "Denmark"]
+
+# create a GeoDataFrame from our long- and latitude data
+geometry = [Point(xy) for xy in zip(venuesDK['longitude'], venuesDK['latitude'])]  # zip() combines long + lat to tuples
+gdf = gpd.GeoDataFrame(venuesDK, geometry=geometry)
+
+# plot the map
+fig, ax = plt.subplots(figsize=(11, 7))
+denmark.plot(ax = ax, color='white', edgecolor='black', linewidth=1)
+gdf.plot(ax=ax, marker='^', color='red', markersize=10)
+
+ax.set_aspect(1.5)  # counter distortion
+ax.set_title("Event Venues in Denmark")
+plt.show()
+# the map isn't doing a great job of depicting Denmark, there is basically a
+# piece of land missing. Though for the rest the locations seem relatively plausible
+# e.g. a lot of venues in and around Kopenhagen
 
 
 
