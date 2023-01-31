@@ -167,10 +167,35 @@ venuesGER.head(30)
 # looks good
 
 
-# (10) Visualization Germany --------------------------------------------------
+# (10) + (11) Visualization Germany -------------------------------------------
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from shapely.geometry import Point
+
+# 1. Remove lat/long values outside of range
+
+# NaN count before
+venuesGER["longitude"].isnull().sum()
+
+# set the ranges for Germany
+longitude_rangeGER = (5.866, 15.042)
+latitude_rangeGER = (47.270, 55.059)
+
+# identify rows outside the range and get their index
+out_longitudeGER = (venuesGER['longitude'] < longitude_rangeGER[0]) | (venuesGER['longitude'] > longitude_rangeGER[1])
+out_latitudeGER = (venuesGER['latitude'] < latitude_rangeGER[0]) | (venuesGER['latitude'] > latitude_rangeGER[1])
+out_rangeGER = out_longitudeGER | out_latitudeGER
+
+# set the values outside of range to NaN
+venuesGER.loc[out_rangeGER, 'longitude'] = np.nan
+venuesGER.loc[out_rangeGER, 'latitude'] = np.nan
+
+venuesGER["longitude"].isnull().sum()
+# we removed no additional observations
+# potentially, the KeyError removal approach was rather restrictive
+
+
+# 2. Create the map
 
 # get a base map of Germany
 map = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
@@ -190,10 +215,7 @@ ax.set_title("Event Venues in Germany")
 plt.show()
 
 
-# (11) Remove lat/long values outside bounds
-
-
-# (13) Repeat (09) - (11) for another European Country (my choice: Denmark) ---
+# (12) Repeat (09) - (11) for another European Country (my choice: Denmark) ---
 
 
 
