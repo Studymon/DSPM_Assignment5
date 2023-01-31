@@ -1,5 +1,11 @@
-# Ignore files containing API keys (stored in subdirectory)
+# Ignore files containing API keys R (stored in subdirectory)
 api_keys/
+
+# Ignore files containing API keys Python (stored in subdirectory)
+DSPM_Assignment5_Python/api_keys_py
+
+# Ignore Python project config
+.spyproject
 
 # History files
 .Rhistory
