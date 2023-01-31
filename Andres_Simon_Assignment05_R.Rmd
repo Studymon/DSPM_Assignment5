@@ -11,11 +11,17 @@ output:
 options(scipen=999)
 ```
 
+Note: I worked together with Christopher Forschner and Janik Müller (exchanged some ideas)
+
 ***
 
-### GitHub repository
+### Setting up a new GitHub repository
 
-(1) - (4) The GitHub setup was done, all steps of this project are documented in my repository, follow this link: https://github.com/Studymon/DSPM_Assignment5
+<div class="alert alert-block alert-info">
+1./2./3./4. GitHub setup: registration, initializing repository, documentation of process
+</div>
+
+The GitHub setup was done, all steps of this project are documented in my repository, follow this link: https://github.com/Studymon/DSPM_Assignment5
 
 
 ***
@@ -40,7 +46,7 @@ tutorial: Treat the API key as a **secret** token. Your API key should neither a
 are submitting nor in your public GitHub repository.
 </div>
 
-To comply with the common secrecy practices, the key was stored in a separate script that is stored in a subfolder `api_keys` excluded from syncing with the GitHub repository through the .gitignore file.
+To comply with the common secrecy practices, the key was stored in a separate script that is stored in a subfolder `api_keys` excluded from syncing with the GitHub repository through the `.gitignore` file.
 
 ```{r, warning = FALSE, message = FALSE}
 # Preparation
@@ -79,28 +85,28 @@ firstVenues <- GET("https://app.ticketmaster.com/discovery/v2/venues.json?",
 # make unicode readable
 firstVenues <- content(firstVenues)
 
-# the first 20 results (first page) are stored in the "venues" list within the
-# "_embedded" list of the content
 summary(firstVenues)
 ```
 
-Our request from the ticketmaster API contains three lists: `_embedded`, `_links`, and `page`
+Our request from the ticketmaster API contains three lists: `_embedded`, `_links`, and `page`.
+
+First, we'll look at the page structure:
 
 ```{r}
-# first, we'll look at the page structure
 firstVenues[["page"]]
 ```
 
-We see that for our request there is a total of 12934 elements. However, our specific request only yields the first 20 results, as that is the default number of search results per page for the ticketmaster API. Thus, there are 647 pages in total. The first page index is zero.
+We see that for our request there is a total of `r firstVenues[["page"]]$totalElements` elements. However, our specific request only yields the first `r firstVenues[["page"]]$size` results, as that is the default number of search results per page for the ticketmaster API. Thus, there are `r firstVenues[["page"]]$totalPages` pages in total. The first page index is zero.
 
 ```{r}
 summary(firstVenues[["_embedded"]])
 ```
 
-We see that the list `_embedded` contains the list `venues`, which contains information about a total of 20 venues as expected
+We see that the list `_embedded` contains the list `venues`, which contains information about a total of 20 venues, the first 20 results (first page).
+
+Now, we'll look at what information we get on the first element:
 
 ```{r}
-# looking at what information we get on the first element
 str(firstVenues[["_embedded"]][["venues"]][[1]])
 ```
 
@@ -148,11 +154,10 @@ for (i in 1:n_perPage){
   firstVenues_df[i,7] <- firstVenues[["_embedded"]][["venues"]][[i]]$location$latitude %>% as.double()
 }
 
-as.data.frame(t(firstVenues_df))
-
+firstVenues_df
 ```
 
-&rarr; The dataframe looks as intended. There is one row for each entry (i.e. each venue), so 20 in total, and 7 columns for the venue properties we wanted to extract. Note that (only for displaying the data frame here) it was transposed.
+&rarr; The dataframe looks as intended. There is one row for each entry (i.e. each venue), so 20 in total, and 7 columns for the venue properties we wanted to extract.
 
 ***
 
@@ -326,18 +331,21 @@ is.na(venuesGER$longitude) %>% sum()
 
 We removed 89 (4496 - 4407) observations with faulty coordinates
 
-```{r}
+```{r, warning = FALSE}
 # adjust plot (add points and format)
 ggplot() +
   borders("world", "Germany", colour = "black", fill = "grey90") +
   theme_void() +
   coord_quickmap() +
   geom_point(data = venuesGER, aes(x = longitude, y = latitude), color = "red", shape = 21, size = 1, alpha = 0.5) +
-  labs(title = "Event locations across Germany",
+  labs(title = "Event venue locations across Germany",
        caption = "Source: ticketmaster.com") +
   theme(title = element_text(size=8, face='bold'),
         plot.caption = element_text(face = "italic"))
 ```
+
+
+&rarr; The map looks as expected, we see more venues at more populated areas (e.g.: Cologne/Berlin/Hamburg/Stuttgart/Munich)
 
 ***
 
@@ -482,17 +490,20 @@ venuesDK$latitude[faulty_coordinatesDK] <- NA
 is.na(venuesDK$longitude) %>% sum()
 ```
 
-We removed 38 (39 - 1) observations with faulty coordinates.
+We removed no additional observations for Denmark.
 
-```{r}
+```{r, warning = FALSE}
 # adjust plot (add points and format)
 ggplot() +
   borders("world", "Denmark", colour = "black", fill = "grey90") +
   theme_void() +
   coord_quickmap() +
   geom_point(data = venuesDK, aes(x = longitude, y = latitude), color = "red", shape = 21, size = 1, alpha = 0.5) +
-  labs(title = "Event locations across Denmark",
+  labs(title = "Event venue locations across Denmark",
        caption = "Source: ticketmaster.com") +
   theme(title = element_text(size=8, face='bold'),
         plot.caption = element_text(face = "italic"))
 ```
+
+
+&rarr; The map looks as expected, we see more venues at more populated areas (e.g.: Kopenhagen in the east)
