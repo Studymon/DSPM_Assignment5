@@ -167,13 +167,33 @@ venuesGER.head(30)
 # looks good
 
 
-# (10) + (11) Visualization Germany -------------------------------------------
+# (10) Visualization Germany --------------------------------------------------
+import geopandas as gpd
+import matplotlib.pyplot as plt
+from shapely.geometry import Point
+
+# get a base map of Germany
+map = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
+germany = map[map.name == "Germany"]
+
+# create a GeoDataFrame from our long- and latitude data
+geometry = [Point(xy) for xy in zip(venuesGER['longitude'], venuesGER['latitude'])]  # zip() combines long + lat to tuples
+gdf = gpd.GeoDataFrame(venuesGER, geometry=geometry)
+
+# plot the map
+fig, ax = plt.subplots(figsize=(11, 7))
+germany.plot(ax = ax, color='white', edgecolor='black', linewidth=1)
+gdf.plot(ax=ax, marker='^', color='red', markersize=10)
+
+ax.set_aspect(1.5)  # counter distortion
+ax.set_title("Event Venues in Germany")
+plt.show()
+
+
+# (11) Remove lat/long values outside bounds
 
 
 # (13) Repeat (09) - (11) for another European Country (my choice: Denmark) ---
-
-
-
 
 
 
