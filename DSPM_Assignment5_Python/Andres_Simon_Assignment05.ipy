@@ -54,7 +54,7 @@ firstVenues_df = pd.DataFrame(columns=["name",
                               index=range(n_perPage))
 
 
-for i, venue in enumerate(onlyVenues):
+for i, venue in enumerate(onlyVenues):  # enumerate to extract index(i) + value
     name = venue["name"]
     city = venue["city"]["name"]
     postalCode = venue["postalCode"]
@@ -62,7 +62,8 @@ for i, venue in enumerate(onlyVenues):
     url = venue["url"]
     longitude = venue["location"]["longitude"]
     latitude = venue["location"]["latitude"]
-
+    
+    # assign collected values to df by index i
     firstVenues_df.iloc[i] = [name, city, postalCode, address, url, longitude, latitude]
     
     
@@ -72,15 +73,104 @@ print(firstVenues_df)
 
 # (09) Advanced GET request ---------------------------------------------------
 
+# re-do first request with more results per page (400)
+firstVenues = requests.get("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                           params = {"apikey": tm_key,
+                                     "countryCode": "DE",
+                                     "locale": "*",
+                                     "size": 400}).json()
+
+# store number of total results in n
+n = firstVenues["page"]["totalElements"]
+
+# store number of pages in n_pages
+n_perPage = firstVenues["page"]["size"]
+
+# store number of pages in n_pages
+n_pages = firstVenues["page"]["totalPages"]
+
+
+# initiate df collecting all venues in Germany
+venuesGER = pd.DataFrame(columns=["name", "city", "postalCode", "address", "url", "longitude", "latitude"],
+                         index=range(n))
+
+# initiate row counter
+row = 0
+
+# loop over all results pages
+for i in range(n_pages):
+    
+    # enforce rate limit
+    time.sleep(0.2)
+    
+    # store results of each page temporarily
+    tempResults = requests.get("https://app.ticketmaster.com/discovery/v2/venues.json?",
+                               params = {"apikey": tm_key,
+                                         "countryCode": "DE",
+                                         "locale": "*",
+                                         "size": 400}).json()
+    
+    try:
+        # ease of notation again
+        tempVenues = tempResults["_embedded"]["venues"]
+    
+        # loop over all venues on page
+        for j, venue in enumerate(tempVenues):
+            try:
+                venuesGER.iloc[row, 0] = venue["name"]
+            except KeyError:
+                venuesGER.iloc[row, 0] = np.nan
+            try:
+                venuesGER.iloc[row, 1] = venue["city"]["name"]
+            except KeyError:
+                venuesGER.iloc[row, 1] = np.nan
+            try:
+                venuesGER.iloc[row, 2] = venue["postalCode"]
+            except KeyError:
+                venuesGER.iloc[row, 2] = np.nan
+            try:
+                venuesGER.iloc[row, 3] = venue["address"]["line1"]
+            except KeyError:
+                venuesGER.iloc[row, 3] = np.nan
+            try:
+                venuesGER.iloc[row, 4] = venue["url"]
+            except KeyError:
+                venuesGER.iloc[row, 4] = np.nan
+            try:
+                venuesGER.iloc[row, 5] = venue["location"]["longitude"]
+            except KeyError:
+                venuesGER.iloc[row, 5] = np.nan
+            try:
+                venuesGER.iloc[row, 6] = venue["location"]["latitude"]
+            except KeyError:
+                venuesGER.iloc[row, 6] = np.nan
+            row += 1
+            
+    except KeyError:
+        pass
+
+# I use try-except blocks to catch KeyErrors and fill the missing values with NaN's
+# Sometimes there was also an KeyError: `_embedded`, so I wrapped a try-except block around this section, too      
+
+
+# reset index of data frame
+venuesGER.reset_index(drop=True, inplace=True)
+
+# export so the data doesn't have to be requested every time
+venuesGER.to_csv("venuesGER_py.csv", index=False)
+
+# import previously exported venuesGER data
+venuesGER = pd.read_csv("venuesGER_py.csv")
+
+# look at the top of the df
+venuesGER.head(30)
+# looks good
+
 
 # (10) + (11) Visualization Germany -------------------------------------------
 
 
 # (13) Repeat (09) - (11) for another European Country (my choice: Denmark) ---
-
-
-
-
 
 
 
